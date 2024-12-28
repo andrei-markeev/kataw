@@ -145,7 +145,7 @@ import {
 export function visitEachChild(
   transform: Transform,
   node: SyntaxNode,
-  visitor: (node: SyntaxNode | null) => SyntaxKind | null
+  visitor: (node: SyntaxNode | null) => SyntaxNode | null
 ): SyntaxNode | null {
   if (!node) return null;
 
@@ -1773,7 +1773,7 @@ export function visitNode<T extends SyntaxNode>(
   return visitedNode;
 }
 
-export function visitNodes<T extends Node>(nodes: any | undefined, visitor: any, start?: number, count?: number): any {
+export function visitNodes(nodes: any | undefined, visitor: any, start?: number, count?: number): any {
   if (nodes === null || visitor === null) {
     return nodes;
   }

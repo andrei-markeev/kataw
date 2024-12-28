@@ -1,6 +1,5 @@
 // code below is auto-generated from diagnosticsMessages.json by scripts/build-diagnostics
 
-/* @internal */
 export const enum DiagnosticCode {
   Unexpected_token = 1,
   _let_is_a_restricted_production_at_the_start_of_a_statement = 2,

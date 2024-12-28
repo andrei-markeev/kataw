@@ -8,7 +8,7 @@ function makeKey(text) {
   return text.replace(/[^\w]+/g, '_').replace(/_+$/, '');
 }
 
-sb.push('/* @internal */\nexport const enum DiagnosticCode {\n');
+sb.push('export const enum DiagnosticCode {\n');
 
 var first = true;
 Object.keys(messages).forEach((text) => {

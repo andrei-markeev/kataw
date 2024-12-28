@@ -1,5 +1,5 @@
 import { RootNode } from '../ast/root-node';
-import { NodeFlags, SyntaxKind } from '../ast/syntax-node';
+import { NodeFlags, SyntaxKind, SyntaxNode } from '../ast/syntax-node';
 import { createToken } from '../ast/token';
 import { StatementNode } from '../ast/statements';
 import { VariableDeclaration, createVariableDeclaration } from '../ast/statements/variable-declaration';
@@ -38,7 +38,6 @@ export function createTransform(): Transform {
   };
 }
 
-/* @internal */
 export const enum LexicalEnvironmentFlags {
   None = 0,
   InParameters = 1 << 0,
@@ -78,7 +77,7 @@ export function some<T>(array: readonly T[] | undefined, predicate?: (value: T) 
   return false;
 }
 
-export function extractSingleNode(nodes: any[]): Node {
+export function extractSingleNode<T extends SyntaxNode>(nodes: T[]): T {
   return singleOrUndefined(nodes);
 }
 
