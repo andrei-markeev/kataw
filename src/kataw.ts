@@ -80,7 +80,7 @@ export { createArgumentList, ArgumentList } from './ast/expressions/argument-lis
 export { createFunctionBody, FunctionBody } from './ast/expressions/function-body';
 export { createFunctionExpression, FunctionExpression } from './ast/expressions/function-expr';
 export { createFunctionStatementList, FunctionStatementList } from './ast/expressions/function-stmt-list';
-export { createFormalParameterList, FormalParameterList } from './ast/expressions/formal-parameter-list';
+export { createFormalParameterList, FormalParameterList, FormalParameter } from './ast/expressions/formal-parameter-list';
 export { createElison, Elison } from './ast/expressions/elison';
 export { createBindingElementList, BindingElementList } from './ast/expressions/binding-element-list';
 export { createBindingElement, BindingElement } from './ast/expressions/binding-element';

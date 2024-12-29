@@ -2495,7 +2495,7 @@ function parseIndexExpression(
   return createIndexExpression(
     member,
     parsePropertyOrPrivatePropertyName(parser, context),
-    member.flags | NodeFlags.ExpressionNode,
+    (member.flags & ~NodeFlags.NoChildren) | NodeFlags.ExpressionNode,
     pos,
     parser.curPos
   );

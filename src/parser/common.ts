@@ -3,6 +3,10 @@ import { TokenSyntaxKind, createToken, SyntaxToken } from '../ast/token';
 import { nextToken } from './scanner/scanner';
 import { DiagnosticSource, DiagnosticKind } from '../diagnostic/diagnostic';
 import { DiagnosticCode, diagnosticMap } from '../diagnostic/diagnostic-code';
+import { Identifier } from '../ast/expressions/identifier-expr';
+import { ExpressionNode } from 'ast/expressions';
+import { StatementNode } from 'ast/statements';
+import { TypeNode } from 'ast/types';
 
 export const enum Tristate {
   False, // There *cannot* be a parenthesized arrow function here.
@@ -393,15 +397,15 @@ export function isCaseOrDefaultClause(t: SyntaxKind): boolean {
   return t === SyntaxKind.DefaultKeyword || t === SyntaxKind.CaseKeyword;
 }
 
-export function isTypeNode(node: SyntaxNode): boolean {
+export function isTypeNode(node: SyntaxNode): node is TypeNode {
   return (node.flags & NodeFlags.IsTypeNode) === NodeFlags.IsTypeNode;
 }
 
-export function isStatementNode(node: SyntaxNode): boolean {
+export function isStatementNode(node: SyntaxNode): node is StatementNode {
   return (node.flags & NodeFlags.IsStatement) === NodeFlags.IsStatement;
 }
 
-export function isExpressionNode(node: SyntaxNode): boolean {
+export function isExpressionNode(node: SyntaxNode): node is ExpressionNode {
   return (node.flags & NodeFlags.ExpressionNode) === NodeFlags.ExpressionNode;
 }
 
@@ -477,7 +481,7 @@ export function isStatementStart(node: SyntaxNode): boolean {
   return (node.kind & SyntaxKind.IsStatementStart) === SyntaxKind.IsStatementStart;
 }
 
-export function isIdentifier(node: SyntaxNode): boolean {
+export function isIdentifier(node: SyntaxNode): node is Identifier {
   return (node.kind & SyntaxKind.IsIdentifier) === SyntaxKind.IsIdentifier;
 }
 

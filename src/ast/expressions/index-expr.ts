@@ -1,14 +1,16 @@
 import { SyntaxNode, SyntaxKind, NodeFlags, TransformFlags } from '../syntax-node';
 import { ExpressionNode } from '.';
+import { Identifier } from './identifier-expr';
+import { PrivateIdentifier } from './private-identifier';
 
 export interface IndexExpression extends SyntaxNode {
   readonly member: ExpressionNode;
-  readonly expression: ExpressionNode;
+  readonly expression: Identifier | PrivateIdentifier;
 }
 
 export function createIndexExpression(
   member: ExpressionNode,
-  expression: ExpressionNode,
+  expression: Identifier | PrivateIdentifier,
   flags: NodeFlags,
   start: number,
   end: number
