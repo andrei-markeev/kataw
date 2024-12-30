@@ -206,11 +206,11 @@ export function scanTemplateSpan(parser: ParserState, context: Context, source: 
                   DiagnosticSource.Lexer,
                   DiagnosticKind.Error,
                   diagnosticMap[
-                    TemplateEscape.StrictOctal
+                    code === TemplateEscape.StrictOctal
                       ? DiagnosticCode.Octal_escape_sequences_are_not_allowed_in_template_literal
-                      : TemplateEscape.EightOrNine
+                      : code === TemplateEscape.EightOrNine
                       ? DiagnosticCode.Escapes_8_or_9_are_not_syntactically_valid_escapes
-                      : TemplateEscape.InvalidHex
+                      : code === TemplateEscape.InvalidHex
                       ? DiagnosticCode.Invalid_hexadecimal_escape_sequence
                       : DiagnosticCode.Unicode_codepoint_must_not_be_greater_than_0x10FFFF
                   ],

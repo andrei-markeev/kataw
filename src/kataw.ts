@@ -23,6 +23,7 @@ export { createEmptyStatement, EmptyStatement } from './ast/statements/empty-stm
 export { createForInStatement, ForInStatement } from './ast/statements/for-in-stmt';
 export { createForOfStatement, ForOfStatement } from './ast/statements/for-of-stmt';
 export { createForStatement, ForStatement } from './ast/statements/for-stmt';
+export { createForBinding, ForBinding } from './ast/statements/for-binding';
 export { createIfStatement, IfStatement } from './ast/statements/if-stmt';
 export { createReturnStatement, ReturnStatement } from './ast/statements/return-stmt';
 export { createSwitchStatement, SwitchStatement } from './ast/statements/switch-stmt';
@@ -52,6 +53,7 @@ export { createTaggedTemplate, TaggedTemplate } from './ast/expressions/tagged-t
 export { createAwaitExpression, AwaitExpression } from './ast/expressions/await-expr';
 export { createObjectLiteral, ObjectLiteral } from './ast/expressions/object-literal';
 export { createPropertyDefinition, PropertyDefinition } from './ast/expressions/property-definition';
+export { createPropertyDefinitionList, PropertyDefinitionList } from './ast/expressions/property-definition-list';
 export { createPropertyMethod, PropertyMethod } from './ast/expressions/property-method';
 export { createSpreadProperty, SpreadProperty } from './ast/expressions/spread-property';
 export { createCoverInitializedName, CoverInitializedName } from './ast/expressions/cover-initialized-name';
@@ -149,6 +151,8 @@ export { getLeadingComments, getTrailingComments } from './parser/scanner/commen
 export { visitEachChild, visitNodes, visitNode } from './visitor';
 export { createUniqueIdentifier, UniqueIdentifier } from './ast/internal/unique-identifier';
 export { createTransform, Transform } from './transform/core';
+export { ExpressionNode } from './ast/expressions';
+export { StatementNode } from './ast/statements';
 export { fuzzModule, fuzzScript } from './fuzzer/';
 export { aladdin } from './diagnostic/reporters/aladdin';
 export { eslint } from './diagnostic/reporters/eslint';

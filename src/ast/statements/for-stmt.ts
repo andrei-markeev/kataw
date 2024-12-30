@@ -3,14 +3,15 @@ import { SyntaxToken, TokenSyntaxKind } from '../token';
 import { StatementNode } from '.';
 import { ExpressionNode } from '../expressions/index';
 import { BindingList } from './binding-list';
-import { VariableDeclarationList } from './variable-declarationList';
+import { ForBinding } from './for-binding';
+import { LexicalDeclaration } from './lexical-declaration';
 
 /**
  * Represents a `for` statement
  */
 export interface ForStatement extends SyntaxNode {
   readonly forKeyword: SyntaxToken<TokenSyntaxKind>;
-  readonly initializer: ExpressionNode | VariableDeclarationList | BindingList | null;
+  readonly initializer: ExpressionNode | ForBinding | LexicalDeclaration | null;
   readonly condition: ExpressionNode | null;
   readonly incrementor: ExpressionNode | null;
   readonly statement: StatementNode;
@@ -18,7 +19,7 @@ export interface ForStatement extends SyntaxNode {
 
 export function createForStatement(
   forKeyword: SyntaxToken<TokenSyntaxKind>,
-  initializer: ExpressionNode | VariableDeclarationList | BindingList | null,
+  initializer: ExpressionNode | ForBinding | LexicalDeclaration | null,
   condition: ExpressionNode | null,
   incrementor: ExpressionNode | null,
   statement: StatementNode,

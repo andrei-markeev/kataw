@@ -607,7 +607,7 @@ function parseSwitchStatement(
       labels,
       ownLabels
     ),
-    (switchToken.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+    (switchToken.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
     pos,
     parser.curPos
   );
@@ -835,7 +835,7 @@ function parseCatchClause(parser: ParserState, context: Context, scope: ScopeSta
     catchToken,
     catchParameter,
     parseBlockStatement(parser, context, scope, labels, null),
-    (catchToken.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+    (catchToken.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
     pos,
     parser.curPos
   );
@@ -967,7 +967,7 @@ function parseIfStatement(parser: ParserState, context: Context, scope: ScopeSta
     consequent,
     elseKeyword,
     elseKeyword ? parseConsequentOrAlternative(parser, context, scope, labels) : null,
-    (ifKeyword.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+    (ifKeyword.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
     pos,
     parser.curPos
   );
@@ -1142,7 +1142,7 @@ function parseWhileStatement(
       labels,
       ownLabels
     ),
-    (whileToken.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+    (whileToken.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
     pos,
     parser.curPos
   );
@@ -1194,7 +1194,7 @@ function parseDoWhileStatement(
     expression,
     whileKeyword,
     statement,
-    (doKeyword.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+    (doKeyword.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
     pos,
     parser.curPos
   );
@@ -1246,7 +1246,7 @@ function parseWithStatement(
       labels,
       ownLabels
     ),
-    (withKeyword.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+    (withKeyword.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
     pos,
     parser.curPos
   );
@@ -1267,7 +1267,7 @@ function parseThrowStatement(parser: ParserState, context: Context): ThrowStatem
   }
   const expression = parseExpressionCoverGrammar(parser, context);
   parseSemicolon(parser, context);
-  return createThrowStatement(throwKeyword, expression, throwKeyword.flags, pos, parser.curPos);
+  return createThrowStatement(throwKeyword, expression, throwKeyword.flags & (~NodeFlags.NoChildren), pos, parser.curPos);
 }
 
 // ReturnStatement :
@@ -1295,7 +1295,7 @@ function parseReturnStatement(parser: ParserState, context: Context): ReturnStat
       ? null
       : parseExpressionCoverGrammar(parser, context);
   parseSemicolon(parser, context);
-  return createReturnStatement(returnToken, expression, returnToken.flags, pos, parser.curPos);
+  return createReturnStatement(returnToken, expression, returnToken.flags & (~NodeFlags.NoChildren), pos, parser.curPos);
 }
 
 export function parseLabelledStatement(
@@ -1582,7 +1582,7 @@ function parseForStatement(
         /* ownLabels */ null
       ),
       awaitKeyword,
-      (forKeyword.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+      (forKeyword.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
       pos,
       parser.curPos
     );
@@ -1667,7 +1667,7 @@ function parseForStatement(
       initializer as any,
       expression,
       statement,
-      (forKeyword.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+      (forKeyword.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
       pos,
       parser.curPos
     );
@@ -1716,8 +1716,8 @@ function parseForStatement(
   return createForStatement(
     forKeyword,
     initializer as any,
-    incrementor,
     condition,
+    incrementor,
     parseIterationStatement(
       parser,
       (context | 0b00000000100000000001000010000000) ^ 0b00000000100000000000000010000000,
@@ -1726,7 +1726,7 @@ function parseForStatement(
       labels,
       /* ownLabels */ null
     ),
-    (forKeyword.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+    (forKeyword.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
     pos,
     parser.curPos
   );
@@ -2205,7 +2205,7 @@ function parseBinaryExpression(
         t,
         parser.curPos
       ),
-      flags | left.flags | NodeFlags.ExpressionNode,
+      flags | left.flags & (~NodeFlags.NoChildren) | NodeFlags.ExpressionNode,
       pos,
       parser.curPos
     );
@@ -3775,7 +3775,7 @@ function parseNewExpression(parser: ParserState, context: Context): NewTarget | 
     newToken,
     expression,
     parser.token === SyntaxKind.LeftParen ? parseArguments(parser, context) : null,
-    (newToken.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+    (newToken.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
     pos,
     parser.curPos
   );
@@ -6759,7 +6759,7 @@ function parseFunctionStatementList(
             flags & Constants.IsEscaped
               ? DiagnosticCode._0_cannot_contain_escape_characters
               : DiagnosticCode._0_cannot_be_used_as_an_identifier_here,
-            tokenToString(firstRestricted)
+            tokenToString(firstRestricted as SyntaxKind.EvalIdentifier | SyntaxKind.ArgumentsIdentifier)
           );
         }
       }
@@ -7057,7 +7057,7 @@ function parseImportDeclaration(
       /* fromClause */ null,
       moduleSpecifier,
       /* importClause */ null,
-      (importToken.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+      (importToken.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
       pos,
       parser.curPos
     );
@@ -7193,7 +7193,7 @@ function parseImportDeclaration(
     fromClause,
     /* moduleSpecifier */ null,
     importClause,
-    (importToken.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+    (importToken.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
     pos,
     parser.curPos
   );
@@ -7434,7 +7434,7 @@ function parseExportDeclaration(
     fromClause as any,
     exportFromClause,
     exportKind,
-    (exportToken.flags | Constants.IsEscaped) ^ Constants.IsEscaped,
+    (exportToken.flags & (~NodeFlags.NoChildren) | Constants.IsEscaped) ^ Constants.IsEscaped,
     pos,
     parser.curPos
   );

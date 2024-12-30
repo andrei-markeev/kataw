@@ -18,7 +18,9 @@ export type TokenSyntaxKind =
   | SyntaxKind.RightBracket
   | SyntaxKind.LeftParen
   | SyntaxKind.LogicalOr
+  | SyntaxKind.LogicalOrAssign
   | SyntaxKind.LogicalAnd
+  | SyntaxKind.LogicalAndAssign
   | SyntaxKind.RightParen
   | SyntaxKind.Decrement
   | SyntaxKind.UnknownToken
@@ -36,21 +38,37 @@ export type TokenSyntaxKind =
   | SyntaxKind.ImplementsKeyword
   | SyntaxKind.FromKeyword
   | SyntaxKind.Add
+  | SyntaxKind.AddAssign
   | SyntaxKind.Subtract
+  | SyntaxKind.SubtractAssign
   | SyntaxKind.EvalIdentifier
   | SyntaxKind.ArgumentsIdentifier
   | SyntaxKind.ConstKeyword
   | SyntaxKind.TypeofKeyword
+  | SyntaxKind.TypeofType
   | SyntaxKind.VoidKeyword
   | SyntaxKind.GetKeyword
   | SyntaxKind.SetKeyword
+  | SyntaxKind.ContinueKeyword
+  | SyntaxKind.EnumKeyword
+  | SyntaxKind.InstanceofKeyword
+  | SyntaxKind.NewTarget
+  | SyntaxKind.PackageKeyword
+  | SyntaxKind.PrivateKeyword
+  | SyntaxKind.ProtectedKeyword
+  | SyntaxKind.Exponentiate
+  | SyntaxKind.ExponentiateAssign
+  | SyntaxKind.PublicKeyword
+  | SyntaxKind.ConstructorKeyword
   | SyntaxKind.Comma
   | SyntaxKind.Multiply
+  | SyntaxKind.MultiplyAssign
   | SyntaxKind.YieldKeyword
   | SyntaxKind.Period
   | SyntaxKind.ExtendsKeyword
   | SyntaxKind.QuestionMarkPeriod
   | SyntaxKind.QuestionMarkQuestionMark
+  | SyntaxKind.CoalesceAssign
   | SyntaxKind.NumericLiteral
   | SyntaxKind.StaticKeyword
   | SyntaxKind.StringLiteral
@@ -72,9 +90,15 @@ export type TokenSyntaxKind =
   | SyntaxKind.UndefinedKeyword
   | SyntaxKind.UnknownKeyword
   | SyntaxKind.LessThan
+  | SyntaxKind.LessThanOrEqual
   | SyntaxKind.GreaterThan
+  | SyntaxKind.GreaterThanOrEqual
   | SyntaxKind.BitwiseOr
+  | SyntaxKind.BitwiseOrAssign
   | SyntaxKind.BitwiseAnd
+  | SyntaxKind.BitwiseAndAssign
+  | SyntaxKind.BitwiseXor
+  | SyntaxKind.BitwiseXorAssign
   | SyntaxKind.FalseKeyword
   | SyntaxKind.Arrow
   | SyntaxKind.Ellipsis
@@ -118,15 +142,21 @@ export type TokenSyntaxKind =
   | SyntaxKind.SymbolKeyword
   | SyntaxKind.RegularExpression
   | SyntaxKind.Multiply
+  | SyntaxKind.MultiplyAssign
   | SyntaxKind.AsyncKeyword
   | SyntaxKind.Modulo
+  | SyntaxKind.ModuloAssign
   | SyntaxKind.Divide
+  | SyntaxKind.DivideAssign
   | SyntaxKind.StrictEqual
   | SyntaxKind.LooseNotEqual
   | SyntaxKind.StrictNotEqual
   | SyntaxKind.ShiftRight
+  | SyntaxKind.ShiftRightAssign
   | SyntaxKind.LogicalShiftRight
+  | SyntaxKind.LogicalShiftRightAssign
   | SyntaxKind.ShiftLeft
+  | SyntaxKind.ShiftLeftAssign
   | SyntaxKind.Identifier;
 
 export function createToken<T extends TokenSyntaxKind>(

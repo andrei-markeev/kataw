@@ -1,3 +1,5 @@
+import type { TokenSyntaxKind } from "kataw";
+
 /**
  * The base type of all types which represent some kind of syntax.
  */
@@ -7,6 +9,7 @@ export interface SyntaxNode {
   transformFlags: TransformFlags;
   start: number;
   end: number;
+  parent?: SyntaxNode;
 }
 
 // DO NOT EDIT THIS CONSTANTS UNLESS YOU KNOW WHAT YOU ARE DOING!!!
@@ -431,7 +434,7 @@ export enum SyntaxKind {
   ObjectKeyword = 134234474
 }
 
-export function tokenToString(node: any): string {
+export function tokenToString(node: TokenSyntaxKind): string {
   switch (node) {
     case SyntaxKind.ObjectKeyword:
       return 'object';
