@@ -4,9 +4,9 @@ import { nextToken } from './scanner/scanner';
 import { DiagnosticSource, DiagnosticKind } from '../diagnostic/diagnostic';
 import { DiagnosticCode, diagnosticMap } from '../diagnostic/diagnostic-code';
 import { Identifier } from '../ast/expressions/identifier-expr';
-import { ExpressionNode } from 'ast/expressions';
-import { StatementNode } from 'ast/statements';
-import { TypeNode } from 'ast/types';
+import { ExpressionNode } from '../ast/expressions';
+import { StatementNode } from '../ast/statements';
+import { TypeNode } from '../ast/types';
 
 export const enum Tristate {
   False, // There *cannot* be a parenthesized arrow function here.

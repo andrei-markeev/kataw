@@ -2,13 +2,13 @@ import { SyntaxNode, SyntaxKind, NodeFlags, TransformFlags } from '../syntax-nod
 import { SyntaxToken, TokenSyntaxKind } from '../token';
 import { StatementNode } from '.';
 import { ExpressionNode } from '../expressions/index';
-import { BindingList } from './binding-list';
-import { VariableDeclarationList } from './variable-declarationList';
+import { ForBinding } from './for-binding';
+import { LexicalDeclaration } from './lexical-declaration';
 
 export interface ForOfStatement extends SyntaxNode {
   readonly forKeyword: SyntaxToken<TokenSyntaxKind>;
   readonly awaitKeyword: SyntaxToken<TokenSyntaxKind> | null;
-  readonly initializer: VariableDeclarationList | BindingList | ExpressionNode | null;
+  readonly initializer: ExpressionNode | ForBinding | LexicalDeclaration | null;
   readonly ofKeyword: SyntaxToken<TokenSyntaxKind>;
   readonly expression: ExpressionNode;
   readonly statement: StatementNode;
@@ -21,7 +21,7 @@ export interface ForOfStatement extends SyntaxNode {
 export function createForOfStatement(
   forKeyword: SyntaxToken<TokenSyntaxKind>,
   ofKeyword: SyntaxToken<TokenSyntaxKind>,
-  initializer: VariableDeclarationList | BindingList | ExpressionNode | null,
+  initializer: ExpressionNode | ForBinding | LexicalDeclaration | null,
   expression: ExpressionNode,
   statement: StatementNode,
   awaitKeyword: SyntaxToken<TokenSyntaxKind> | null,

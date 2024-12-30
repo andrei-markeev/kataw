@@ -1063,6 +1063,7 @@ export function visitEachChild(
         visitNode((<FunctionDeclaration>node).declareKeyword, visitor) ||
         (<FunctionDeclaration>node).asyncKeyword !== visitNode((<FunctionDeclaration>node).asyncKeyword, visitor) ||
         (<FunctionDeclaration>node).asteriskToken !== visitNode((<FunctionDeclaration>node).asteriskToken, visitor) ||
+        (<FunctionDeclaration>node).name !== visitNode((<FunctionDeclaration>node).name, visitor) ||
         (<FunctionDeclaration>node).formalParameterList !==
           visitNode((<FunctionDeclaration>node).formalParameterList, visitor) ||
         (<FunctionDeclaration>node).contents !==

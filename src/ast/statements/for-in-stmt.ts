@@ -2,15 +2,15 @@ import { SyntaxNode, SyntaxKind, NodeFlags, TransformFlags } from '../syntax-nod
 import { SyntaxToken, TokenSyntaxKind } from '../token';
 import { StatementNode } from '.';
 import { ExpressionNode } from '../expressions/index';
-import { BindingList } from './binding-list';
-import { VariableDeclarationList } from './variable-declarationList';
+import { ForBinding } from './for-binding';
+import { LexicalDeclaration } from './lexical-declaration';
 
 /**
  * For-in statement.
  */
 export interface ForInStatement extends SyntaxNode {
   readonly forKeyword: SyntaxToken<TokenSyntaxKind>;
-  readonly initializer: VariableDeclarationList | BindingList | ExpressionNode | null;
+  readonly initializer: ExpressionNode | ForBinding | LexicalDeclaration | null;
   readonly inKeyword: SyntaxToken<TokenSyntaxKind>;
   readonly expression: ExpressionNode;
   readonly statement: StatementNode;
@@ -19,7 +19,7 @@ export interface ForInStatement extends SyntaxNode {
 export function createForInStatement(
   forKeyword: SyntaxToken<TokenSyntaxKind>,
   inKeyword: SyntaxToken<TokenSyntaxKind>,
-  initializer: VariableDeclarationList | BindingList | ExpressionNode | null,
+  initializer: ExpressionNode | ForBinding | LexicalDeclaration | null,
   expression: ExpressionNode,
   statement: StatementNode,
   flags: NodeFlags,

@@ -1,4 +1,4 @@
-import type { TokenSyntaxKind } from "kataw";
+import type { TokenSyntaxKind } from "./token";
 
 /**
  * The base type of all types which represent some kind of syntax.
@@ -561,7 +561,7 @@ export function tokenToString(node: TokenSyntaxKind): string {
     case SyntaxKind.InstanceofKeyword:
       return 'instanceof';
     case SyntaxKind.LessThan:
-      return ' <';
+      return '<';
     case SyntaxKind.LessThanOrEqual:
       return '<=';
     case SyntaxKind.LetKeyword:

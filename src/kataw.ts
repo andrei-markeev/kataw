@@ -4,7 +4,7 @@ import { PrinterOptions } from './printer';
 import { Context, OnError } from './parser/common';
 import { RootNode } from './ast/root-node';
 import { printSource } from './printer';
-export { SyntaxKind, SyntaxNode } from './ast/syntax-node';
+export { SyntaxKind, SyntaxNode, tokenToString } from './ast/syntax-node';
 export { NodeFlags } from './ast/syntax-node';
 export { TokenSyntaxKind, createToken, SyntaxToken } from './ast/token';
 export { createBlockStatement, BlockStatement } from './ast/statements/block-stmt';
