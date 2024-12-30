@@ -71,7 +71,7 @@ s = {s: new}
                                         "end": 11
                                     },
                                     "argumentList": null,
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2048,
                                     "start": 7,
                                     "end": 11

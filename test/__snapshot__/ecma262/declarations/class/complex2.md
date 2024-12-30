@@ -297,7 +297,7 @@ class C2<X, Y> {
                                                             "start": 60,
                                                             "end": 61
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 50,
                                                         "end": 61
@@ -380,7 +380,7 @@ class C2<X, Y> {
                                                                             "start": 98,
                                                                             "end": 105
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 92,
                                                                         "end": 105
@@ -399,7 +399,7 @@ class C2<X, Y> {
                                                                     "start": 92,
                                                                     "end": 107
                                                                 },
-                                                                "flags": 81,
+                                                                "flags": 17,
                                                                 "transformFlags": 256,
                                                                 "start": 79,
                                                                 "end": 108
@@ -417,7 +417,7 @@ class C2<X, Y> {
                                                 },
                                                 "elseKeyword": null,
                                                 "alternate": null,
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 0,
                                                 "start": 66,
                                                 "end": 114
@@ -451,7 +451,7 @@ class C2<X, Y> {
                                                             "start": 131,
                                                             "end": 134
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 125,
                                                         "end": 134
@@ -470,7 +470,7 @@ class C2<X, Y> {
                                                     "start": 125,
                                                     "end": 136
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 114,
                                                 "end": 137
@@ -831,12 +831,12 @@ class C2<X, Y> {
                                                         "start": 211,
                                                         "end": 212
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 205,
                                                     "end": 212
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 194,
                                                 "end": 213

@@ -184,7 +184,7 @@ var a: (number: number) => number = (number) => { return 123; }
                                                 "start": 56,
                                                 "end": 60
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 49,
                                             "end": 61

@@ -70,7 +70,7 @@ if /* comment 1 */ (x)  /* comment 2 */  {}  /* comment 3 */  else {}
                 "start": 66,
                 "end": 69
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 69

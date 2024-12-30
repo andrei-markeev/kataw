@@ -265,7 +265,7 @@ var c: { (): string; (x: number): string } =
                                                 "start": 141,
                                                 "end": 146
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 134,
                                             "end": 147
@@ -548,7 +548,7 @@ var c: { (): string; (x: number): string } =
                                                 "start": 301,
                                                 "end": 306
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 294,
                                             "end": 307

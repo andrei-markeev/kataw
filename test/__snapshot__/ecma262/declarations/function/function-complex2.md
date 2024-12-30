@@ -247,7 +247,7 @@ function d<X: [number, number]>(x: X): X {
                                 "start": 57,
                                 "end": 64
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 48,
                             "end": 65
@@ -527,7 +527,7 @@ function d<X: [number, number]>(x: X): X {
                                 "start": 126,
                                 "end": 139
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 117,
                             "end": 140
@@ -793,7 +793,7 @@ function d<X: [number, number]>(x: X): X {
                                 "start": 237,
                                 "end": 248
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 228,
                             "end": 249
@@ -1073,7 +1073,7 @@ function d<X: [number, number]>(x: X): X {
                                 "start": 313,
                                 "end": 326
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 304,
                             "end": 327

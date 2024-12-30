@@ -165,7 +165,7 @@ try {} catch({ __proto__: x, __proto__: y, ...z}) {}
                     "start": 49,
                     "end": 52
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 52

@@ -254,7 +254,7 @@ function * gen() { function not_gen() { var o = { *gf() { switch (1) { case yiel
                                                                                                 "start": 70,
                                                                                                 "end": 89
                                                                                             },
-                                                                                            "flags": 80,
+                                                                                            "flags": 16,
                                                                                             "transformFlags": 0,
                                                                                             "start": 57,
                                                                                             "end": 91

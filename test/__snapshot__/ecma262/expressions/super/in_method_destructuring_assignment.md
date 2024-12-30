@@ -119,7 +119,7 @@ x = { foo(){ [a = super.foo] = c; }}
                                                                                 "start": 24,
                                                                                 "end": 27
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 2,
                                                                             "start": 17,
                                                                             "end": 27

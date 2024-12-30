@@ -47,7 +47,7 @@ yield
                         "start": 7,
                         "end": 8
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 8
@@ -68,7 +68,7 @@ yield
                     "start": 9,
                     "end": 10
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 10

@@ -51,7 +51,7 @@
 ### Diagnostics
 
 ```javascript
-✖ Octal escape sequences are not allowed in template literal - start: 1, end: 10
+✖ Unicode codepoint must not be greater than 0x10FFFF - start: 1, end: 10
 
 ```
 

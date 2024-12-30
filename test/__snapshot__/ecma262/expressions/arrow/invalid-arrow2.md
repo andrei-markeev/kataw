@@ -483,7 +483,7 @@
                                                     "start": 107,
                                                     "end": 108
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 2,
                                                 "start": 102,
                                                 "end": 108

@@ -75,7 +75,7 @@ function f(){ "use strict"
                                     "start": 44,
                                     "end": 47
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2,
                                 "start": 13,
                                 "end": 47

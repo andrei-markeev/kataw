@@ -42,8 +42,7 @@ x in x) ;
                 "start": 5,
                 "end": 10
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 198,
                 "left": {
                     "kind": 134299649,
@@ -70,11 +69,12 @@ x in x) ;
                     "start": 15,
                     "end": 17
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 10,
                 "end": 17
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -82,7 +82,7 @@ x in x) ;
                 "start": 18,
                 "end": 20
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 20

@@ -201,7 +201,7 @@ class x { function () { for (const x in { a: x }) { } } }
                                                     "start": 49,
                                                     "end": 53
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 0,
                                                 "start": 23,
                                                 "end": 53

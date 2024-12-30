@@ -98,7 +98,7 @@ for (function(){ }[x in y] of x);
                         "start": 23,
                         "end": 25
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 19,
                     "end": 25
@@ -131,7 +131,7 @@ for (function(){ }[x in y] of x);
                 "start": 32,
                 "end": 33
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 33

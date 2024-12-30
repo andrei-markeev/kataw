@@ -55,7 +55,7 @@ do {} while (/* comment 1 */x/* comment 2 */) /* comment 3 */ {} /* comment 4 */
                 "start": 13,
                 "end": 29
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 45

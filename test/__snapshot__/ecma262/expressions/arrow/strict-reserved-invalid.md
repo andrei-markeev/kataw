@@ -116,7 +116,7 @@ new package => x
                     "start": 18,
                     "end": 25
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 13,
                 "end": 25
@@ -307,7 +307,7 @@ new package => x
                                             "start": 68,
                                             "end": 80
                                         },
-                                        "flags": 97,
+                                        "flags": 33,
                                         "transformFlags": 5120,
                                         "start": 63,
                                         "end": 80
@@ -318,7 +318,7 @@ new package => x
                                     "end": 80
                                 },
                                 "argumentList": null,
-                                "flags": 97,
+                                "flags": 33,
                                 "transformFlags": 2048,
                                 "start": 47,
                                 "end": 80
@@ -333,12 +333,12 @@ new package => x
                         "start": 35,
                         "end": 80
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 34,
                     "end": 80
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 29,
                 "end": 80

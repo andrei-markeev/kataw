@@ -151,7 +151,7 @@ async (x = (with) = f) => {}
                 "start": 17,
                 "end": 21
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 12,
             "end": 21

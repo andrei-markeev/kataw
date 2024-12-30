@@ -147,7 +147,7 @@
                                                     "start": 25,
                                                     "end": 25
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 0,
                                                 "start": 19,
                                                 "end": 25

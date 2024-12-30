@@ -537,7 +537,7 @@ a?.['b']?.[0]?.(1);
                                 "start": 160,
                                 "end": 161
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2,
                             "start": 157,
                             "end": 161
@@ -839,7 +839,7 @@ a?.['b']?.[0]?.(1);
                                                                 "start": 233,
                                                                 "end": 235
                                                             },
-                                                            "flags": 81,
+                                                            "flags": 17,
                                                             "transformFlags": 256,
                                                             "start": 222,
                                                             "end": 236

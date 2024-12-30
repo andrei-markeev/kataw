@@ -171,7 +171,7 @@ class x extends y { foo(){ return () => () => super.foo; }}
                                                                 "start": 52,
                                                                 "end": 55
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 45,
                                                             "end": 55
@@ -186,7 +186,7 @@ class x extends y { foo(){ return () => () => super.foo; }}
                                                     "start": 33,
                                                     "end": 55
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 256,
                                                 "start": 26,
                                                 "end": 56

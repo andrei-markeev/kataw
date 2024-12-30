@@ -99,7 +99,7 @@ for (const ...x in y){}
                 "start": 10,
                 "end": 10
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 10
@@ -133,7 +133,7 @@ for (const ...x in y){}
                     "start": 18,
                     "end": 20
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 14,
                 "end": 20

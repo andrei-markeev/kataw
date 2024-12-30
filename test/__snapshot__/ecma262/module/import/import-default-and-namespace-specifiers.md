@@ -62,7 +62,7 @@ import foo, * as bar from "foo";
                         "start": 13,
                         "end": 16
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 11,
                     "end": 16
@@ -91,7 +91,7 @@ import foo, * as bar from "foo";
                 "start": 0,
                 "end": 11
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 16

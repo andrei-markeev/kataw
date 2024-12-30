@@ -126,7 +126,7 @@ function *f(){   for (yield in y);   }
                                 "start": 33,
                                 "end": 34
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 14,
                             "end": 34

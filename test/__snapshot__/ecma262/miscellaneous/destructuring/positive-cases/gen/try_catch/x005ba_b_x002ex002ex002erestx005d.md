@@ -131,7 +131,7 @@ try {} catch([a,b,...rest]) {}
                     "start": 27,
                     "end": 30
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 30

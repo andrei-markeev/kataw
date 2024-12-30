@@ -192,7 +192,7 @@
                 "start": 50,
                 "end": 50
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 26,
             "end": 50

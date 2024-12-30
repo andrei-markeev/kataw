@@ -62,7 +62,7 @@ new Ctor(class {});
                     "end": 12
                 },
                 "argumentList": null,
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2048,
                 "start": 0,
                 "end": 12
@@ -135,7 +135,7 @@ new Ctor(class {});
                     "start": 23,
                     "end": 31
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 2048,
                 "start": 13,
                 "end": 32

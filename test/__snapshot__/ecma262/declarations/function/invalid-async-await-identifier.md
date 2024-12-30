@@ -93,7 +93,7 @@ async function foo() { return {await} };
                                 "start": 29,
                                 "end": 37
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 256,
                             "start": 22,
                             "end": 37

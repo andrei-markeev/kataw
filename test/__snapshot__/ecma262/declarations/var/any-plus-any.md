@@ -106,7 +106,7 @@ var z = x + x;
                         "start": 14,
                         "end": 18
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 11,
                     "end": 18
@@ -189,7 +189,7 @@ var z = x + x;
                                 "start": 41,
                                 "end": 43
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 37,
                             "end": 43

@@ -113,7 +113,7 @@ do do do while try this and !foo while while while
                             "start": 14,
                             "end": 18
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 8,
                         "end": 18
@@ -126,7 +126,7 @@ do do do while try this and !foo while while while
                         "start": 18,
                         "end": 23
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 5,
                     "end": 23
@@ -141,7 +141,7 @@ do do do while try this and !foo while while while
                     "start": 23,
                     "end": 27
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 27
@@ -170,7 +170,7 @@ do do do while try this and !foo while while while
                 "start": 27,
                 "end": 32
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 32
@@ -245,17 +245,17 @@ do do do while try this and !foo while while while
                         "start": 50,
                         "end": 50
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 44,
                     "end": 50
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 38,
                 "end": 50
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 32,
             "end": 50

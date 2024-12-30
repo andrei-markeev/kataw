@@ -198,17 +198,17 @@ do do do catch { try while while while
                                                         "start": 38,
                                                         "end": 38
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 0,
                                                     "start": 32,
                                                     "end": 38
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 0,
                                                 "start": 26,
                                                 "end": 38
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 0,
                                             "start": 20,
                                             "end": 38
@@ -224,7 +224,7 @@ do do do catch { try while while while
                                 "start": 14,
                                 "end": 38
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 8,
                             "end": 38
@@ -246,7 +246,7 @@ do do do catch { try while while while
                         "start": 38,
                         "end": 38
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 5,
                     "end": 38
@@ -261,7 +261,7 @@ do do do catch { try while while while
                     "start": 38,
                     "end": 38
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 38
@@ -276,7 +276,7 @@ do do do catch { try while while while
                 "start": 38,
                 "end": 38
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 38

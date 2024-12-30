@@ -80,7 +80,7 @@ for ({x: a.b} in obj);
                                     "start": 11,
                                     "end": 12
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2,
                                 "start": 6,
                                 "end": 12
@@ -125,7 +125,7 @@ for ({x: a.b} in obj);
                 "start": 21,
                 "end": 22
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 22

@@ -101,12 +101,12 @@ do wow: while (x) while (x) continue wow;
                             "start": 27,
                             "end": 41
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 17,
                         "end": 41
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 7,
                     "end": 41
@@ -126,7 +126,7 @@ do wow: while (x) while (x) continue wow;
                 "start": 41,
                 "end": 41
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 41

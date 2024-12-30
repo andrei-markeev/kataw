@@ -83,7 +83,7 @@ do wow: while (x) continue wow; while (x)
                         "start": 17,
                         "end": 31
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 7,
                     "end": 31
@@ -109,7 +109,7 @@ do wow: while (x) continue wow; while (x)
                 "start": 39,
                 "end": 40
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 41

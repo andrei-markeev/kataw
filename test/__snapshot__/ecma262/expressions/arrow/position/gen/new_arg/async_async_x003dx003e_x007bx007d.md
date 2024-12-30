@@ -82,7 +82,7 @@ new async async => {}
                     "end": 21
                 },
                 "argumentList": null,
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2048,
                 "start": 0,
                 "end": 21

@@ -105,7 +105,7 @@ const test = () => {
                                                 "start": 74,
                                                 "end": 80
                                             },
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 256,
                                             "start": 20,
                                             "end": 81

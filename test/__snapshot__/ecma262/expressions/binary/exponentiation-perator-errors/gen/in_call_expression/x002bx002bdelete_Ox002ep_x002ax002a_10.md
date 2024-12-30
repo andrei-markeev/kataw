@@ -188,7 +188,7 @@ var O = { p: 1 }, x = 10; foo(++delete O.p ** 10)
                                             "start": 41,
                                             "end": 42
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 38,
                                         "end": 42

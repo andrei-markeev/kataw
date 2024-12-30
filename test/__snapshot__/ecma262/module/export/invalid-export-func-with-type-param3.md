@@ -151,7 +151,7 @@ export default function <,>() {}
                     "start": 27,
                     "end": 32
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 26,
                 "end": 32

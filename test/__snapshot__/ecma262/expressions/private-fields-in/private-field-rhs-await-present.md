@@ -194,12 +194,12 @@ class C {
                                                         "start": 74,
                                                         "end": 87
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 64,
                                                     "end": 87
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 53,
                                                 "end": 88

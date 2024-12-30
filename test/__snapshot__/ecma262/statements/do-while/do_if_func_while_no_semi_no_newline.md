@@ -97,7 +97,7 @@ do if(8)function s(){}while(y)
                 },
                 "elseKeyword": null,
                 "alternate": null,
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 22
@@ -118,7 +118,7 @@ do if(8)function s(){}while(y)
                 "start": 28,
                 "end": 29
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 30

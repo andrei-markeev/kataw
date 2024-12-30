@@ -640,7 +640,7 @@ function StatelessFunctionalComponent3(
                                 "start": 416,
                                 "end": 418
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 407,
                             "end": 419
@@ -1092,7 +1092,7 @@ function StatelessFunctionalComponent3(
                                 "start": 709,
                                 "end": 711
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 700,
                             "end": 712

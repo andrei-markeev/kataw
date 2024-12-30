@@ -107,8 +107,7 @@ for (let [...] = obj);
                 "start": 0,
                 "end": 20
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -117,6 +116,7 @@ for (let [...] = obj);
                 "start": 20,
                 "end": 20
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -124,7 +124,7 @@ for (let [...] = obj);
                 "start": 21,
                 "end": 22
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 22

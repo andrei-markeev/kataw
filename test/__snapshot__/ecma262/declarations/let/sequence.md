@@ -117,7 +117,7 @@ let d = (1, 2, 3);
                                                             "start": 21,
                                                             "end": 23
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 13,
                                                         "end": 23
@@ -284,7 +284,7 @@ let d = (1, 2, 3);
                                                             "start": 56,
                                                             "end": 58
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 48,
                                                         "end": 58
@@ -417,7 +417,7 @@ let d = (1, 2, 3);
                                             "start": 82,
                                             "end": 84
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 78,
                                         "end": 84

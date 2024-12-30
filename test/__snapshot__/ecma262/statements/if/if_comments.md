@@ -148,7 +148,7 @@ async function f5() {
                                     "start": 47,
                                     "end": 49
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 28,
                                 "end": 49
@@ -174,7 +174,7 @@ async function f5() {
                                                 "start": 76,
                                                 "end": 81
                                             },
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 256,
                                             "start": 65,
                                             "end": 82
@@ -233,7 +233,7 @@ async function f5() {
                                         "start": 115,
                                         "end": 117
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 96,
                                     "end": 117
@@ -276,7 +276,7 @@ async function f5() {
                                                                 "start": 152,
                                                                 "end": 158
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 140,
                                                             "end": 158
@@ -306,7 +306,7 @@ async function f5() {
                                                                             "start": 165,
                                                                             "end": 169
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 159,
                                                                         "end": 169
@@ -336,7 +336,7 @@ async function f5() {
                                                                                         "start": 187,
                                                                                         "end": 191
                                                                                     },
-                                                                                    "flags": 96,
+                                                                                    "flags": 32,
                                                                                     "transformFlags": 2,
                                                                                     "start": 170,
                                                                                     "end": 191
@@ -480,7 +480,7 @@ async function f5() {
                                             "start": 253,
                                             "end": 255
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 234,
                                         "end": 255
@@ -540,17 +540,17 @@ async function f5() {
                                     },
                                     "elseKeyword": null,
                                     "alternate": null,
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 229,
                                     "end": 311
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 91,
                                 "end": 311
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 21,
                             "end": 311
@@ -651,7 +651,7 @@ async function f5() {
                                     "start": 362,
                                     "end": 364
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 343,
                                 "end": 364
@@ -713,7 +713,7 @@ async function f5() {
                                         "start": 419,
                                         "end": 421
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 400,
                                     "end": 421
@@ -798,7 +798,7 @@ async function f5() {
                                             "start": 487,
                                             "end": 489
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 468,
                                         "end": 489
@@ -842,17 +842,17 @@ async function f5() {
                                     },
                                     "elseKeyword": null,
                                     "alternate": null,
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 463,
                                     "end": 539
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 395,
                                 "end": 539
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 336,
                             "end": 539
@@ -953,7 +953,7 @@ async function f5() {
                                     "start": 590,
                                     "end": 592
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 571,
                                 "end": 592
@@ -1015,7 +1015,7 @@ async function f5() {
                                         "start": 657,
                                         "end": 659
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 638,
                                     "end": 659
@@ -1100,7 +1100,7 @@ async function f5() {
                                             "start": 732,
                                             "end": 734
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 713,
                                         "end": 734
@@ -1144,17 +1144,17 @@ async function f5() {
                                     },
                                     "elseKeyword": null,
                                     "alternate": null,
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 708,
                                     "end": 803
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 633,
                                 "end": 803
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 564,
                             "end": 803
@@ -1255,7 +1255,7 @@ async function f5() {
                                     "start": 854,
                                     "end": 856
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 835,
                                 "end": 856
@@ -1281,7 +1281,7 @@ async function f5() {
                                                 "start": 889,
                                                 "end": 894
                                             },
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 256,
                                             "start": 876,
                                             "end": 895
@@ -1340,7 +1340,7 @@ async function f5() {
                                         "start": 932,
                                         "end": 934
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 913,
                                     "end": 934
@@ -1383,7 +1383,7 @@ async function f5() {
                                                                 "start": 975,
                                                                 "end": 981
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 963,
                                                             "end": 981
@@ -1413,7 +1413,7 @@ async function f5() {
                                                                             "start": 988,
                                                                             "end": 992
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 982,
                                                                         "end": 992
@@ -1443,7 +1443,7 @@ async function f5() {
                                                                                         "start": 1010,
                                                                                         "end": 1014
                                                                                     },
-                                                                                    "flags": 96,
+                                                                                    "flags": 32,
                                                                                     "transformFlags": 2,
                                                                                     "start": 993,
                                                                                     "end": 1014
@@ -1587,7 +1587,7 @@ async function f5() {
                                             "start": 1082,
                                             "end": 1084
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 1063,
                                         "end": 1084
@@ -1647,17 +1647,17 @@ async function f5() {
                                     },
                                     "elseKeyword": null,
                                     "alternate": null,
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 1058,
                                     "end": 1148
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 908,
                                 "end": 1148
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 828,
                             "end": 1148
@@ -1758,7 +1758,7 @@ async function f5() {
                                     "start": 1199,
                                     "end": 1201
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 1180,
                                 "end": 1201
@@ -1784,7 +1784,7 @@ async function f5() {
                                                 "start": 1228,
                                                 "end": 1233
                                             },
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 256,
                                             "start": 1204,
                                             "end": 1234
@@ -1843,7 +1843,7 @@ async function f5() {
                                         "start": 1267,
                                         "end": 1269
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 1248,
                                     "end": 1269
@@ -1886,7 +1886,7 @@ async function f5() {
                                                                 "start": 1304,
                                                                 "end": 1310
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 1292,
                                                             "end": 1310
@@ -1916,7 +1916,7 @@ async function f5() {
                                                                             "start": 1317,
                                                                             "end": 1321
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 1311,
                                                                         "end": 1321
@@ -1946,7 +1946,7 @@ async function f5() {
                                                                                         "start": 1339,
                                                                                         "end": 1343
                                                                                     },
-                                                                                    "flags": 96,
+                                                                                    "flags": 32,
                                                                                     "transformFlags": 2,
                                                                                     "start": 1322,
                                                                                     "end": 1343
@@ -2090,7 +2090,7 @@ async function f5() {
                                             "start": 1405,
                                             "end": 1407
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 1386,
                                         "end": 1407
@@ -2150,17 +2150,17 @@ async function f5() {
                                     },
                                     "elseKeyword": null,
                                     "alternate": null,
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 1381,
                                     "end": 1463
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 1243,
                                 "end": 1463
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 1173,
                             "end": 1463

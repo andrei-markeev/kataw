@@ -144,7 +144,7 @@ function f() {
                                 "start": 45,
                                 "end": 45
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 34,
                             "end": 45

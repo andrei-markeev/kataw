@@ -2270,7 +2270,7 @@ async(a, [q].z = y);
                                     "start": 488,
                                     "end": 490
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 484,
                                 "end": 490
@@ -2849,7 +2849,7 @@ async(a, [q].z = y);
                                     "start": 606,
                                     "end": 608
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 602,
                                 "end": 608

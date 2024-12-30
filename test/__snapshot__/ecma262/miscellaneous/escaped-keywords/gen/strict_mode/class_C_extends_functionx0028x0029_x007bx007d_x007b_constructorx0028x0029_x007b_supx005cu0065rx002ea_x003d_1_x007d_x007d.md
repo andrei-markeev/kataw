@@ -166,7 +166,7 @@ class C extends function() {} { constructor() { sup\u0065r.a = 1 } }
                                                             "start": 59,
                                                             "end": 60
                                                         },
-                                                        "flags": 16480,
+                                                        "flags": 16416,
                                                         "transformFlags": 2,
                                                         "start": 47,
                                                         "end": 60

@@ -65,7 +65,7 @@ e => yield* 10
                         "start": 11,
                         "end": 14
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 4,
                     "end": 14

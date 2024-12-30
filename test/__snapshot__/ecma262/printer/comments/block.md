@@ -171,7 +171,7 @@ Trailing block comment of this script file.
                                 "start": 190,
                                 "end": 192
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 181,
                             "end": 193

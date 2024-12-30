@@ -316,7 +316,7 @@ for (let a, b, x, d;;) { var foo; var bar; { var doo, x, ee; } }
                 "start": 22,
                 "end": 64
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 64

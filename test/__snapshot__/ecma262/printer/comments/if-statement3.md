@@ -55,7 +55,7 @@ if /* comment 2 */ (x) /* comment 3 */ {}
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 0,
             "end": 59

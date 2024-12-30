@@ -52,7 +52,8 @@ for (a;;c);
                 "start": 5,
                 "end": 6
             },
-            "condition": {
+            "condition": null,
+            "incrementor": {
                 "kind": 134299649,
                 "text": "c",
                 "rawText": "c",
@@ -61,7 +62,6 @@ for (a;;c);
                 "start": 8,
                 "end": 9
             },
-            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -69,7 +69,7 @@ for (a;;c);
                 "start": 10,
                 "end": 11
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 11

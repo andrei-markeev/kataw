@@ -87,7 +87,7 @@ x = x => { return x; } ;
                                         "start": 17,
                                         "end": 19
                                     },
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 256,
                                     "start": 10,
                                     "end": 20

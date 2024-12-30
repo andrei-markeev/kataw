@@ -118,7 +118,7 @@ for (async function *f(){} in x) ;
                 "start": 32,
                 "end": 34
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 34

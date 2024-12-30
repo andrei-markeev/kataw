@@ -142,7 +142,7 @@ function *f(){ return [...yield x]; }
                                 "start": 21,
                                 "end": 34
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 256,
                             "start": 14,
                             "end": 35

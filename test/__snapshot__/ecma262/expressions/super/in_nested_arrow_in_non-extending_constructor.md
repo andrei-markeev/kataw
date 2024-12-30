@@ -148,7 +148,7 @@ class x { constructor(){ return () => () => super.foo; }}
                                                                 "start": 50,
                                                                 "end": 53
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 43,
                                                             "end": 53
@@ -163,7 +163,7 @@ class x { constructor(){ return () => () => super.foo; }}
                                                     "start": 31,
                                                     "end": 53
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 256,
                                                 "start": 24,
                                                 "end": 54

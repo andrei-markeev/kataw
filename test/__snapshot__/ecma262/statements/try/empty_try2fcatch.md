@@ -72,7 +72,7 @@ try {} catch(e) {}
                     "start": 15,
                     "end": 18
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 18

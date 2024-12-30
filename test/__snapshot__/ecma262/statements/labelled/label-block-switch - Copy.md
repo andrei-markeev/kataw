@@ -82,7 +82,7 @@ a: { b: switch(x) {} }
                                     "start": 19,
                                     "end": 19
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 7,
                                 "end": 20

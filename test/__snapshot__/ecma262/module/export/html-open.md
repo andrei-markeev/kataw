@@ -49,7 +49,7 @@ export {}\n<!--
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 9
@@ -111,7 +111,7 @@ export {}\n<!--
                     "start": 12,
                     "end": 15
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 10,
                 "end": 15

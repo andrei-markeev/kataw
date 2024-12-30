@@ -59,7 +59,7 @@ do     if (x) continue   ; while(true);
                 },
                 "elseKeyword": null,
                 "alternate": null,
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 26
@@ -78,7 +78,7 @@ do     if (x) continue   ; while(true);
                 "start": 33,
                 "end": 37
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 39

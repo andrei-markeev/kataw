@@ -100,7 +100,7 @@ do[ async funcion switch!!
                 "start": 17,
                 "end": 17
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 17
@@ -159,7 +159,7 @@ do[ async funcion switch!!
                 "start": 26,
                 "end": 26
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 17,
             "end": 26

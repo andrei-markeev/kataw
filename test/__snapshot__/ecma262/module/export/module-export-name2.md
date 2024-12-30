@@ -82,7 +82,7 @@ export * as "string;
                 "end": 32
             },
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 0,
             "end": 32

@@ -94,7 +94,7 @@ var v = a => <any><any>{}
                                                 "start": 14,
                                                 "end": 17
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 12,
                                             "end": 17
@@ -115,7 +115,7 @@ var v = a => <any><any>{}
                                             "start": 18,
                                             "end": 18
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 12,
                                         "end": 18
@@ -136,7 +136,7 @@ var v = a => <any><any>{}
                                         "start": 19,
                                         "end": 22
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 12,
                                     "end": 22
@@ -164,7 +164,7 @@ var v = a => <any><any>{}
                                     "start": 23,
                                     "end": 25
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 12,
                                 "end": 25

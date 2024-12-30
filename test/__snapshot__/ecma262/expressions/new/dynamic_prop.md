@@ -68,7 +68,7 @@ x({[new A()]:y})
                                                     "start": 10,
                                                     "end": 10
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 2048,
                                                 "start": 4,
                                                 "end": 11

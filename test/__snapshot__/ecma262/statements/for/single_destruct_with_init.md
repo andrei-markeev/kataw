@@ -109,8 +109,7 @@ for (let {x = y} = obj);
                 "start": 0,
                 "end": 22
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -119,6 +118,7 @@ for (let {x = y} = obj);
                 "start": 22,
                 "end": 22
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -126,7 +126,7 @@ for (let {x = y} = obj);
                 "start": 23,
                 "end": 24
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 24

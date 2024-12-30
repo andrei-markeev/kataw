@@ -654,7 +654,7 @@ async function f(){}
                                                 "start": 155,
                                                 "end": 155
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 0,
                                             "start": 144,
                                             "end": 155
@@ -708,7 +708,7 @@ async function f(){}
                                                     "start": 165,
                                                     "end": 165
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 0,
                                                 "start": 159,
                                                 "end": 165
@@ -746,7 +746,7 @@ async function f(){}
                                                 "start": 174,
                                                 "end": 174
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 0,
                                             "start": 165,
                                             "end": 174
@@ -1022,7 +1022,7 @@ async function f(){}
                                                 "start": 237,
                                                 "end": 237
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 0,
                                             "start": 222,
                                             "end": 237

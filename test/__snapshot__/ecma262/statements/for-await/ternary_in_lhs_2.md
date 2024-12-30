@@ -119,21 +119,21 @@ async function f(){
                             },
                             "condition": {
                                 "kind": 134299649,
-                                "text": "x",
-                                "rawText": "x",
-                                "flags": 96,
-                                "transformFlags": 0,
-                                "start": 45,
-                                "end": 47
-                            },
-                            "incrementor": {
-                                "kind": 134299649,
                                 "text": "of",
                                 "rawText": "of",
                                 "flags": 96,
                                 "transformFlags": 0,
                                 "start": 42,
                                 "end": 45
+                            },
+                            "incrementor": {
+                                "kind": 134299649,
+                                "text": "x",
+                                "rawText": "x",
+                                "flags": 96,
+                                "transformFlags": 0,
+                                "start": 45,
+                                "end": 47
                             },
                             "statement": {
                                 "kind": 168,
@@ -142,7 +142,7 @@ async function f(){
                                 "start": 48,
                                 "end": 49
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 19,
                             "end": 49

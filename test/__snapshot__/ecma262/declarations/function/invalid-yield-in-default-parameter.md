@@ -145,7 +145,7 @@ function* x() { function* foo(a = 1 + (yield)) {} }
                                                 "start": 37,
                                                 "end": 45
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 33,
                                             "end": 45

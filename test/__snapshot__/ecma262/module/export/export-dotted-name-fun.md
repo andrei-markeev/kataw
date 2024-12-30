@@ -104,7 +104,7 @@ export function bar() {
                                                     "start": 37,
                                                     "end": 38
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 2,
                                                 "start": 34,
                                                 "end": 38
@@ -118,7 +118,7 @@ export function bar() {
                                                 "start": 39,
                                                 "end": 40
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 2,
                                             "start": 34,
                                             "end": 40
@@ -132,7 +132,7 @@ export function bar() {
                                             "start": 41,
                                             "end": 44
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 34,
                                         "end": 44
@@ -151,7 +151,7 @@ export function bar() {
                                     "start": 34,
                                     "end": 46
                                 },
-                                "flags": 81,
+                                "flags": 17,
                                 "transformFlags": 256,
                                 "start": 23,
                                 "end": 47
@@ -177,7 +177,7 @@ export function bar() {
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 49

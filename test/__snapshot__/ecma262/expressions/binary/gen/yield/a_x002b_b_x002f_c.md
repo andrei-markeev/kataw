@@ -125,12 +125,12 @@ function *f() {
                                             "start": 31,
                                             "end": 33
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 29,
                                         "end": 33
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 23,
                                     "end": 33

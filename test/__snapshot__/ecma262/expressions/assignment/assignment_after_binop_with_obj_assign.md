@@ -105,7 +105,7 @@ for(x in(t&{}=y))x
                         "start": 11,
                         "end": 15
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 8,
                     "end": 15
@@ -131,7 +131,7 @@ for(x in(t&{}=y))x
                 "start": 17,
                 "end": 18
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 18

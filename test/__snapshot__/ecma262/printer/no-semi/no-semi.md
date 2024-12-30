@@ -374,7 +374,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                         "start": 85,
                         "end": 89
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2,
                     "start": 79,
                     "end": 89
@@ -551,7 +551,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                                 "start": 117,
                                 "end": 121
                             },
-                            "flags": 4194400,
+                            "flags": 4194336,
                             "transformFlags": 5120,
                             "start": 112,
                             "end": 121
@@ -1024,12 +1024,12 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                             "start": 219,
                             "end": 219
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 217,
                         "end": 219
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 210,
                     "end": 219
@@ -1050,7 +1050,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                     "start": 220,
                     "end": 222
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 210,
                 "end": 222
@@ -1378,7 +1378,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 328,
             "end": 403
@@ -1505,7 +1505,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 403,
             "end": 459
@@ -1548,7 +1548,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                 "start": 506,
                 "end": 511
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 459,
             "end": 512
@@ -1607,14 +1607,14 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                     "start": 540,
                     "end": 545
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 522,
                 "end": 546
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 512,
             "end": 546
@@ -1674,7 +1674,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                 "start": 565,
                 "end": 567
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 546,
             "end": 567
@@ -1698,7 +1698,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                 "start": 576,
                 "end": 578
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 567,
             "end": 578
@@ -1745,7 +1745,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                 "start": 591,
                 "end": 593
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 578,
             "end": 593
@@ -1793,7 +1793,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                     "start": 648,
                     "end": 650
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 603,
                 "end": 650
@@ -1832,7 +1832,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                     "start": 655,
                     "end": 657
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 650,
                 "end": 657
@@ -1871,7 +1871,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                     "start": 662,
                     "end": 664
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 657,
                 "end": 664
@@ -2014,7 +2014,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                     "start": 690,
                     "end": 692
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 685,
                 "end": 692
@@ -2172,7 +2172,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                                 "start": 727,
                                 "end": 729
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 721,
                             "end": 729
@@ -2264,7 +2264,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                                 "start": 746,
                                 "end": 748
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 741,
                             "end": 748
@@ -2388,7 +2388,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                 "start": 766,
                 "end": 785
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 751,
             "end": 785
@@ -2442,7 +2442,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                             "start": 871,
                             "end": 873
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 864,
                         "end": 873
@@ -2452,7 +2452,7 @@ aReallyLongLine012345678901234567890123456789012345678901234567890123456789 *
                     "start": 864,
                     "end": 874
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 785,
                 "end": 874

@@ -101,8 +101,7 @@ for (let [foo = x]);
                 "start": 0,
                 "end": 18
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -111,6 +110,7 @@ for (let [foo = x]);
                 "start": 18,
                 "end": 18
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -118,7 +118,7 @@ for (let [foo = x]);
                 "start": 19,
                 "end": 20
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 20

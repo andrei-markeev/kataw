@@ -173,12 +173,12 @@ fn = ({text = "default", ...props}) => text + props.children
                                 "start": 52,
                                 "end": 60
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2,
                             "start": 45,
                             "end": 60
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 38,
                         "end": 60

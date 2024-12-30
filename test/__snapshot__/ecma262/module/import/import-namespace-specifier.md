@@ -62,7 +62,7 @@ import * as foo from "foo";
                         "start": 8,
                         "end": 11
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 6,
                     "end": 11
@@ -83,7 +83,7 @@ import * as foo from "foo";
                 "start": 0,
                 "end": 6
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 11

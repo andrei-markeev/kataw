@@ -156,7 +156,7 @@
                                 "start": 41,
                                 "end": 58
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 256,
                             "start": 34,
                             "end": 59

@@ -165,7 +165,7 @@ function* foo() { var x = 10; yield 1; return x; }
                                 "start": 45,
                                 "end": 47
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 256,
                             "start": 38,
                             "end": 48

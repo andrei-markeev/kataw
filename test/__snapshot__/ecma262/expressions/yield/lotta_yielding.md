@@ -352,7 +352,7 @@ var gen = async function *g() {
                                                                                                 "start": 153,
                                                                                                 "end": 164
                                                                                             },
-                                                                                            "flags": 81,
+                                                                                            "flags": 17,
                                                                                             "transformFlags": 256,
                                                                                             "start": 136,
                                                                                             "end": 165

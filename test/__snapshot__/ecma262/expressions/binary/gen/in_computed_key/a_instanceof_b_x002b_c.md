@@ -81,7 +81,7 @@ x = {[ a instanceof b + c ]: y}
                                                 "start": 19,
                                                 "end": 21
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 6,
                                             "end": 21
@@ -102,7 +102,7 @@ x = {[ a instanceof b + c ]: y}
                                             "start": 23,
                                             "end": 25
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 6,
                                         "end": 25

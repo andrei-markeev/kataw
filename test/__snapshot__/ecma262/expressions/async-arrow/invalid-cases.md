@@ -339,7 +339,7 @@ async ([a]:string)=>c;
                     "start": 58,
                     "end": 58
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 53,
                 "end": 58
@@ -419,7 +419,7 @@ async ([a]:string)=>c;
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 71,
             "end": 74
@@ -696,7 +696,7 @@ async ([a]:string)=>c;
                     "start": 151,
                     "end": 166
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 146,
                 "end": 166
@@ -846,7 +846,7 @@ async ([a]:string)=>c;
                                     "start": 225,
                                     "end": 227
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 221,
                                 "end": 227
@@ -899,7 +899,7 @@ async ([a]:string)=>c;
                                 "start": 229,
                                 "end": 240
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 221,
                             "end": 240

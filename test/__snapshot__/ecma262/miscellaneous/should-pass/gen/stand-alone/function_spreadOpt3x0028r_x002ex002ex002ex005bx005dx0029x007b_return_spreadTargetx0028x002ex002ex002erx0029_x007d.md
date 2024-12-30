@@ -160,7 +160,7 @@ function spreadOpt3(r, ...[]){ return spreadTarget(...r); }
                                 "start": 37,
                                 "end": 56
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 256,
                             "start": 30,
                             "end": 57

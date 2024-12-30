@@ -88,7 +88,7 @@ s = {foo: yield /x/g}
                                             "start": 17,
                                             "end": 18
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 5,
                                         "end": 18
@@ -109,7 +109,7 @@ s = {foo: yield /x/g}
                                         "start": 19,
                                         "end": 20
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 5,
                                     "end": 20

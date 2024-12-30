@@ -109,7 +109,7 @@ function *f(x = delete ((instanceof) = f)) {}
                                                 "start": 35,
                                                 "end": 35
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 25,
                                             "end": 35

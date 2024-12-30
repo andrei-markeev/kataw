@@ -83,7 +83,7 @@ loop: for (;;) {
                 "start": 8,
                 "end": 61
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 61
@@ -226,7 +226,7 @@ loop: for (;;) {
                     "start": 77,
                     "end": 199
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 68,
                 "end": 199

@@ -624,7 +624,7 @@ var templateTagsMapping = {
                                     "start": 311,
                                     "end": 317
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2,
                                 "start": 306,
                                 "end": 317
@@ -646,29 +646,6 @@ var templateTagsMapping = {
                 "end": 318
             },
             "condition": {
-                "kind": 127,
-                "operandToken": {
-                    "kind": 196635,
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 329,
-                    "end": 331
-                },
-                "operand": {
-                    "kind": 134299649,
-                    "text": "i",
-                    "rawText": "i",
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 327,
-                    "end": 329
-                },
-                "flags": 32,
-                "transformFlags": 0,
-                "start": 327,
-                "end": 331
-            },
-            "incrementor": {
                 "kind": 198,
                 "left": {
                     "kind": 134299649,
@@ -695,10 +672,33 @@ var templateTagsMapping = {
                     "start": 322,
                     "end": 326
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 318,
                 "end": 326
+            },
+            "incrementor": {
+                "kind": 127,
+                "operandToken": {
+                    "kind": 196635,
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 329,
+                    "end": 331
+                },
+                "operand": {
+                    "kind": 134299649,
+                    "text": "i",
+                    "rawText": "i",
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 327,
+                    "end": 329
+                },
+                "flags": 32,
+                "transformFlags": 0,
+                "start": 327,
+                "end": 331
             },
             "statement": {
                 "kind": 124,
@@ -715,7 +715,7 @@ var templateTagsMapping = {
                 "start": 332,
                 "end": 335
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 283,
             "end": 335
@@ -879,7 +879,7 @@ var templateTagsMapping = {
                                     "start": 536,
                                     "end": 539
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2,
                                 "start": 533,
                                 "end": 539
@@ -961,7 +961,7 @@ var templateTagsMapping = {
                                                             "start": 594,
                                                             "end": 598
                                                         },
-                                                        "flags": 81,
+                                                        "flags": 17,
                                                         "transformFlags": 256,
                                                         "start": 583,
                                                         "end": 599

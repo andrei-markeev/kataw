@@ -86,7 +86,7 @@
                             "start": 14,
                             "end": 14
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 4,
                         "end": 14
@@ -217,7 +217,7 @@
                             "start": 53,
                             "end": 57
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 45,
                         "end": 57
@@ -241,21 +241,21 @@
                             "end": 63
                         },
                         "condition": {
-                            "kind": 16637,
-                            "text": "",
-                            "rawText": "",
-                            "flags": 64,
-                            "transformFlags": 0,
-                            "start": 68,
-                            "end": 68
-                        },
-                        "incrementor": {
                             "kind": 134299649,
                             "text": "want",
                             "rawText": "want",
                             "flags": 96,
                             "transformFlags": 0,
                             "start": 63,
+                            "end": 68
+                        },
+                        "incrementor": {
+                            "kind": 16637,
+                            "text": "",
+                            "rawText": "",
+                            "flags": 64,
+                            "transformFlags": 0,
+                            "start": 68,
                             "end": 68
                         },
                         "statement": {
@@ -274,7 +274,7 @@
                             "start": 68,
                             "end": 68
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 57,
                         "end": 68

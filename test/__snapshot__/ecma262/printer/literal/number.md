@@ -197,7 +197,7 @@ function test5(): string {
                                 "start": 93,
                                 "end": 110
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 84,
                             "end": 111

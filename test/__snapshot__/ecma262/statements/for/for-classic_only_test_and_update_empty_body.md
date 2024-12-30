@@ -46,21 +46,21 @@ for (;b;c);
             "initializer": null,
             "condition": {
                 "kind": 134299649,
-                "text": "c",
-                "rawText": "c",
-                "flags": 96,
-                "transformFlags": 0,
-                "start": 8,
-                "end": 9
-            },
-            "incrementor": {
-                "kind": 134299649,
                 "text": "b",
                 "rawText": "b",
                 "flags": 96,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 7
+            },
+            "incrementor": {
+                "kind": 134299649,
+                "text": "c",
+                "rawText": "c",
+                "flags": 96,
+                "transformFlags": 0,
+                "start": 8,
+                "end": 9
             },
             "statement": {
                 "kind": 168,
@@ -69,7 +69,7 @@ for (;b;c);
                 "start": 10,
                 "end": 11
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 11

@@ -90,7 +90,7 @@ f(await 1);
                                 "start": 22,
                                 "end": 24
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 256,
                             "start": 15,
                             "end": 25

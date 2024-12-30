@@ -114,7 +114,7 @@ try { } catch (x) { let x; }
                     "start": 17,
                     "end": 28
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 7,
                 "end": 28

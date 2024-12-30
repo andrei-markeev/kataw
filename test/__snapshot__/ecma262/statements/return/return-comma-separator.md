@@ -90,7 +90,7 @@ function one() {
                                 "start": 25,
                                 "end": 36
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 16,
                             "end": 37

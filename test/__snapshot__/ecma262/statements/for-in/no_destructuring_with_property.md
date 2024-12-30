@@ -82,7 +82,7 @@ for ({a: b.c}.foo in d) e
                                         "start": 11,
                                         "end": 12
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 6,
                                     "end": 12
@@ -150,7 +150,7 @@ for ({a: b.c}.foo in d) e
                 "start": 23,
                 "end": 25
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 25

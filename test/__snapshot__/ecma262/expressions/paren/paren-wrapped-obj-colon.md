@@ -283,7 +283,7 @@
                                                     "start": 58,
                                                     "end": 59
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 2,
                                                 "start": 51,
                                                 "end": 59
@@ -1015,7 +1015,7 @@
                                                             "start": 214,
                                                             "end": 215
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 207,
                                                         "end": 215

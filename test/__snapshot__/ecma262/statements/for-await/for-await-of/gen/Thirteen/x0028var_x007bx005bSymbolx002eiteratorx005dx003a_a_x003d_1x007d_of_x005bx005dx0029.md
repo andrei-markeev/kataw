@@ -125,7 +125,7 @@ async function f() { for await
                                                                         "start": 45,
                                                                         "end": 53
                                                                     },
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 2,
                                                                     "start": 38,
                                                                     "end": 53
@@ -218,7 +218,7 @@ async function f() { for await
                                 "start": 69,
                                 "end": 72
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 20,
                             "end": 72

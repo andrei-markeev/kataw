@@ -115,7 +115,7 @@ export class C extends fn(await []) {};
                                 "start": 24,
                                 "end": 38
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 15,
                             "end": 39
@@ -262,7 +262,7 @@ export class C extends fn(await []) {};
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 41,
             "end": 121

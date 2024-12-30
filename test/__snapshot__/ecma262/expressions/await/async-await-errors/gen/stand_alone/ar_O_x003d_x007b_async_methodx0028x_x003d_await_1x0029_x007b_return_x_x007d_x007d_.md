@@ -164,7 +164,7 @@ ar O = { async method(x = await 1) { return x; } };
                                                         "start": 43,
                                                         "end": 45
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 36,
                                                     "end": 46

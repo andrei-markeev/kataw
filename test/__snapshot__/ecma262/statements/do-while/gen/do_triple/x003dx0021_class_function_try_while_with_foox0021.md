@@ -171,7 +171,7 @@ do do do =! class function try while with foo! while while while
                         "start": 17,
                         "end": 26
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 5,
                     "end": 26
@@ -186,7 +186,7 @@ do do do =! class function try while with foo! while while while
                     "start": 26,
                     "end": 26
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 26
@@ -201,7 +201,7 @@ do do do =! class function try while with foo! while while while
                 "start": 26,
                 "end": 26
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 26
@@ -318,12 +318,12 @@ do do do =! class function try while with foo! while while while
                     "start": 45,
                     "end": 46
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 36,
                 "end": 46
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 30,
             "end": 46
@@ -398,17 +398,17 @@ do do do =! class function try while with foo! while while while
                         "start": 64,
                         "end": 64
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 58,
                     "end": 64
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 52,
                 "end": 64
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 46,
             "end": 64

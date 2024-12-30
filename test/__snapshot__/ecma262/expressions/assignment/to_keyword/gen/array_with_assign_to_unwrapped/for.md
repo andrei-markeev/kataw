@@ -145,7 +145,7 @@ async x => for = 1
                 "start": 18,
                 "end": 18
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 10,
             "end": 18

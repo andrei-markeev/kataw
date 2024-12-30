@@ -85,7 +85,7 @@ obj.a &&= b;
                         "start": 13,
                         "end": 14
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 8,
                     "end": 14

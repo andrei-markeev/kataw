@@ -60,7 +60,7 @@ delete ((this.#field))
                                 "start": 29,
                                 "end": 35
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2,
                             "start": 23,
                             "end": 35

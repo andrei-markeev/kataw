@@ -70,7 +70,7 @@ if (somethingGoesWrong) { // Why this comment goes to the next line...
                                         "start": 81,
                                         "end": 86
                                     },
-                                    "flags": 97,
+                                    "flags": 33,
                                     "transformFlags": 2,
                                     "start": 25,
                                     "end": 86
@@ -117,7 +117,7 @@ if (somethingGoesWrong) { // Why this comment goes to the next line...
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 140

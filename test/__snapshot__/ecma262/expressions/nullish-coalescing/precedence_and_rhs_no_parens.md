@@ -52,7 +52,7 @@ a && b ?? c
                         "start": 4,
                         "end": 6
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 6
@@ -73,7 +73,7 @@ a && b ?? c
                     "start": 9,
                     "end": 11
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 11

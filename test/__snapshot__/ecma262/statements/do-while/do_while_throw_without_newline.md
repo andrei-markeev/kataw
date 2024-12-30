@@ -108,7 +108,7 @@ do throw function (v, h) {
                     "start": 8,
                     "end": 43
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 43
@@ -136,7 +136,7 @@ do throw function (v, h) {
                 "start": 51,
                 "end": 55
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 56

@@ -64,7 +64,7 @@ for (let.foo of x);
                     "start": 9,
                     "end": 12
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 5,
                 "end": 12
@@ -92,7 +92,7 @@ for (let.foo of x);
                 "start": 18,
                 "end": 19
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 19

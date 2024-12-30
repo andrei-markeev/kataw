@@ -257,7 +257,7 @@ import {fitsIn, oneLine} from '.';
                 "start": 0,
                 "end": 135
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 145
@@ -362,7 +362,7 @@ import {fitsIn, oneLine} from '.';
                 "start": 145,
                 "end": 170
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 145,
             "end": 180

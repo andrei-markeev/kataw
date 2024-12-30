@@ -70,7 +70,7 @@ for ([x.y] = z;;);
                                     "start": 8,
                                     "end": 9
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2,
                                 "start": 6,
                                 "end": 9
@@ -117,7 +117,7 @@ for ([x.y] = z;;);
                 "start": 17,
                 "end": 18
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 18

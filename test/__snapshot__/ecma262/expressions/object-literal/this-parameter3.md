@@ -543,7 +543,7 @@ let one = {
                         "start": 134,
                         "end": 135
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 127,
                     "end": 135
@@ -570,7 +570,7 @@ let one = {
                     "start": 136,
                     "end": 141
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 127,
                 "end": 141

@@ -260,7 +260,7 @@ var b: { (): string; (x: number): string } =
                                                 "start": 85,
                                                 "end": 90
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 78,
                                             "end": 91

@@ -174,12 +174,12 @@ else stuff;
                     "start": 80,
                     "end": 93
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 41,
                 "end": 93
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 93
@@ -241,7 +241,7 @@ else stuff;
                 "start": 127,
                 "end": 134
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 93,
             "end": 134

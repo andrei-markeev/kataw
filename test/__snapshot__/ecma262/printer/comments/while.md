@@ -68,7 +68,7 @@ while(1) // Comment
                 "start": 34,
                 "end": 37
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 37
@@ -104,7 +104,7 @@ while(1) // Comment
                 "start": 50,
                 "end": 63
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 37,
             "end": 63
@@ -140,7 +140,7 @@ while(1) // Comment
                 "start": 76,
                 "end": 78
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 63,
             "end": 78
@@ -176,7 +176,7 @@ while(1) // Comment
                 "start": 101,
                 "end": 114
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 78,
             "end": 114
@@ -213,7 +213,7 @@ while(1) // Comment
                     "start": 145,
                     "end": 150
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 122,
                 "end": 150
@@ -233,7 +233,7 @@ while(1) // Comment
                 "start": 165,
                 "end": 167
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 114,
             "end": 167
@@ -269,7 +269,7 @@ while(1) // Comment
                 "start": 180,
                 "end": 183
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 167,
             "end": 183
@@ -320,7 +320,7 @@ while(1) // Comment
                 "start": 207,
                 "end": 226
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 183,
             "end": 226
@@ -375,7 +375,7 @@ while(1) // Comment
                 "start": 236,
                 "end": 256
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 226,
             "end": 256

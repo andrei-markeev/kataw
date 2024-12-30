@@ -77,7 +77,7 @@ function bar(a = console.log) {
                                 "start": 25,
                                 "end": 28
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2,
                             "start": 16,
                             "end": 28
@@ -175,7 +175,7 @@ function bar(a = console.log) {
                                 "start": 60,
                                 "end": 63
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2,
                             "start": 51,
                             "end": 63

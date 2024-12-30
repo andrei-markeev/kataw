@@ -64,7 +64,7 @@ test/**/*-test.js
                             "start": 15,
                             "end": 17
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2,
                         "start": 10,
                         "end": 17
@@ -74,7 +74,7 @@ test/**/*-test.js
                     "start": 9,
                     "end": 17
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 17

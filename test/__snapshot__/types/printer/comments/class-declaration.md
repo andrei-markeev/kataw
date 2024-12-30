@@ -253,7 +253,7 @@ class GenericClass/*1*/</*2*/T/*3*/>/*4*/ {}
                                                             "start": 95,
                                                             "end": 104
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 80,
                                                         "end": 104
@@ -394,12 +394,12 @@ class GenericClass/*1*/</*2*/T/*3*/>/*4*/ {}
                                                         "start": 185,
                                                         "end": 189
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 167,
                                                     "end": 189
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 150,
                                                 "end": 190

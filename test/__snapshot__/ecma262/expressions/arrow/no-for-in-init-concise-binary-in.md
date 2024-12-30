@@ -72,7 +72,7 @@ for (() => x in y;;);
                         "start": 15,
                         "end": 17
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 10,
                     "end": 17
@@ -91,7 +91,7 @@ for (() => x in y;;);
                 "start": 20,
                 "end": 21
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 21

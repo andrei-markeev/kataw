@@ -54,7 +54,7 @@ export type * from "foo";
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 11
@@ -127,7 +127,7 @@ export type * from "foo";
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 21,
             "end": 33
@@ -234,7 +234,7 @@ export type * from "foo";
                         "start": 67,
                         "end": 72
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 60,
                     "end": 72
@@ -248,7 +248,7 @@ export type * from "foo";
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 53,
             "end": 72

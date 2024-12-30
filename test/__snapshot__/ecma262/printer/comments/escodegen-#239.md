@@ -160,7 +160,7 @@ function test() {
                                                 "start": 78,
                                                 "end": 82
                                             },
-                                            "flags": 4194400,
+                                            "flags": 4194336,
                                             "transformFlags": 5120,
                                             "start": 72,
                                             "end": 82

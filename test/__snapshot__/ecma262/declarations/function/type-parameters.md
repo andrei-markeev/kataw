@@ -113,7 +113,7 @@ type T = <
                         "start": 14,
                         "end": 15
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 15
@@ -134,7 +134,7 @@ type T = <
                     "start": 32,
                     "end": 32
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 34
@@ -257,7 +257,7 @@ type T = <
                         "start": 82,
                         "end": 82
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 67,
                     "end": 82
@@ -278,7 +278,7 @@ type T = <
                     "start": 96,
                     "end": 96
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 67,
                 "end": 98
@@ -614,7 +614,7 @@ type T = <
                         "start": 238,
                         "end": 243
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 221,
                     "end": 243
@@ -635,7 +635,7 @@ type T = <
                     "start": 257,
                     "end": 257
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 221,
                 "end": 259
@@ -758,7 +758,7 @@ type T = <
                         "start": 310,
                         "end": 310
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 295,
                     "end": 310
@@ -779,7 +779,7 @@ type T = <
                     "start": 327,
                     "end": 327
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 295,
                 "end": 329

@@ -53,7 +53,7 @@ a / b + c
                         "start": 3,
                         "end": 5
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 5
@@ -74,7 +74,7 @@ a / b + c
                     "start": 7,
                     "end": 9
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 9

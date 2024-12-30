@@ -50,7 +50,7 @@ for (new x in x) ;
                     "end": 10
                 },
                 "argumentList": null,
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2048,
                 "start": 5,
                 "end": 10
@@ -78,7 +78,7 @@ for (new x in x) ;
                 "start": 16,
                 "end": 18
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 18

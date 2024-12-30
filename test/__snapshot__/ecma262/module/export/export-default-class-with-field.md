@@ -181,7 +181,7 @@ export default class {
                                     "start": 59,
                                     "end": 60
                                 },
-                                "flags": 97,
+                                "flags": 33,
                                 "transformFlags": 2,
                                 "start": 49,
                                 "end": 60

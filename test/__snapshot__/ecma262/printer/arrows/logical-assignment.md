@@ -227,7 +227,7 @@ a ||= ((
                                 "start": 115,
                                 "end": 136
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2048,
                             "start": 106,
                             "end": 137

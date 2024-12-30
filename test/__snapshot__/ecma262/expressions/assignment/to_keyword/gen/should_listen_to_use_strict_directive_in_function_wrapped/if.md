@@ -145,7 +145,7 @@ function f() {
                             },
                             "elseKeyword": null,
                             "alternate": null,
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 34,
                             "end": 42

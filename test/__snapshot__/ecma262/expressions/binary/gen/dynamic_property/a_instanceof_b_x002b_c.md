@@ -64,7 +64,7 @@ foo[ a instanceof b + c ]
                             "start": 17,
                             "end": 19
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 4,
                         "end": 19
@@ -85,7 +85,7 @@ foo[ a instanceof b + c ]
                         "start": 21,
                         "end": 23
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 4,
                     "end": 23

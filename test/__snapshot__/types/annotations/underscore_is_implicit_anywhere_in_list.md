@@ -55,7 +55,7 @@ test<number, _, string, _, _, _, Foo, Bar, Baz>();
                             "start": 5,
                             "end": 11
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 0,
                         "end": 11
@@ -150,7 +150,7 @@ test<number, _, string, _, _, _, Foo, Bar, Baz>();
                             "start": 47,
                             "end": 47
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 42,
                         "end": 49

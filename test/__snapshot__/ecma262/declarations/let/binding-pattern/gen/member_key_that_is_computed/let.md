@@ -65,7 +65,7 @@ let {[a.b]: c} = v
                                                     "start": 8,
                                                     "end": 9
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 2,
                                                 "start": 6,
                                                 "end": 9

@@ -51,7 +51,7 @@ d\u0065lete this.a;
                         "start": 17,
                         "end": 18
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2,
                     "start": 11,
                     "end": 18

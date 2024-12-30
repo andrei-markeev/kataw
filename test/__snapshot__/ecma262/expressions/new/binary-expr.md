@@ -46,7 +46,7 @@ new x<number>(y)
                             "end": 5
                         },
                         "argumentList": null,
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2048,
                         "start": 0,
                         "end": 5
@@ -67,7 +67,7 @@ new x<number>(y)
                         "start": 6,
                         "end": 12
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 12
@@ -95,7 +95,7 @@ new x<number>(y)
                     "start": 13,
                     "end": 16
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 16

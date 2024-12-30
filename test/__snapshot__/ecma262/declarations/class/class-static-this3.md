@@ -117,7 +117,7 @@ class Foo { static x = function() { return this } }
                                                     "start": 42,
                                                     "end": 47
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 256,
                                                 "start": 35,
                                                 "end": 47

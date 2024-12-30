@@ -144,7 +144,7 @@ function a<string>(x: string): string {
                                 "start": 48,
                                 "end": 50
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 39,
                             "end": 51

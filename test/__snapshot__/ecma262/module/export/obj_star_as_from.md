@@ -69,7 +69,7 @@ export {bar}, * as foo from 'bar';
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 12
@@ -103,7 +103,7 @@ export {bar}, * as foo from 'bar';
                     "start": 15,
                     "end": 18
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 13,
                 "end": 18

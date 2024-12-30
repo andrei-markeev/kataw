@@ -46,7 +46,7 @@ a * x ? b : c ? d : e
                         "start": 3,
                         "end": 5
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 5
@@ -122,7 +122,7 @@ a * x ? b : c ? d : e
                     "start": 11,
                     "end": 21
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 4096,
                 "start": 0,
                 "end": 21

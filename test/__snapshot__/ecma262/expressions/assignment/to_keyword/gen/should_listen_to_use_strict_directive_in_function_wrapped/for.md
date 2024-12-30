@@ -136,8 +136,7 @@ function f() {
                                 "start": 34,
                                 "end": 41
                             },
-                            "condition": null,
-                            "incrementor": {
+                            "condition": {
                                 "kind": 16637,
                                 "text": "",
                                 "rawText": "",
@@ -146,6 +145,7 @@ function f() {
                                 "start": 41,
                                 "end": 41
                             },
+                            "incrementor": null,
                             "statement": {
                                 "kind": 168,
                                 "flags": 16,
@@ -153,7 +153,7 @@ function f() {
                                 "start": 42,
                                 "end": 43
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 34,
                             "end": 43

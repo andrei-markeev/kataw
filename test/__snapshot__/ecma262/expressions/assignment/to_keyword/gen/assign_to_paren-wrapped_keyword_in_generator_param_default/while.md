@@ -174,7 +174,7 @@ function *f(x = (while) = f) {}
                 "start": 23,
                 "end": 27
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 17,
             "end": 27

@@ -64,7 +64,7 @@ const resolver = options.resolver
                                     "start": 25,
                                     "end": 33
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2,
                                 "start": 16,
                                 "end": 33
@@ -110,7 +110,7 @@ const resolver = options.resolver
                                                 "start": 73,
                                                 "end": 81
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 2,
                                             "start": 65,
                                             "end": 81
@@ -143,7 +143,7 @@ const resolver = options.resolver
                                 "start": 86,
                                 "end": 102
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 4096,
                             "start": 16,
                             "end": 102

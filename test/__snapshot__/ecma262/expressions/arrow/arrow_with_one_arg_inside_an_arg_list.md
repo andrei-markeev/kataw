@@ -93,7 +93,7 @@ f(((a) => a + b)(1, 4), 5);
                                             "start": 13,
                                             "end": 15
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 9,
                                         "end": 15

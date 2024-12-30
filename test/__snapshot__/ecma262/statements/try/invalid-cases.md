@@ -178,7 +178,7 @@ try {} catch({ x: "str" }) {}
                     "start": 16,
                     "end": 31
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 31
@@ -297,7 +297,7 @@ try {} catch({ x: "str" }) {}
                     "start": 49,
                     "end": 66
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 39,
                 "end": 66
@@ -372,7 +372,7 @@ try {} catch({ x: "str" }) {}
                                     "start": 87,
                                     "end": 87
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 81,
                                 "end": 87
@@ -516,7 +516,7 @@ try {} catch({ x: "str" }) {}
                                                     "start": 120,
                                                     "end": 120
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 0,
                                                 "start": 114,
                                                 "end": 120
@@ -618,7 +618,7 @@ try {} catch({ x: "str" }) {}
                                                     "start": 143,
                                                     "end": 143
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 0,
                                                 "start": 137,
                                                 "end": 143
@@ -860,7 +860,7 @@ try {} catch({ x: "str" }) {}
                     "start": 192,
                     "end": 195
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 182,
                 "end": 195
@@ -960,7 +960,7 @@ try {} catch({ x: "str" }) {}
                                 "start": 221,
                                 "end": 224
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 215,
                             "end": 225
@@ -1058,7 +1058,7 @@ try {} catch({ x: "str" }) {}
                     "start": 247,
                     "end": 250
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 227,
                 "end": 250
@@ -1161,7 +1161,7 @@ try {} catch({ x: "str" }) {}
                     "start": 276,
                     "end": 279
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 255,
                 "end": 279
@@ -1304,7 +1304,7 @@ try {} catch({ x: "str" }) {}
                     "start": 305,
                     "end": 305
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 289,
                 "end": 305
@@ -1466,7 +1466,7 @@ try {} catch({ x: "str" }) {}
                     "start": 342,
                     "end": 342
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 327,
                 "end": 342
@@ -1569,7 +1569,7 @@ try {} catch({ x: "str" }) {}
                     "start": 366,
                     "end": 366
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 355,
                 "end": 366
@@ -1745,7 +1745,7 @@ try {} catch({ x: "str" }) {}
                     "start": 401,
                     "end": 401
                 },
-                "flags": 81,
+                "flags": 17,
                 "transformFlags": 0,
                 "start": 389,
                 "end": 401
@@ -1887,7 +1887,7 @@ try {} catch({ x: "str" }) {}
                     "start": 438,
                     "end": 438
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 431,
                 "end": 438
@@ -1987,7 +1987,7 @@ try {} catch({ x: "str" }) {}
                                 "start": 467,
                                 "end": 470
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 452,
                             "end": 470
@@ -2056,7 +2056,7 @@ try {} catch({ x: "str" }) {}
                                 "start": 487,
                                 "end": 490
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 478,
                             "end": 490
@@ -2216,7 +2216,7 @@ try {} catch({ x: "str" }) {}
                                                 "start": 524,
                                                 "end": 543
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 0,
                                             "start": 514,
                                             "end": 543
@@ -2344,7 +2344,7 @@ try {} catch({ x: "str" }) {}
                                 "start": 562,
                                 "end": 572
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 552,
                             "end": 572
@@ -2454,7 +2454,7 @@ try {} catch({ x: "str" }) {}
                                 "start": 601,
                                 "end": 604
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 589,
                             "end": 604
@@ -2615,7 +2615,7 @@ try {} catch({ x: "str" }) {}
                                 "start": 645,
                                 "end": 648
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 635,
                             "end": 648
@@ -2715,7 +2715,7 @@ try {} catch({ x: "str" }) {}
                                             "start": 674,
                                             "end": 677
                                         },
-                                        "flags": 80,
+                                        "flags": 16,
                                         "transformFlags": 0,
                                         "start": 668,
                                         "end": 678
@@ -2813,7 +2813,7 @@ try {} catch({ x: "str" }) {}
                                 "start": 700,
                                 "end": 703
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 680,
                             "end": 703
@@ -2916,7 +2916,7 @@ try {} catch({ x: "str" }) {}
                                 "start": 731,
                                 "end": 731
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 711,
                             "end": 731
@@ -3088,7 +3088,7 @@ try {} catch({ x: "str" }) {}
                     "start": 766,
                     "end": 766
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 750,
                 "end": 766
@@ -3250,7 +3250,7 @@ try {} catch({ x: "str" }) {}
                     "start": 803,
                     "end": 803
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 788,
                 "end": 803
@@ -3384,7 +3384,7 @@ try {} catch({ x: "str" }) {}
                     "start": 832,
                     "end": 832
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 821,
                 "end": 832
@@ -3566,7 +3566,7 @@ try {} catch({ x: "str" }) {}
                     "start": 874,
                     "end": 874
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 863,
                 "end": 874
@@ -3742,7 +3742,7 @@ try {} catch({ x: "str" }) {}
                     "start": 915,
                     "end": 915
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 904,
                 "end": 915
@@ -3925,7 +3925,7 @@ try {} catch({ x: "str" }) {}
                     "start": 957,
                     "end": 960
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 937,
                 "end": 960

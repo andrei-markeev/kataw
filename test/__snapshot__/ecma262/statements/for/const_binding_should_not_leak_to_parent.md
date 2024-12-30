@@ -132,8 +132,7 @@ for (const { x, } = { x: 23 }; a < 1; ) {}; for (const { x, } = { x: 23 }; a < 1
                 "start": 0,
                 "end": 29
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 198,
                 "left": {
                     "kind": 134299649,
@@ -160,11 +159,12 @@ for (const { x, } = { x: 23 }; a < 1; ) {}; for (const { x, } = { x: 23 }; a < 1
                     "start": 34,
                     "end": 36
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 30,
                 "end": 36
             },
+            "incrementor": null,
             "statement": {
                 "kind": 124,
                 "block": {
@@ -180,7 +180,7 @@ for (const { x, } = { x: 23 }; a < 1; ) {}; for (const { x, } = { x: 23 }; a < 1
                 "start": 39,
                 "end": 42
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 42
@@ -301,8 +301,7 @@ for (const { x, } = { x: 23 }; a < 1; ) {}; for (const { x, } = { x: 23 }; a < 1
                 "start": 43,
                 "end": 73
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 198,
                 "left": {
                     "kind": 134299649,
@@ -329,11 +328,12 @@ for (const { x, } = { x: 23 }; a < 1; ) {}; for (const { x, } = { x: 23 }; a < 1
                     "start": 78,
                     "end": 80
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 74,
                 "end": 80
             },
+            "incrementor": null,
             "statement": {
                 "kind": 124,
                 "block": {
@@ -349,7 +349,7 @@ for (const { x, } = { x: 23 }; a < 1; ) {}; for (const { x, } = { x: 23 }; a < 1
                 "start": 83,
                 "end": 86
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 43,
             "end": 86

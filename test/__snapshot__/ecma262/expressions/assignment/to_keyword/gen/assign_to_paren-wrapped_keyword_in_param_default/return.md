@@ -112,7 +112,7 @@ async (x = (return) = f) => {}
                 "start": 18,
                 "end": 18
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 256,
             "start": 12,
             "end": 18

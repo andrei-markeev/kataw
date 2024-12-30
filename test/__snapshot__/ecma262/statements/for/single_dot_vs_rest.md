@@ -73,15 +73,6 @@ for (let [.x] = obj);
                 "end": 10
             },
             "condition": {
-                "kind": 16637,
-                "text": "",
-                "rawText": "",
-                "flags": 64,
-                "transformFlags": 0,
-                "start": 12,
-                "end": 12
-            },
-            "incrementor": {
                 "kind": 129,
                 "member": {
                     "kind": 16637,
@@ -101,9 +92,18 @@ for (let [.x] = obj);
                     "start": 11,
                     "end": 12
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 10,
+                "end": 12
+            },
+            "incrementor": {
+                "kind": 16637,
+                "text": "",
+                "rawText": "",
+                "flags": 64,
+                "transformFlags": 0,
+                "start": 12,
                 "end": 12
             },
             "statement": {
@@ -122,7 +122,7 @@ for (let [.x] = obj);
                 "start": 12,
                 "end": 12
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 12

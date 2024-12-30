@@ -85,7 +85,7 @@ const testConsole = new TestConsole(
                                                 "start": 46,
                                                 "end": 55
                                             },
-                                            "flags": 97,
+                                            "flags": 33,
                                             "transformFlags": 2,
                                             "start": 36,
                                             "end": 55
@@ -117,7 +117,7 @@ const testConsole = new TestConsole(
                                                 "start": 66,
                                                 "end": 72
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 2,
                                             "start": 57,
                                             "end": 72
@@ -149,12 +149,12 @@ const testConsole = new TestConsole(
                                                 "start": 83,
                                                 "end": 89
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 2,
                                             "start": 74,
                                             "end": 89
                                         },
-                                        "flags": 97,
+                                        "flags": 33,
                                         "transformFlags": 4096,
                                         "start": 36,
                                         "end": 89
@@ -166,7 +166,7 @@ const testConsole = new TestConsole(
                                 "start": 36,
                                 "end": 89
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2048,
                             "start": 19,
                             "end": 91

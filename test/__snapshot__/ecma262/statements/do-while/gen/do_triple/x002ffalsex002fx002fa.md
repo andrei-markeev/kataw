@@ -78,7 +78,7 @@ do do do /false//a while while while
                                 "start": 17,
                                 "end": 18
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 8,
                             "end": 18
@@ -104,7 +104,7 @@ do do do /false//a while while while
                         "start": 24,
                         "end": 24
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 5,
                     "end": 24
@@ -125,7 +125,7 @@ do do do /false//a while while while
                     "start": 30,
                     "end": 30
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 30
@@ -146,7 +146,7 @@ do do do /false//a while while while
                 "start": 36,
                 "end": 36
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 36

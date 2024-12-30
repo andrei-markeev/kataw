@@ -81,29 +81,6 @@ for (var i = 0; i < 1; i++) label: function f() { };
                 "end": 15
             },
             "condition": {
-                "kind": 127,
-                "operandToken": {
-                    "kind": 196635,
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 24,
-                    "end": 26
-                },
-                "operand": {
-                    "kind": 134299649,
-                    "text": "i",
-                    "rawText": "i",
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 22,
-                    "end": 24
-                },
-                "flags": 32,
-                "transformFlags": 0,
-                "start": 22,
-                "end": 26
-            },
-            "incrementor": {
                 "kind": 198,
                 "left": {
                     "kind": 134299649,
@@ -130,10 +107,33 @@ for (var i = 0; i < 1; i++) label: function f() { };
                     "start": 19,
                     "end": 21
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 15,
                 "end": 21
+            },
+            "incrementor": {
+                "kind": 127,
+                "operandToken": {
+                    "kind": 196635,
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 24,
+                    "end": 26
+                },
+                "operand": {
+                    "kind": 134299649,
+                    "text": "i",
+                    "rawText": "i",
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 22,
+                    "end": 24
+                },
+                "flags": 32,
+                "transformFlags": 0,
+                "start": 22,
+                "end": 26
             },
             "statement": {
                 "kind": 163,
@@ -211,7 +211,7 @@ for (var i = 0; i < 1; i++) label: function f() { };
                 "start": 27,
                 "end": 51
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 51

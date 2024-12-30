@@ -127,7 +127,7 @@ foo = {
                                                                     "end": 45
                                                                 },
                                                                 "argumentList": null,
-                                                                "flags": 96,
+                                                                "flags": 32,
                                                                 "transformFlags": 2048,
                                                                 "start": 42,
                                                                 "end": 45

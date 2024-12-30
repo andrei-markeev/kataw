@@ -158,7 +158,7 @@
                                         "start": 29,
                                         "end": 29
                                     },
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 19,
                                     "end": 29
@@ -289,7 +289,7 @@
                                         "start": 68,
                                         "end": 72
                                     },
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 60,
                                     "end": 72
@@ -313,21 +313,21 @@
                                         "end": 78
                                     },
                                     "condition": {
-                                        "kind": 16637,
-                                        "text": "",
-                                        "rawText": "",
-                                        "flags": 64,
-                                        "transformFlags": 0,
-                                        "start": 83,
-                                        "end": 83
-                                    },
-                                    "incrementor": {
                                         "kind": 134299649,
                                         "text": "want",
                                         "rawText": "want",
                                         "flags": 96,
                                         "transformFlags": 0,
                                         "start": 78,
+                                        "end": 83
+                                    },
+                                    "incrementor": {
+                                        "kind": 16637,
+                                        "text": "",
+                                        "rawText": "",
+                                        "flags": 64,
+                                        "transformFlags": 0,
+                                        "start": 83,
                                         "end": 83
                                     },
                                     "statement": {
@@ -346,7 +346,7 @@
                                         "start": 83,
                                         "end": 83
                                     },
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 72,
                                     "end": 83

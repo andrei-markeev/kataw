@@ -80,7 +80,7 @@ async _ => _
                             "start": 14,
                             "end": 17
                         },
-                        "flags": 97,
+                        "flags": 33,
                         "transformFlags": 5120,
                         "start": 10,
                         "end": 17
@@ -101,7 +101,7 @@ async _ => _
                         "start": 18,
                         "end": 18
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 10,
                     "end": 18

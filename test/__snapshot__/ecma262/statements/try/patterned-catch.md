@@ -227,7 +227,7 @@ try {} catch ([a,b, {c, d:e=0, [f]:g=0, h=i}]) {}
                     "start": 46,
                     "end": 49
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 49

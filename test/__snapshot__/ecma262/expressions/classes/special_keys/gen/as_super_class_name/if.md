@@ -130,7 +130,7 @@ class x extends if {}
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 15,
             "end": 21

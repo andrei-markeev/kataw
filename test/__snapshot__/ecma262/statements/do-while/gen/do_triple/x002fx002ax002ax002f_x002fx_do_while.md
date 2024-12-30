@@ -75,7 +75,7 @@ do do do /**/ /x do while while while while
                         "start": 43,
                         "end": 43
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 5,
                     "end": 43
@@ -90,7 +90,7 @@ do do do /**/ /x do while while while while
                     "start": 43,
                     "end": 43
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 43
@@ -105,7 +105,7 @@ do do do /**/ /x do while while while while
                 "start": 43,
                 "end": 43
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 43

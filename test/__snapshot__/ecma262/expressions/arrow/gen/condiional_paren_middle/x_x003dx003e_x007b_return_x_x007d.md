@@ -89,7 +89,7 @@ bar ? (x => { return x; }) : baz;
                                             "start": 20,
                                             "end": 22
                                         },
-                                        "flags": 80,
+                                        "flags": 16,
                                         "transformFlags": 256,
                                         "start": 13,
                                         "end": 23

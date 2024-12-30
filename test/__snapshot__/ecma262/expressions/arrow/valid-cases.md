@@ -176,7 +176,7 @@ foo ? bar : baz => {};
                                     "start": 24,
                                     "end": 27
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 256,
                                 "start": 17,
                                 "end": 27
@@ -271,7 +271,7 @@ foo ? bar : baz => {};
                     "start": 34,
                     "end": 45
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 30,
                 "end": 45
@@ -328,7 +328,7 @@ foo ? bar : baz => {};
                                     "start": 60,
                                     "end": 62
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 256,
                                 "start": 53,
                                 "end": 63
@@ -411,7 +411,7 @@ foo ? bar : baz => {};
                                     "start": 82,
                                     "end": 84
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 256,
                                 "start": 75,
                                 "end": 85
@@ -521,12 +521,12 @@ foo ? bar : baz => {};
                                         "start": 111,
                                         "end": 113
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 107,
                                     "end": 113
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 256,
                                 "start": 100,
                                 "end": 114
@@ -647,7 +647,7 @@ foo ? bar : baz => {};
                                             "start": 143,
                                             "end": 145
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 139,
                                         "end": 145
@@ -668,12 +668,12 @@ foo ? bar : baz => {};
                                         "start": 147,
                                         "end": 149
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 139,
                                     "end": 149
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 256,
                                 "start": 132,
                                 "end": 150
@@ -771,7 +771,7 @@ foo ? bar : baz => {};
                                             "start": 168,
                                             "end": 169
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 165,
                                         "end": 169
@@ -957,7 +957,7 @@ foo ? bar : baz => {};
                         "start": 204,
                         "end": 206
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 200,
                     "end": 206
@@ -1084,7 +1084,7 @@ foo ? bar : baz => {};
                         "start": 228,
                         "end": 230
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 224,
                     "end": 230
@@ -1168,7 +1168,7 @@ foo ? bar : baz => {};
                         "start": 245,
                         "end": 247
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 241,
                     "end": 247
@@ -1344,7 +1344,7 @@ foo ? bar : baz => {};
                             "start": 283,
                             "end": 284
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2,
                         "start": 280,
                         "end": 284
@@ -1534,7 +1534,7 @@ foo ? bar : baz => {};
                             "start": 326,
                             "end": 328
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 322,
                         "end": 328
@@ -1665,7 +1665,7 @@ foo ? bar : baz => {};
                                 "start": 352,
                                 "end": 353
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 349,
                             "end": 353
@@ -1704,12 +1704,12 @@ foo ? bar : baz => {};
                                 "start": 358,
                                 "end": 359
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 357,
                             "end": 359
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 349,
                         "end": 359
@@ -1839,7 +1839,7 @@ foo ? bar : baz => {};
                                     "start": 384,
                                     "end": 386
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 379,
                                 "end": 386
@@ -1849,7 +1849,7 @@ foo ? bar : baz => {};
                             "start": 379,
                             "end": 387
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 375,
                         "end": 387
@@ -1979,7 +1979,7 @@ foo ? bar : baz => {};
                                     "start": 412,
                                     "end": 414
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 407,
                                 "end": 414
@@ -1989,7 +1989,7 @@ foo ? bar : baz => {};
                             "start": 407,
                             "end": 415
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 403,
                         "end": 415
@@ -2653,7 +2653,7 @@ foo ? bar : baz => {};
                                     "start": 696,
                                     "end": 698
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 692,
                                 "end": 698
@@ -2797,7 +2797,7 @@ foo ? bar : baz => {};
                                         "start": 725,
                                         "end": 727
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 721,
                                     "end": 727

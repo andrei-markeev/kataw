@@ -42,8 +42,7 @@ x => y in x) ;
                 "start": 5,
                 "end": 10
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 271,
                 "asyncKeyword": null,
                 "typeParameters": null,
@@ -91,7 +90,7 @@ x => y in x) ;
                         "start": 20,
                         "end": 22
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 15,
                     "end": 22
@@ -101,6 +100,7 @@ x => y in x) ;
                 "start": 10,
                 "end": 22
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -108,7 +108,7 @@ x => y in x) ;
                 "start": 23,
                 "end": 25
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 25

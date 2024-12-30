@@ -95,7 +95,7 @@ FooBar.bar = 1;
                                     "start": 19,
                                     "end": 22
                                 },
-                                "flags": 97,
+                                "flags": 33,
                                 "transformFlags": 2,
                                 "start": 14,
                                 "end": 22
@@ -232,7 +232,7 @@ FooBar.bar = 1;
                                     "start": 57,
                                     "end": 60
                                 },
-                                "flags": 97,
+                                "flags": 33,
                                 "transformFlags": 2,
                                 "start": 51,
                                 "end": 60
@@ -340,7 +340,7 @@ FooBar.bar = 1;
                                     "start": 95,
                                     "end": 98
                                 },
-                                "flags": 97,
+                                "flags": 33,
                                 "transformFlags": 2,
                                 "start": 87,
                                 "end": 98

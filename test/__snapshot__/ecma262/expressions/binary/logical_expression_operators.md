@@ -79,7 +79,7 @@ foo || bar && baz;
                             "start": 47,
                             "end": 51
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 0,
                         "end": 51
@@ -164,7 +164,7 @@ foo || bar && baz;
                             "start": 75,
                             "end": 79
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 67,
                         "end": 79
@@ -174,7 +174,7 @@ foo || bar && baz;
                     "start": 67,
                     "end": 80
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 60,
                 "end": 80
@@ -237,7 +237,7 @@ foo || bar && baz;
                                     "start": 97,
                                     "end": 101
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 90,
                                 "end": 101
@@ -273,7 +273,7 @@ foo || bar && baz;
                     "start": 88,
                     "end": 110
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 81,
                 "end": 110
@@ -352,7 +352,7 @@ foo || bar && baz;
                                     "start": 134,
                                     "end": 138
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 126,
                                 "end": 138
@@ -362,7 +362,7 @@ foo || bar && baz;
                             "start": 126,
                             "end": 139
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 118,
                         "end": 139
@@ -372,7 +372,7 @@ foo || bar && baz;
                     "start": 118,
                     "end": 140
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 111,
                 "end": 140
@@ -455,7 +455,7 @@ foo || bar && baz;
                                             "start": 165,
                                             "end": 169
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 158,
                                         "end": 169
@@ -491,7 +491,7 @@ foo || bar && baz;
                             "start": 156,
                             "end": 178
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 148,
                         "end": 178
@@ -501,7 +501,7 @@ foo || bar && baz;
                     "start": 148,
                     "end": 179
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 141,
                 "end": 179
@@ -600,7 +600,7 @@ foo || bar && baz;
                                             "start": 211,
                                             "end": 215
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 203,
                                         "end": 215
@@ -610,7 +610,7 @@ foo || bar && baz;
                                     "start": 203,
                                     "end": 216
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 195,
                                 "end": 216
@@ -620,7 +620,7 @@ foo || bar && baz;
                             "start": 195,
                             "end": 217
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 187,
                         "end": 217
@@ -630,7 +630,7 @@ foo || bar && baz;
                     "start": 187,
                     "end": 218
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 180,
                 "end": 218
@@ -673,7 +673,7 @@ foo || bar && baz;
                             "start": 228,
                             "end": 232
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 219,
                         "end": 232
@@ -758,7 +758,7 @@ foo || bar && baz;
                             "start": 256,
                             "end": 260
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 248,
                         "end": 260
@@ -768,7 +768,7 @@ foo || bar && baz;
                     "start": 248,
                     "end": 261
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 241,
                 "end": 261
@@ -831,7 +831,7 @@ foo || bar && baz;
                                     "start": 278,
                                     "end": 282
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 271,
                                 "end": 282
@@ -867,7 +867,7 @@ foo || bar && baz;
                     "start": 269,
                     "end": 291
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 262,
                 "end": 291
@@ -946,7 +946,7 @@ foo || bar && baz;
                                     "start": 315,
                                     "end": 319
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 307,
                                 "end": 319
@@ -956,7 +956,7 @@ foo || bar && baz;
                             "start": 307,
                             "end": 320
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 299,
                         "end": 320
@@ -966,7 +966,7 @@ foo || bar && baz;
                     "start": 299,
                     "end": 321
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 292,
                 "end": 321
@@ -1049,7 +1049,7 @@ foo || bar && baz;
                                             "start": 346,
                                             "end": 350
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 339,
                                         "end": 350
@@ -1085,7 +1085,7 @@ foo || bar && baz;
                             "start": 337,
                             "end": 359
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 329,
                         "end": 359
@@ -1095,7 +1095,7 @@ foo || bar && baz;
                     "start": 329,
                     "end": 360
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 322,
                 "end": 360
@@ -1194,7 +1194,7 @@ foo || bar && baz;
                                             "start": 392,
                                             "end": 396
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 384,
                                         "end": 396
@@ -1204,7 +1204,7 @@ foo || bar && baz;
                                     "start": 384,
                                     "end": 397
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 376,
                                 "end": 397
@@ -1214,7 +1214,7 @@ foo || bar && baz;
                             "start": 376,
                             "end": 398
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 368,
                         "end": 398
@@ -1224,7 +1224,7 @@ foo || bar && baz;
                     "start": 368,
                     "end": 399
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 361,
                 "end": 399
@@ -1267,7 +1267,7 @@ foo || bar && baz;
                             "start": 409,
                             "end": 413
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 400,
                         "end": 413
@@ -1352,7 +1352,7 @@ foo || bar && baz;
                             "start": 437,
                             "end": 441
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 429,
                         "end": 441
@@ -1362,7 +1362,7 @@ foo || bar && baz;
                     "start": 429,
                     "end": 442
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 422,
                 "end": 442
@@ -1425,7 +1425,7 @@ foo || bar && baz;
                                     "start": 459,
                                     "end": 463
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 452,
                                 "end": 463
@@ -1461,7 +1461,7 @@ foo || bar && baz;
                     "start": 450,
                     "end": 472
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 443,
                 "end": 472
@@ -1540,7 +1540,7 @@ foo || bar && baz;
                                     "start": 496,
                                     "end": 500
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 488,
                                 "end": 500
@@ -1550,7 +1550,7 @@ foo || bar && baz;
                             "start": 488,
                             "end": 501
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 480,
                         "end": 501
@@ -1560,7 +1560,7 @@ foo || bar && baz;
                     "start": 480,
                     "end": 502
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 473,
                 "end": 502
@@ -1643,7 +1643,7 @@ foo || bar && baz;
                                             "start": 527,
                                             "end": 531
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 520,
                                         "end": 531
@@ -1679,7 +1679,7 @@ foo || bar && baz;
                             "start": 518,
                             "end": 540
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 510,
                         "end": 540
@@ -1689,7 +1689,7 @@ foo || bar && baz;
                     "start": 510,
                     "end": 541
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 503,
                 "end": 541
@@ -1788,7 +1788,7 @@ foo || bar && baz;
                                             "start": 573,
                                             "end": 577
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 565,
                                         "end": 577
@@ -1798,7 +1798,7 @@ foo || bar && baz;
                                     "start": 565,
                                     "end": 578
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 557,
                                 "end": 578
@@ -1808,7 +1808,7 @@ foo || bar && baz;
                             "start": 557,
                             "end": 579
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 549,
                         "end": 579
@@ -1818,7 +1818,7 @@ foo || bar && baz;
                     "start": 549,
                     "end": 580
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 542,
                 "end": 580
@@ -1861,7 +1861,7 @@ foo || bar && baz;
                             "start": 644,
                             "end": 648
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 581,
                         "end": 648
@@ -1930,7 +1930,7 @@ foo || bar && baz;
                             "start": 665,
                             "end": 669
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 657,
                         "end": 669
@@ -2015,7 +2015,7 @@ foo || bar && baz;
                             "start": 694,
                             "end": 698
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 686,
                         "end": 698
@@ -2025,7 +2025,7 @@ foo || bar && baz;
                     "start": 686,
                     "end": 699
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 678,
                 "end": 699
@@ -2084,7 +2084,7 @@ foo || bar && baz;
                             "start": 715,
                             "end": 719
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 707,
                         "end": 719
@@ -2094,7 +2094,7 @@ foo || bar && baz;
                     "start": 707,
                     "end": 720
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 700,
                 "end": 720
@@ -2135,7 +2135,7 @@ foo || bar && baz;
                         "start": 783,
                         "end": 787
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 721,
                     "end": 787
@@ -2156,7 +2156,7 @@ foo || bar && baz;
                     "start": 790,
                     "end": 794
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 721,
                 "end": 794
@@ -2213,12 +2213,12 @@ foo || bar && baz;
                         "start": 809,
                         "end": 813
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 806,
                     "end": 813
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 795,
                 "end": 813

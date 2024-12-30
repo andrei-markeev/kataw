@@ -56,7 +56,7 @@ foo in bar
                     "start": 6,
                     "end": 10
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 10

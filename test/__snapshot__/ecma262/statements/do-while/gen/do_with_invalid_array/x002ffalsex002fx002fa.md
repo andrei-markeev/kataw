@@ -99,7 +99,7 @@ do while [catch] /false//a
                             "start": 15,
                             "end": 15
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 10,
                         "end": 15
@@ -111,7 +111,7 @@ do while [catch] /false//a
                     "start": 10,
                     "end": 15
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 15
@@ -126,7 +126,7 @@ do while [catch] /false//a
                 "start": 15,
                 "end": 15
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 15
@@ -160,7 +160,7 @@ do while [catch] /false//a
                     "start": 25,
                     "end": 26
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 16,
                 "end": 26

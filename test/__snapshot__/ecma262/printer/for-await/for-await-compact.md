@@ -120,7 +120,7 @@ async function y() { for await(x of {}); }
                                 "start": 38,
                                 "end": 39
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 20,
                             "end": 39
@@ -240,7 +240,7 @@ async function y() { for await(x of {}); }
                                 "start": 82,
                                 "end": 83
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 63,
                             "end": 83

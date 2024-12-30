@@ -95,7 +95,7 @@ for ([] + b in obj);
                         "start": 14,
                         "end": 18
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 11,
                     "end": 18
@@ -105,8 +105,7 @@ for ([] + b in obj);
                 "start": 0,
                 "end": 18
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -115,6 +114,7 @@ for ([] + b in obj);
                 "start": 18,
                 "end": 18
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -122,7 +122,7 @@ for ([] + b in obj);
                 "start": 19,
                 "end": 20
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 20

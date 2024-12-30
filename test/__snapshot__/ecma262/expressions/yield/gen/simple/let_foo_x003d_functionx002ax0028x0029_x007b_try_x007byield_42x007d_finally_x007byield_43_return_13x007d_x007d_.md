@@ -200,7 +200,7 @@ let foo = function*() { try {yield 42} finally {yield 43; return 13} };
                                                                 "start": 64,
                                                                 "end": 67
                                                             },
-                                                            "flags": 80,
+                                                            "flags": 16,
                                                             "transformFlags": 256,
                                                             "start": 57,
                                                             "end": 67

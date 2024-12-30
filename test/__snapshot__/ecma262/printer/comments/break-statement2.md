@@ -96,7 +96,7 @@ foo: while (
                     "start": 33,
                     "end": 66
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 4,
                 "end": 66

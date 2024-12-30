@@ -95,7 +95,7 @@ var a = b ? (c + e) : d => c+e;
                                         "start": 16,
                                         "end": 18
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 11,
                                     "end": 18
@@ -160,7 +160,7 @@ var a = b ? (c + e) : d => c+e;
                                         "start": 29,
                                         "end": 30
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 26,
                                     "end": 30

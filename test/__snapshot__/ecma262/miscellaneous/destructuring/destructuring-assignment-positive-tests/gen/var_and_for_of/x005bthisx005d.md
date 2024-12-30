@@ -233,7 +233,7 @@ var x, y, z; for (x of x = [this] = z = {});
                 "start": 43,
                 "end": 44
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 12,
             "end": 44

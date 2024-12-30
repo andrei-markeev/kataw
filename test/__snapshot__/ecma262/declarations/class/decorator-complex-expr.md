@@ -94,7 +94,7 @@ class A {
                                                             "start": 15,
                                                             "end": 16
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 13,
                                                         "end": 16
@@ -108,7 +108,7 @@ class A {
                                                         "start": 17,
                                                         "end": 18
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 13,
                                                     "end": 18
@@ -122,7 +122,7 @@ class A {
                                                     "start": 19,
                                                     "end": 20
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 2,
                                                 "start": 13,
                                                 "end": 20

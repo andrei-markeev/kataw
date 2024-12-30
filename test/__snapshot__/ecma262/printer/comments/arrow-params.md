@@ -4924,7 +4924,7 @@ foo(
                                                 "start": 2218,
                                                 "end": 2259
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 2214,
                                             "end": 2259

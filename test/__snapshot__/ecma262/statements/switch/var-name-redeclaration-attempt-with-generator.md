@@ -198,7 +198,7 @@ switch (0) { case 1: var f; default: function* f() {} }
                 "start": 12,
                 "end": 53
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 55

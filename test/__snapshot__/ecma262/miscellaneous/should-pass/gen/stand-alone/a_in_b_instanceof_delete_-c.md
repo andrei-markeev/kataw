@@ -53,7 +53,7 @@ a in b instanceof delete -c
                         "start": 4,
                         "end": 6
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 6
@@ -102,7 +102,7 @@ a in b instanceof delete -c
                     "start": 17,
                     "end": 27
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 27

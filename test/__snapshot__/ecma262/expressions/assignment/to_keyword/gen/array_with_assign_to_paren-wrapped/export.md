@@ -91,7 +91,7 @@ async x => (export) = 1
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 12,
             "end": 18

@@ -80,7 +80,7 @@ computedDescriptionLines = (focused &&
                                             "start": 48,
                                             "end": 77
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 32,
                                         "end": 77
@@ -142,7 +142,7 @@ computedDescriptionLines = (focused &&
                                                 "start": 95,
                                                 "end": 104
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 81,
                                             "end": 104
@@ -163,7 +163,7 @@ computedDescriptionLines = (focused &&
                                             "start": 107,
                                             "end": 131
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 81,
                                         "end": 131
@@ -282,7 +282,7 @@ computedDescriptionLines = (focused &&
                                     "start": 195,
                                     "end": 206
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 183,
                                 "end": 206
@@ -303,7 +303,7 @@ computedDescriptionLines = (focused &&
                                 "start": 209,
                                 "end": 235
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 183,
                             "end": 235

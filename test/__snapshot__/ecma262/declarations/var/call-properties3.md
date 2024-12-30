@@ -451,7 +451,7 @@ var z : Object = (x) => "hi"
                         "start": 298,
                         "end": 304
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 295,
                     "end": 304
@@ -753,7 +753,7 @@ var z : Object = (x) => "hi"
                                         "start": 387,
                                         "end": 395
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 384,
                                     "end": 395
@@ -1133,7 +1133,7 @@ var z : Object = (x) => "hi"
                                         "start": 580,
                                         "end": 587
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 577,
                                     "end": 587
@@ -1811,7 +1811,7 @@ var z : Object = (x) => "hi"
                                                     "start": 834,
                                                     "end": 836
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 830,
                                                 "end": 836

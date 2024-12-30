@@ -101,7 +101,7 @@ function *f(x = delete ((new) = f)) {}
                                                 "end": 28
                                             },
                                             "argumentList": null,
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 2048,
                                             "start": 25,
                                             "end": 28

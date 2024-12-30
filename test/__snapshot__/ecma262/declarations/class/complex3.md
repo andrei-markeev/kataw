@@ -661,7 +661,7 @@ var stringArr:Array<string> = ['a','b'];
                                                                                 "end": 220
                                                                             },
                                                                             "argumentList": null,
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 2048,
                                                                             "start": 212,
                                                                             "end": 220
@@ -1002,7 +1002,7 @@ var stringArr:Array<string> = ['a','b'];
                                                             "start": 332,
                                                             "end": 333
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 318,
                                                         "end": 333
@@ -1312,7 +1312,7 @@ var stringArr:Array<string> = ['a','b'];
                                                             "start": 437,
                                                             "end": 444
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 423,
                                                         "end": 444
@@ -1370,12 +1370,12 @@ var stringArr:Array<string> = ['a','b'];
                                                         "start": 476,
                                                         "end": 483
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 470,
                                                     "end": 483
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 455,
                                                 "end": 484

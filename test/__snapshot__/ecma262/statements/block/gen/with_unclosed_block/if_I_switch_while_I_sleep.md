@@ -160,14 +160,14 @@
                                             "start": 29,
                                             "end": 29
                                         },
-                                        "flags": 80,
+                                        "flags": 16,
                                         "transformFlags": 0,
                                         "start": 22,
                                         "end": 29
                                     },
                                     "elseKeyword": null,
                                     "alternate": null,
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 17,
                                     "end": 29
@@ -206,7 +206,7 @@
                                         "start": 37,
                                         "end": 43
                                     },
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 29,
                                     "end": 43

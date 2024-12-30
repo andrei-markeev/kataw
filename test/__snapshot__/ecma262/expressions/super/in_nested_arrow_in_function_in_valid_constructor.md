@@ -187,7 +187,7 @@ class x extends y { constructor(){ return function() { return () => super.foo; }
                                                                                 "start": 74,
                                                                                 "end": 77
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 2,
                                                                             "start": 67,
                                                                             "end": 77
@@ -197,7 +197,7 @@ class x extends y { constructor(){ return function() { return () => super.foo; }
                                                                         "start": 61,
                                                                         "end": 77
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 54,
                                                                     "end": 78
@@ -219,7 +219,7 @@ class x extends y { constructor(){ return function() { return () => super.foo; }
                                                     "start": 41,
                                                     "end": 80
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 256,
                                                 "start": 34,
                                                 "end": 80

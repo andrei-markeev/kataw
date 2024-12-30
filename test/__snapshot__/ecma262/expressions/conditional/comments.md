@@ -193,7 +193,7 @@ c */? foo : bar : bar;
                                             "start": 25,
                                             "end": 32
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 19,
                                         "end": 32
@@ -207,12 +207,12 @@ c */? foo : bar : bar;
                                         "start": 33,
                                         "end": 39
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 19,
                                     "end": 39
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 13,
                                 "end": 39
@@ -304,7 +304,7 @@ c */? foo : bar : bar;
                                                                 "start": 106,
                                                                 "end": 113
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 100,
                                                             "end": 113
@@ -388,7 +388,7 @@ c */? foo : bar : bar;
                                                         "start": 100,
                                                         "end": 140
                                                     },
-                                                    "flags": 81,
+                                                    "flags": 17,
                                                     "transformFlags": 256,
                                                     "start": 87,
                                                     "end": 141
@@ -502,7 +502,7 @@ c */? foo : bar : bar;
                                                                 "start": 214,
                                                                 "end": 221
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 208,
                                                             "end": 221
@@ -574,7 +574,7 @@ c */? foo : bar : bar;
                                                         "start": 208,
                                                         "end": 244
                                                     },
-                                                    "flags": 81,
+                                                    "flags": 17,
                                                     "transformFlags": 256,
                                                     "start": 195,
                                                     "end": 245
@@ -601,7 +601,7 @@ c */? foo : bar : bar;
                                 "start": 152,
                                 "end": 252
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 4096,
                             "start": 13,
                             "end": 252
@@ -689,7 +689,7 @@ c */? foo : bar : bar;
                                             "start": 280,
                                             "end": 287
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 274,
                                         "end": 287
@@ -703,12 +703,12 @@ c */? foo : bar : bar;
                                         "start": 288,
                                         "end": 294
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 274,
                                     "end": 294
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 268,
                                 "end": 294
@@ -800,7 +800,7 @@ c */? foo : bar : bar;
                                                                 "start": 361,
                                                                 "end": 368
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 355,
                                                             "end": 368
@@ -884,7 +884,7 @@ c */? foo : bar : bar;
                                                         "start": 355,
                                                         "end": 395
                                                     },
-                                                    "flags": 81,
+                                                    "flags": 17,
                                                     "transformFlags": 256,
                                                     "start": 342,
                                                     "end": 396
@@ -998,7 +998,7 @@ c */? foo : bar : bar;
                                                                 "start": 469,
                                                                 "end": 476
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 463,
                                                             "end": 476
@@ -1070,7 +1070,7 @@ c */? foo : bar : bar;
                                                         "start": 463,
                                                         "end": 499
                                                     },
-                                                    "flags": 81,
+                                                    "flags": 17,
                                                     "transformFlags": 256,
                                                     "start": 450,
                                                     "end": 500
@@ -1097,7 +1097,7 @@ c */? foo : bar : bar;
                                 "start": 407,
                                 "end": 507
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 4096,
                             "start": 268,
                             "end": 507
@@ -1219,7 +1219,7 @@ c */? foo : bar : bar;
                                                                                 "start": 674,
                                                                                 "end": 679
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 2,
                                                                             "start": 662,
                                                                             "end": 679
@@ -1474,7 +1474,7 @@ c */? foo : bar : bar;
                                                                                 "start": 883,
                                                                                 "end": 888
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 2,
                                                                             "start": 871,
                                                                             "end": 888
@@ -1729,7 +1729,7 @@ c */? foo : bar : bar;
                                                                                 "start": 1088,
                                                                                 "end": 1093
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 2,
                                                                             "start": 1076,
                                                                             "end": 1093
@@ -1950,7 +1950,7 @@ c */? foo : bar : bar;
                                             "start": 1165,
                                             "end": 1168
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 1156,
                                         "end": 1168
@@ -1964,7 +1964,7 @@ c */? foo : bar : bar;
                                         "start": 1169,
                                         "end": 1177
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 1156,
                                     "end": 1177
@@ -1985,7 +1985,7 @@ c */? foo : bar : bar;
                                     "start": 1181,
                                     "end": 1194
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 1156,
                                 "end": 1194
@@ -2074,7 +2074,7 @@ c */? foo : bar : bar;
                                 "start": 1239,
                                 "end": 1270
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 4096,
                             "start": 1156,
                             "end": 1270

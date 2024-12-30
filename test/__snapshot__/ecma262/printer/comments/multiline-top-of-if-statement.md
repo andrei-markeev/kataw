@@ -119,7 +119,7 @@
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 13,
             "end": 104

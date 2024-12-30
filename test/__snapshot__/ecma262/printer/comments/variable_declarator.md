@@ -1178,7 +1178,7 @@ const foo3 = 123
                                         "start": 598,
                                         "end": 601
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 589,
                                     "end": 601

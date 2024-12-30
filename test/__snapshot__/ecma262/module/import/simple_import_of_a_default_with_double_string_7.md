@@ -115,7 +115,7 @@ import {x as z,} from "y"
                 "start": 0,
                 "end": 16
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 25

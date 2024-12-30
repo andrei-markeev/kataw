@@ -161,7 +161,7 @@ hello();
                                                         "start": 65,
                                                         "end": 68
                                                     },
-                                                    "flags": 97,
+                                                    "flags": 33,
                                                     "transformFlags": 2,
                                                     "start": 54,
                                                     "end": 68
@@ -196,7 +196,7 @@ hello();
                                                                 "start": 78,
                                                                 "end": 87
                                                             },
-                                                            "flags": 4194400,
+                                                            "flags": 4194336,
                                                             "transformFlags": 5120,
                                                             "start": 69,
                                                             "end": 87

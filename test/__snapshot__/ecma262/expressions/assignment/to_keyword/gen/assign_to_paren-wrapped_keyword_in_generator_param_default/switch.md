@@ -143,7 +143,7 @@ function *f(x = (switch) = f) {}
                 "start": 24,
                 "end": 24
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 17,
             "end": 24

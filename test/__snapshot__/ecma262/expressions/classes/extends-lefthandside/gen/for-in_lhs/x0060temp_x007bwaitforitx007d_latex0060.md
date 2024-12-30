@@ -63,7 +63,7 @@ for (`temp {waitforit} late` in x) ;
                 "start": 34,
                 "end": 36
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 36

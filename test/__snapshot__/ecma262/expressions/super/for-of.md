@@ -88,8 +88,7 @@ for (a?.b of c);
                 "start": 5,
                 "end": 12
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 134299649,
                 "text": "c",
                 "rawText": "c",
@@ -98,6 +97,7 @@ for (a?.b of c);
                 "start": 12,
                 "end": 14
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -105,7 +105,7 @@ for (a?.b of c);
                 "start": 15,
                 "end": 16
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 16

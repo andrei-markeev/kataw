@@ -114,7 +114,7 @@ s.map(// do something
                         "start": 35,
                         "end": 38
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 32,
                     "end": 38

@@ -52,7 +52,7 @@ for(let.a of 0);
                     "start": 8,
                     "end": 9
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 4,
                 "end": 9
@@ -80,7 +80,7 @@ for(let.a of 0);
                 "start": 15,
                 "end": 16
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 16

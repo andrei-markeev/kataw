@@ -113,7 +113,7 @@ foo: bar: do { do continue foo; while(z); } while(z)
                                         "start": 38,
                                         "end": 39
                                     },
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 14,
                                     "end": 41
@@ -145,7 +145,7 @@ foo: bar: do { do continue foo; while(z); } while(z)
                         "start": 50,
                         "end": 51
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 9,
                     "end": 52

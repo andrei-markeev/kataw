@@ -241,7 +241,7 @@ function * gen() { function not_gen() { function* gf() { switch (1) { case yield
                                                                 "start": 69,
                                                                 "end": 95
                                                             },
-                                                            "flags": 80,
+                                                            "flags": 16,
                                                             "transformFlags": 0,
                                                             "start": 56,
                                                             "end": 97

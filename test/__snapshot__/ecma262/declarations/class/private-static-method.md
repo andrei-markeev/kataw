@@ -173,7 +173,7 @@ class A {
                                                             "start": 49,
                                                             "end": 56
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 42,
                                                         "end": 56
@@ -235,7 +235,7 @@ class A {
                                                                             "start": 70,
                                                                             "end": 77
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 68,
                                                                         "end": 77

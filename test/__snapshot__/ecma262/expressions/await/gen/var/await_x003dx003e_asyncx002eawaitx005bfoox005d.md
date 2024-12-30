@@ -144,7 +144,7 @@ var await; var f = (async function() { await => async.await[foo] });
                         "start": 54,
                         "end": 59
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2,
                     "start": 47,
                     "end": 59

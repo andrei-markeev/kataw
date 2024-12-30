@@ -74,7 +74,7 @@ for (x in y in x) ;
                     "start": 14,
                     "end": 16
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 9,
                 "end": 16
@@ -86,7 +86,7 @@ for (x in y in x) ;
                 "start": 17,
                 "end": 19
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 19

@@ -202,7 +202,7 @@ function not_gen() { function* foo() { var x = 10; yield 1; return x; } }}
                                                 "start": 66,
                                                 "end": 68
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 59,
                                             "end": 69

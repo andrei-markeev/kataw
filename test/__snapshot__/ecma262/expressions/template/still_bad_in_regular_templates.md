@@ -78,7 +78,7 @@
 ### Diagnostics
 
 ```javascript
-✖ Octal escape sequences are not allowed in template literal - start: 1, end: 3
+✖ Invalid hexadecimal escape sequence - start: 1, end: 3
 
 ```
 

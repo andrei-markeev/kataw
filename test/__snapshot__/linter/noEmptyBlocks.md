@@ -64,7 +64,7 @@ if (foo) {
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 11
@@ -124,7 +124,7 @@ if (foo) {
                 "start": 43,
                 "end": 46
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 11,
             "end": 46

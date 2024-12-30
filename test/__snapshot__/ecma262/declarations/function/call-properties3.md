@@ -224,7 +224,7 @@ function e(x: { (): string; (x: number): string }): () => number {
                                 "start": 75,
                                 "end": 77
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 66,
                             "end": 78

@@ -126,7 +126,7 @@ class C { foo() { this.#a = 1; }}
                                                                         "start": 28,
                                                                         "end": 30
                                                                     },
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 2,
                                                                     "start": 22,
                                                                     "end": 30
@@ -290,12 +290,12 @@ class C { foo() { this.#a = 1; }}
                                                                         "start": 75,
                                                                         "end": 77
                                                                     },
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 2,
                                                                     "start": 69,
                                                                     "end": 77
                                                                 },
-                                                                "flags": 80,
+                                                                "flags": 16,
                                                                 "transformFlags": 256,
                                                                 "start": 62,
                                                                 "end": 78
@@ -468,12 +468,12 @@ class C { foo() { this.#a = 1; }}
                                                         "start": 126,
                                                         "end": 128
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 120,
                                                     "end": 128
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 256,
                                                 "start": 113,
                                                 "end": 129
@@ -601,7 +601,7 @@ class C { foo() { this.#a = 1; }}
                                                             "start": 157,
                                                             "end": 159
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 151,
                                                         "end": 159

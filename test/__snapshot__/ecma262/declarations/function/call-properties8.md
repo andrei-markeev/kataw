@@ -187,7 +187,7 @@ function b(x: { (z: number): string }): (z: number) => number {
                                 "start": 72,
                                 "end": 74
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 63,
                             "end": 75

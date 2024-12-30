@@ -37,7 +37,7 @@ for /* comment */(;;);
                 "start": 19,
                 "end": 20
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 20
@@ -61,7 +61,7 @@ for /* comment */(;;);
                 "start": 43,
                 "end": 44
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 20,
             "end": 44

@@ -388,12 +388,12 @@ type T = { [string]: Class<null> }
                                     "start": 97,
                                     "end": 97
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2048,
                                 "start": 90,
                                 "end": 98
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 81,
                             "end": 99

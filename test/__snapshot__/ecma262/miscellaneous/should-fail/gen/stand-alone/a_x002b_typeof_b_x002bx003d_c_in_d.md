@@ -65,7 +65,7 @@ a + typeof b += c in d
                     "start": 3,
                     "end": 12
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 12
@@ -104,7 +104,7 @@ a + typeof b += c in d
                     "start": 20,
                     "end": 22
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 15,
                 "end": 22

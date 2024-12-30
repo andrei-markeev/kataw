@@ -64,7 +64,7 @@ x + + y.x
                             "start": 8,
                             "end": 9
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2,
                         "start": 5,
                         "end": 9
@@ -74,7 +74,7 @@ x + + y.x
                     "start": 3,
                     "end": 9
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 9

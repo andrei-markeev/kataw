@@ -99,7 +99,7 @@ do while [catch] async funcion switch!!
                             "start": 15,
                             "end": 15
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 10,
                         "end": 15
@@ -111,7 +111,7 @@ do while [catch] async funcion switch!!
                     "start": 10,
                     "end": 15
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 15
@@ -126,7 +126,7 @@ do while [catch] async funcion switch!!
                 "start": 15,
                 "end": 15
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 15
@@ -227,7 +227,7 @@ do while [catch] async funcion switch!!
                 "start": 39,
                 "end": 39
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 30,
             "end": 39

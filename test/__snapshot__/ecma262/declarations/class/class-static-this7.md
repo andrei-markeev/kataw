@@ -128,7 +128,7 @@ x = class { static x = class { [this.y] } }
                                                                     "start": 37,
                                                                     "end": 38
                                                                 },
-                                                                "flags": 96,
+                                                                "flags": 32,
                                                                 "transformFlags": 2,
                                                                 "start": 32,
                                                                 "end": 38

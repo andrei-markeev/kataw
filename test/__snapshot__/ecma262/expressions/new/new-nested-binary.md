@@ -46,7 +46,7 @@ new C<T>(e)
                             "end": 5
                         },
                         "argumentList": null,
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2048,
                         "start": 0,
                         "end": 5
@@ -67,7 +67,7 @@ new C<T>(e)
                         "start": 6,
                         "end": 7
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 7
@@ -95,7 +95,7 @@ new C<T>(e)
                     "start": 8,
                     "end": 11
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 11

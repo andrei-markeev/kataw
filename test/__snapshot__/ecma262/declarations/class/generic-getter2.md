@@ -374,12 +374,12 @@ class C<T> {
                                                         "start": 85,
                                                         "end": 89
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 79,
                                                     "end": 89
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 64,
                                                 "end": 90

@@ -268,12 +268,12 @@
                                 "start": 39,
                                 "end": 40
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 30,
                             "end": 40
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 24,
                         "end": 40

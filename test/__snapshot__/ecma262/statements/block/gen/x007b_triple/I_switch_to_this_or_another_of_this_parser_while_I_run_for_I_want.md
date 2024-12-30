@@ -79,7 +79,7 @@
                                                     "start": 17,
                                                     "end": 17
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 0,
                                                 "start": 7,
                                                 "end": 17
@@ -210,7 +210,7 @@
                                                     "start": 56,
                                                     "end": 60
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 0,
                                                 "start": 48,
                                                 "end": 60
@@ -234,21 +234,21 @@
                                                     "end": 66
                                                 },
                                                 "condition": {
-                                                    "kind": 16637,
-                                                    "text": "",
-                                                    "rawText": "",
-                                                    "flags": 64,
-                                                    "transformFlags": 0,
-                                                    "start": 71,
-                                                    "end": 71
-                                                },
-                                                "incrementor": {
                                                     "kind": 134299649,
                                                     "text": "want",
                                                     "rawText": "want",
                                                     "flags": 96,
                                                     "transformFlags": 0,
                                                     "start": 66,
+                                                    "end": 71
+                                                },
+                                                "incrementor": {
+                                                    "kind": 16637,
+                                                    "text": "",
+                                                    "rawText": "",
+                                                    "flags": 64,
+                                                    "transformFlags": 0,
+                                                    "start": 71,
                                                     "end": 71
                                                 },
                                                 "statement": {
@@ -267,7 +267,7 @@
                                                     "start": 71,
                                                     "end": 71
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 0,
                                                 "start": 60,
                                                 "end": 71

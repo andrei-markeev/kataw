@@ -87,7 +87,7 @@ function call(foo= 5 + (await bar())){}
                                 "start": 22,
                                 "end": 29
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 18,
                             "end": 29

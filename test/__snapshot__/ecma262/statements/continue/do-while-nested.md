@@ -96,7 +96,7 @@ function f(){ do        if (x) continue   ; while(true);}
                                 },
                                 "elseKeyword": null,
                                 "alternate": null,
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 16,
                                 "end": 43
@@ -115,7 +115,7 @@ function f(){ do        if (x) continue   ; while(true);}
                                 "start": 50,
                                 "end": 54
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 13,
                             "end": 56

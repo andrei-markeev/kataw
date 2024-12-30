@@ -81,18 +81,17 @@
                                     "start": 13,
                                     "end": 15
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 10,
                                 "end": 15
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 1,
                             "end": 15
                         },
-                        "condition": null,
-                        "incrementor": {
+                        "condition": {
                             "kind": 16637,
                             "text": "",
                             "rawText": "",
@@ -101,6 +100,7 @@
                             "start": 15,
                             "end": 15
                         },
+                        "incrementor": null,
                         "statement": {
                             "kind": 120,
                             "expression": {
@@ -117,7 +117,7 @@
                             "start": 16,
                             "end": 19
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 1,
                         "end": 19

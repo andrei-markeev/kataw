@@ -134,12 +134,12 @@ function g(x: any): string {
                                     "start": 42,
                                     "end": 44
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 37,
                                 "end": 44
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 28,
                             "end": 45

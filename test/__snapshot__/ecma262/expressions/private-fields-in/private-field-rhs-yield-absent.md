@@ -150,7 +150,7 @@ class C {
                                                         "start": 54,
                                                         "end": 60
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 40,
                                                     "end": 60

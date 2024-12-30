@@ -206,7 +206,7 @@ var sillyFunction = function(recursed) {
                                                                 "start": 50,
                                                                 "end": 52
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 5120,
                                                             "start": 46,
                                                             "end": 52
@@ -268,7 +268,7 @@ var sillyFunction = function(recursed) {
                                                                 "start": 70,
                                                                 "end": 76
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 59,
                                                             "end": 76
@@ -303,7 +303,7 @@ var sillyFunction = function(recursed) {
                                                                         "start": 80,
                                                                         "end": 82
                                                                     },
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 5120,
                                                                     "start": 77,
                                                                     "end": 82
@@ -346,7 +346,7 @@ var sillyFunction = function(recursed) {
                                                 "start": 44,
                                                 "end": 87
                                             },
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 256,
                                             "start": 33,
                                             "end": 88
@@ -516,7 +516,7 @@ var sillyFunction = function(recursed) {
                                                                         "start": 173,
                                                                         "end": 179
                                                                     },
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 2,
                                                                     "start": 162,
                                                                     "end": 179
@@ -543,7 +543,7 @@ var sillyFunction = function(recursed) {
                                                                 "start": 162,
                                                                 "end": 185
                                                             },
-                                                            "flags": 80,
+                                                            "flags": 16,
                                                             "transformFlags": 256,
                                                             "start": 155,
                                                             "end": 186
@@ -561,7 +561,7 @@ var sillyFunction = function(recursed) {
                                             },
                                             "elseKeyword": null,
                                             "alternate": null,
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 0,
                                             "start": 134,
                                             "end": 188
@@ -600,7 +600,7 @@ var sillyFunction = function(recursed) {
                                                     "start": 205,
                                                     "end": 212
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 197,
                                                 "end": 212
@@ -651,7 +651,7 @@ var sillyFunction = function(recursed) {
                                                                                 "start": 243,
                                                                                 "end": 248
                                                                             },
-                                                                            "flags": 4194400,
+                                                                            "flags": 4194336,
                                                                             "transformFlags": 5120,
                                                                             "start": 230,
                                                                             "end": 248
@@ -749,7 +749,7 @@ var sillyFunction = function(recursed) {
                                                 "start": 261,
                                                 "end": 306
                                             },
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 0,
                                             "start": 188,
                                             "end": 306

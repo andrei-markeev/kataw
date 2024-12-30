@@ -95,7 +95,7 @@ async x => (return) = 1
                 "start": 18,
                 "end": 18
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 256,
             "start": 12,
             "end": 18

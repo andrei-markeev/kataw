@@ -80,7 +80,7 @@ for (() => { x in y };;);
                                         "start": 17,
                                         "end": 19
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 12,
                                     "end": 19
@@ -115,7 +115,7 @@ for (() => { x in y };;);
                 "start": 24,
                 "end": 25
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 25

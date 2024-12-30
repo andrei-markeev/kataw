@@ -127,7 +127,7 @@ class C { *method() { new super; } }
                                                         "end": 31
                                                     },
                                                     "argumentList": null,
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2048,
                                                     "start": 21,
                                                     "end": 31

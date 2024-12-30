@@ -100,8 +100,7 @@ for (let x, {y});
                 "start": 0,
                 "end": 15
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -110,6 +109,7 @@ for (let x, {y});
                 "start": 15,
                 "end": 15
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -117,7 +117,7 @@ for (let x, {y});
                 "start": 16,
                 "end": 17
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 17

@@ -51,7 +51,7 @@ async in {}
                     "start": 8,
                     "end": 11
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 11

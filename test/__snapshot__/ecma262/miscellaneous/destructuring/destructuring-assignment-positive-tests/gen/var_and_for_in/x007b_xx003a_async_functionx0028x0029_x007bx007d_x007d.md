@@ -269,7 +269,7 @@ var x, y, z; for (x in { x: async function() {} } = z = {});
                 "start": 59,
                 "end": 60
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 12,
             "end": 60

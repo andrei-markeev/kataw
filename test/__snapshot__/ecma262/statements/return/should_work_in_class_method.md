@@ -89,7 +89,7 @@ class x {foo(){ return }}
                                                     "end": 22
                                                 },
                                                 "expression": null,
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 256,
                                                 "start": 15,
                                                 "end": 22

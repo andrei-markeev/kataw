@@ -48,7 +48,7 @@ new test<_>();
                             "end": 8
                         },
                         "argumentList": null,
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2048,
                         "start": 0,
                         "end": 8
@@ -69,7 +69,7 @@ new test<_>();
                         "start": 9,
                         "end": 10
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 10
@@ -90,7 +90,7 @@ new test<_>();
                     "start": 11,
                     "end": 11
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 13

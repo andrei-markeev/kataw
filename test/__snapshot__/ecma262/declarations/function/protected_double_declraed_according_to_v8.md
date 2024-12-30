@@ -120,12 +120,12 @@ const protected = x, function arguments(){}
                                     "start": 46,
                                     "end": 61
                                 },
-                                "flags": 81,
+                                "flags": 17,
                                 "transformFlags": 0,
                                 "start": 31,
                                 "end": 67
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 21,
                             "end": 67

@@ -56,7 +56,7 @@ defaultContent.filter(defaultLocale => {
                         "start": 5,
                         "end": 23
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2,
                     "start": 0,
                     "end": 23
@@ -92,7 +92,7 @@ defaultContent.filter(defaultLocale => {
                                 "start": 33,
                                 "end": 36
                             },
-                            "flags": 97,
+                            "flags": 33,
                             "transformFlags": 2,
                             "start": 26,
                             "end": 36
@@ -122,7 +122,7 @@ defaultContent.filter(defaultLocale => {
                                                 "start": 46,
                                                 "end": 63
                                             },
-                                            "flags": 97,
+                                            "flags": 33,
                                             "transformFlags": 2,
                                             "start": 37,
                                             "end": 63
@@ -150,7 +150,7 @@ defaultContent.filter(defaultLocale => {
                                                             "start": 69,
                                                             "end": 87
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 64,
                                                         "end": 87
@@ -171,7 +171,7 @@ defaultContent.filter(defaultLocale => {
                                                         "start": 89,
                                                         "end": 91
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 64,
                                                     "end": 91
@@ -217,7 +217,7 @@ defaultContent.filter(defaultLocale => {
                                                     "start": 105,
                                                     "end": 114
                                                 },
-                                                "flags": 97,
+                                                "flags": 33,
                                                 "transformFlags": 2,
                                                 "start": 94,
                                                 "end": 114
@@ -231,7 +231,7 @@ defaultContent.filter(defaultLocale => {
                                                 "start": 115,
                                                 "end": 125
                                             },
-                                            "flags": 97,
+                                            "flags": 33,
                                             "transformFlags": 2,
                                             "start": 94,
                                             "end": 125
@@ -275,12 +275,12 @@ defaultContent.filter(defaultLocale => {
                                                             "start": 135,
                                                             "end": 153
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 129,
                                                         "end": 153
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 126,
                                                     "end": 153
@@ -335,7 +335,7 @@ defaultContent.filter(defaultLocale => {
                     "start": 158,
                     "end": 165
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 165
@@ -458,7 +458,7 @@ defaultContent.filter(defaultLocale => {
                                         "start": 306,
                                         "end": 313
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 287,
                                     "end": 313
@@ -490,7 +490,7 @@ defaultContent.filter(defaultLocale => {
                                                         "start": 347,
                                                         "end": 352
                                                     },
-                                                    "flags": 97,
+                                                    "flags": 33,
                                                     "transformFlags": 2,
                                                     "start": 314,
                                                     "end": 352
@@ -624,7 +624,7 @@ defaultContent.filter(defaultLocale => {
                                 "start": 388,
                                 "end": 394
                             },
-                            "flags": 97,
+                            "flags": 33,
                             "transformFlags": 2,
                             "start": 371,
                             "end": 394

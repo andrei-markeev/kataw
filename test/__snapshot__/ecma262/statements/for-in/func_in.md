@@ -102,7 +102,7 @@ for (function(){ a in b; }.prop in x);
                                             "start": 21,
                                             "end": 23
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 16,
                                         "end": 23
@@ -166,7 +166,7 @@ for (function(){ a in b; }.prop in x);
                 "start": 37,
                 "end": 38
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 38

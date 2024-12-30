@@ -66,7 +66,7 @@ typeof a == 'b';
                     "start": 3,
                     "end": 5
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 5
@@ -105,7 +105,7 @@ typeof a == 'b';
                     "start": 10,
                     "end": 12
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 6,
                 "end": 12
@@ -144,7 +144,7 @@ typeof a == 'b';
                     "start": 17,
                     "end": 19
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 13,
                 "end": 19
@@ -183,7 +183,7 @@ typeof a == 'b';
                     "start": 24,
                     "end": 26
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 20,
                 "end": 26
@@ -222,7 +222,7 @@ typeof a == 'b';
                     "start": 31,
                     "end": 33
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 27,
                 "end": 33
@@ -261,7 +261,7 @@ typeof a == 'b';
                     "start": 39,
                     "end": 41
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 34,
                 "end": 41
@@ -300,7 +300,7 @@ typeof a == 'b';
                     "start": 46,
                     "end": 48
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 42,
                 "end": 48
@@ -339,7 +339,7 @@ typeof a == 'b';
                     "start": 53,
                     "end": 55
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 49,
                 "end": 55
@@ -378,7 +378,7 @@ typeof a == 'b';
                     "start": 60,
                     "end": 62
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 56,
                 "end": 62
@@ -417,7 +417,7 @@ typeof a == 'b';
                     "start": 68,
                     "end": 70
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 63,
                 "end": 70
@@ -456,7 +456,7 @@ typeof a == 'b';
                     "start": 76,
                     "end": 78
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 71,
                 "end": 78
@@ -495,7 +495,7 @@ typeof a == 'b';
                     "start": 85,
                     "end": 87
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 79,
                 "end": 87
@@ -534,7 +534,7 @@ typeof a == 'b';
                     "start": 94,
                     "end": 96
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 88,
                 "end": 96
@@ -573,7 +573,7 @@ typeof a == 'b';
                     "start": 103,
                     "end": 105
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 97,
                 "end": 105
@@ -612,7 +612,7 @@ typeof a == 'b';
                     "start": 111,
                     "end": 113
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 106,
                 "end": 113
@@ -651,7 +651,7 @@ typeof a == 'b';
                     "start": 119,
                     "end": 121
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 114,
                 "end": 121
@@ -742,12 +742,12 @@ typeof a == 'b';
                         "start": 139,
                         "end": 141
                     },
-                    "flags": 4194400,
+                    "flags": 4194336,
                     "transformFlags": 5120,
                     "start": 136,
                     "end": 141
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 128,
                 "end": 141

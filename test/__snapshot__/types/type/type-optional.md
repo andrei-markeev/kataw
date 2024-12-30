@@ -121,7 +121,7 @@ type a = ??string;
                     "start": 11,
                     "end": 17
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 8,
                 "end": 17

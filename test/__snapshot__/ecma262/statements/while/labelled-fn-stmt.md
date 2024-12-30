@@ -130,7 +130,7 @@ while (false) label1: label2: function f() {}
                 "start": 13,
                 "end": 45
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 45

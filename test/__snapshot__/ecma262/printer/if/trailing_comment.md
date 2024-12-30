@@ -63,7 +63,7 @@ if (
                     "start": 12,
                     "end": 15
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 4,
                 "end": 15
@@ -85,7 +85,7 @@ if (
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 29
@@ -126,7 +126,7 @@ if (
                     "start": 42,
                     "end": 45
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 34,
                 "end": 45
@@ -148,7 +148,7 @@ if (
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 29,
             "end": 69
@@ -189,7 +189,7 @@ if (
                     "start": 83,
                     "end": 86
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 75,
                 "end": 86
@@ -211,7 +211,7 @@ if (
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 69,
             "end": 100
@@ -252,7 +252,7 @@ if (
                     "start": 113,
                     "end": 116
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 105,
                 "end": 116
@@ -274,7 +274,7 @@ if (
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 100,
             "end": 131
@@ -331,7 +331,7 @@ if (
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 131,
             "end": 165

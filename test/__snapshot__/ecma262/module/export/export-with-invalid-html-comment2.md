@@ -120,7 +120,7 @@ export { x }
                     "start": 8,
                     "end": 22
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 6,
                 "end": 22
@@ -178,7 +178,7 @@ export { x }
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 22,
             "end": 35

@@ -59,7 +59,7 @@ new Test()
                                             "start": 9,
                                             "end": 9
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2048,
                                         "start": 0,
                                         "end": 10
@@ -73,7 +73,7 @@ new Test()
                                         "start": 14,
                                         "end": 18
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 0,
                                     "end": 18

@@ -56,7 +56,7 @@ a?
                         "start": 4,
                         "end": 5
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2,
                     "start": 2,
                     "end": 5

@@ -220,7 +220,7 @@ y = (x => {}(0));
                                                                 "start": 26,
                                                                 "end": 27
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 21,
                                                             "end": 27
@@ -355,7 +355,7 @@ y = (x => {}(0));
                                                             "start": 50,
                                                             "end": 51
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 45,
                                                         "end": 51
@@ -477,7 +477,7 @@ y = (x => {}(0));
                                                                 "start": 70,
                                                                 "end": 71
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 65,
                                                             "end": 71
@@ -615,7 +615,7 @@ y = (x => {}(0));
                                                                 "start": 98,
                                                                 "end": 99
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 89,
                                                             "end": 99
@@ -748,7 +748,7 @@ y = (x => {}(0));
                                                     "start": 125,
                                                     "end": 126
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 2,
                                                 "start": 116,
                                                 "end": 126
@@ -871,7 +871,7 @@ y = (x => {}(0));
                                                             "start": 152,
                                                             "end": 153
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 143,
                                                         "end": 153
@@ -993,7 +993,7 @@ y = (x => {}(0));
                                                                 "start": 176,
                                                                 "end": 177
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 167,
                                                             "end": 177
@@ -1235,7 +1235,7 @@ y = (x => {}(0));
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 232,
             "end": 235
@@ -1330,7 +1330,7 @@ y = (x => {}(0));
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 247,
             "end": 251
@@ -1400,7 +1400,7 @@ y = (x => {}(0));
                                 "start": 267,
                                 "end": 269
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 258,
                             "end": 269
@@ -1488,7 +1488,7 @@ y = (x => {}(0));
                                 "start": 286,
                                 "end": 288
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 277,
                             "end": 288

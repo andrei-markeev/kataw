@@ -230,7 +230,7 @@ function e(x: { (): string; (x: number): string }): () => number {
                                 "start": 129,
                                 "end": 131
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 120,
                             "end": 132
@@ -499,7 +499,7 @@ function e(x: { (): string; (x: number): string }): () => number {
                                 "start": 243,
                                 "end": 245
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 234,
                             "end": 246

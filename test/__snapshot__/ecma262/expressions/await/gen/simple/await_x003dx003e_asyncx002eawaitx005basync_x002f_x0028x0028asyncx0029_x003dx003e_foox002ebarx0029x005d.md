@@ -67,7 +67,7 @@ await => async.await[async / ((async) => foo.bar)]
                             "start": 15,
                             "end": 20
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2,
                         "start": 8,
                         "end": 20
@@ -143,7 +143,7 @@ await => async.await[async / ((async) => foo.bar)]
                                         "start": 45,
                                         "end": 48
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 40,
                                     "end": 48
@@ -158,7 +158,7 @@ await => async.await[async / ((async) => foo.bar)]
                             "start": 28,
                             "end": 49
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 21,
                         "end": 49

@@ -120,7 +120,7 @@ class z { #\u0020oo }
                                     "start": 32,
                                     "end": 36
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2,
                                 "start": 26,
                                 "end": 36

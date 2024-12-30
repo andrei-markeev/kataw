@@ -65,7 +65,7 @@ function f(){
                                 "end": 22
                             },
                             "expression": null,
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 13,
                             "end": 22

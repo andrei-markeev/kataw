@@ -67,7 +67,7 @@ for (let ...a = 1;;);
                 "start": 8,
                 "end": 8
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 8

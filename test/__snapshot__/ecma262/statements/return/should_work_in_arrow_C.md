@@ -73,7 +73,7 @@
                                     "end": 17
                                 },
                                 "expression": null,
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 256,
                                 "start": 11,
                                 "end": 17

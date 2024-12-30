@@ -95,7 +95,7 @@ function bar(a = v[1 + 1]) {
                                     "start": 22,
                                     "end": 24
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 19,
                                 "end": 24
@@ -216,7 +216,7 @@ function bar(a = v[1 + 1]) {
                                     "start": 54,
                                     "end": 56
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 51,
                                 "end": 56

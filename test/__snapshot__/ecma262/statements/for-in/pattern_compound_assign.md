@@ -95,7 +95,7 @@ for({}/=y in y)x
                         "start": 12,
                         "end": 14
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 8,
                     "end": 14
@@ -105,8 +105,7 @@ for({}/=y in y)x
                 "start": 4,
                 "end": 14
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -115,6 +114,7 @@ for({}/=y in y)x
                 "start": 14,
                 "end": 14
             },
+            "incrementor": null,
             "statement": {
                 "kind": 120,
                 "expression": {
@@ -131,7 +131,7 @@ for({}/=y in y)x
                 "start": 15,
                 "end": 16
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 16

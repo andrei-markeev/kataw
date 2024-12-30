@@ -94,14 +94,14 @@
                                 "start": 14,
                                 "end": 14
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 7,
                             "end": 14
                         },
                         "elseKeyword": null,
                         "alternate": null,
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 2,
                         "end": 14
@@ -140,7 +140,7 @@
                             "start": 22,
                             "end": 28
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 14,
                         "end": 28

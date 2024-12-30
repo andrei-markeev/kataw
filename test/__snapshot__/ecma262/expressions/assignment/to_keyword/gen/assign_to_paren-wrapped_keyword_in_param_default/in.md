@@ -82,7 +82,7 @@ async (x = (in) = f) => {}
                                             "start": 14,
                                             "end": 14
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 12,
                                         "end": 14

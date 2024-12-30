@@ -143,7 +143,7 @@ foo = {
                                                         "start": 47,
                                                         "end": 51
                                                     },
-                                                    "flags": 81,
+                                                    "flags": 17,
                                                     "transformFlags": 256,
                                                     "start": 36,
                                                     "end": 51

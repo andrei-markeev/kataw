@@ -99,7 +99,7 @@ await 0 }
                             },
                             "elseKeyword": null,
                             "alternate": null,
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 17,
                             "end": 28
@@ -232,7 +232,7 @@ await 0 }
                             },
                             "elseKeyword": null,
                             "alternate": null,
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 63,
                             "end": 74

@@ -81,7 +81,7 @@ bar, x => { return x; }
                                             "start": 18,
                                             "end": 20
                                         },
-                                        "flags": 80,
+                                        "flags": 16,
                                         "transformFlags": 256,
                                         "start": 11,
                                         "end": 21

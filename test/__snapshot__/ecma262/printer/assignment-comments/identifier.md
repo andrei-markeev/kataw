@@ -140,12 +140,12 @@ const bifornCringerMoshedPerplexSawder = // !!!
                                     "start": 201,
                                     "end": 237
                                 },
-                                "flags": 97,
+                                "flags": 33,
                                 "transformFlags": 5120,
                                 "start": 199,
                                 "end": 237
                             },
-                            "flags": 97,
+                            "flags": 33,
                             "transformFlags": 5120,
                             "start": 125,
                             "end": 237

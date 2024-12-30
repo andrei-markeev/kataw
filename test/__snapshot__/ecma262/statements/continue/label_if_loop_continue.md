@@ -92,14 +92,14 @@ foo: if (x) while(z) continue foo
                         "start": 20,
                         "end": 33
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 11,
                     "end": 33
                 },
                 "elseKeyword": null,
                 "alternate": null,
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 4,
                 "end": 33

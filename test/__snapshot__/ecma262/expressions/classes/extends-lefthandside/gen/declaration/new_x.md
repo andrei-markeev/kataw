@@ -73,7 +73,7 @@ class A extends new x {}
                             "end": 21
                         },
                         "argumentList": null,
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2048,
                         "start": 15,
                         "end": 21

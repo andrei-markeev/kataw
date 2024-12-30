@@ -82,21 +82,21 @@ for (a ? b : c of x);
             },
             "condition": {
                 "kind": 134299649,
-                "text": "x",
-                "rawText": "x",
-                "flags": 96,
-                "transformFlags": 0,
-                "start": 17,
-                "end": 19
-            },
-            "incrementor": {
-                "kind": 134299649,
                 "text": "of",
                 "rawText": "of",
                 "flags": 96,
                 "transformFlags": 0,
                 "start": 14,
                 "end": 17
+            },
+            "incrementor": {
+                "kind": 134299649,
+                "text": "x",
+                "rawText": "x",
+                "flags": 96,
+                "transformFlags": 0,
+                "start": 17,
+                "end": 19
             },
             "statement": {
                 "kind": 168,
@@ -105,7 +105,7 @@ for (a ? b : c of x);
                 "start": 20,
                 "end": 21
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 21

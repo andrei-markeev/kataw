@@ -335,7 +335,7 @@ async function foo() {
                                 "start": 52,
                                 "end": 96
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2048,
                             "start": 39,
                             "end": 97
@@ -503,7 +503,7 @@ async function foo() {
                                 "start": 165,
                                 "end": 169
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 156,
                             "end": 170

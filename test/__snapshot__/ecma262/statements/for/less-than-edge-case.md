@@ -84,29 +84,6 @@ for (let i = 0; i < require('foo').bar; i++) {
                 "end": 14
             },
             "condition": {
-                "kind": 127,
-                "operandToken": {
-                    "kind": 196635,
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 41,
-                    "end": 43
-                },
-                "operand": {
-                    "kind": 134299649,
-                    "text": "i",
-                    "rawText": "i",
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 39,
-                    "end": 41
-                },
-                "flags": 32,
-                "transformFlags": 0,
-                "start": 39,
-                "end": 43
-            },
-            "incrementor": {
                 "kind": 198,
                 "left": {
                     "kind": 134299649,
@@ -175,10 +152,33 @@ for (let i = 0; i < require('foo').bar; i++) {
                     "start": 19,
                     "end": 38
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 15,
                 "end": 38
+            },
+            "incrementor": {
+                "kind": 127,
+                "operandToken": {
+                    "kind": 196635,
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 41,
+                    "end": 43
+                },
+                "operand": {
+                    "kind": 134299649,
+                    "text": "i",
+                    "rawText": "i",
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 39,
+                    "end": 41
+                },
+                "flags": 32,
+                "transformFlags": 0,
+                "start": 39,
+                "end": 43
             },
             "statement": {
                 "kind": 124,
@@ -238,7 +238,7 @@ for (let i = 0; i < require('foo').bar; i++) {
                 "start": 44,
                 "end": 58
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 58

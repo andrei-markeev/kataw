@@ -174,7 +174,7 @@ for(function () { for (const x in { a: x }) { } } in y);
                                     "start": 43,
                                     "end": 47
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 17,
                                 "end": 47
@@ -219,7 +219,7 @@ for(function () { for (const x in { a: x }) { } } in y);
                 "start": 55,
                 "end": 56
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 56

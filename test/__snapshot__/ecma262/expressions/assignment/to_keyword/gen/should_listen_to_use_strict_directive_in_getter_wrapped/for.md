@@ -166,8 +166,7 @@ foo = {
                                                         "start": 42,
                                                         "end": 49
                                                     },
-                                                    "condition": null,
-                                                    "incrementor": {
+                                                    "condition": {
                                                         "kind": 16637,
                                                         "text": "",
                                                         "rawText": "",
@@ -176,6 +175,7 @@ foo = {
                                                         "start": 49,
                                                         "end": 49
                                                     },
+                                                    "incrementor": null,
                                                     "statement": {
                                                         "kind": 168,
                                                         "flags": 16,
@@ -183,7 +183,7 @@ foo = {
                                                         "start": 50,
                                                         "end": 51
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 0,
                                                     "start": 42,
                                                     "end": 51

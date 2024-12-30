@@ -99,7 +99,7 @@ do while [catch] catch { try
                             "start": 15,
                             "end": 15
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 10,
                         "end": 15
@@ -111,7 +111,7 @@ do while [catch] catch { try
                     "start": 10,
                     "end": 15
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 15
@@ -126,7 +126,7 @@ do while [catch] catch { try
                 "start": 15,
                 "end": 15
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 15
@@ -221,7 +221,7 @@ do while [catch] catch { try
                     "start": 22,
                     "end": 28
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 16,
                 "end": 28

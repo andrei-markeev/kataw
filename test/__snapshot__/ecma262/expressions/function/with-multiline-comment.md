@@ -68,7 +68,7 @@ x; })
                                         "start": 19,
                                         "end": 44
                                     },
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 256,
                                     "start": 12,
                                     "end": 45
@@ -142,7 +142,7 @@ x; })
                                         "end": 70
                                     },
                                     "expression": null,
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 256,
                                     "start": 63,
                                     "end": 70

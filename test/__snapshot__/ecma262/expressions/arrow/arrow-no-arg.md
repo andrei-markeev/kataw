@@ -101,17 +101,17 @@
                                 "start": 21,
                                 "end": 23
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 19,
                             "end": 23
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 11,
                         "end": 23
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 5,
                     "end": 23

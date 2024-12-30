@@ -42,7 +42,7 @@
                             "end": 15
                         },
                         "importClause": null,
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 1,
                         "end": 16

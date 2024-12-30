@@ -200,7 +200,7 @@ async function f() { for await ({0: a = 1} = 1 of []) ; }
                                 "start": 53,
                                 "end": 55
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 20,
                             "end": 55

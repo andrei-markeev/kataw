@@ -206,7 +206,7 @@ class B<X> {
                                                         "start": 42,
                                                         "end": 43
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 37,
                                                     "end": 43
@@ -254,7 +254,7 @@ class B<X> {
                                                                             "start": 62,
                                                                             "end": 63
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 56,
                                                                         "end": 63
@@ -282,7 +282,7 @@ class B<X> {
                                                 },
                                                 "elseKeyword": null,
                                                 "alternate": null,
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 0,
                                                 "start": 28,
                                                 "end": 70
@@ -309,7 +309,7 @@ class B<X> {
                                                             "start": 80,
                                                             "end": 81
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 70,
                                                         "end": 81

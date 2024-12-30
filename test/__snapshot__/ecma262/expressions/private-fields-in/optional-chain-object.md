@@ -656,7 +656,7 @@ class Foo {
                                                     "start": 115,
                                                     "end": 212
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 104,
                                                 "end": 213

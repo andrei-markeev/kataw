@@ -118,7 +118,7 @@ typeof (0 ? 1 : x);
                             "start": 28,
                             "end": 30
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 21,
                         "end": 30
@@ -684,7 +684,7 @@ typeof (0 ? 1 : x);
                             "start": 207,
                             "end": 209
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 203,
                         "end": 209

@@ -225,7 +225,7 @@ for (const x of [ 1, 2, 3 ]) { a[i++] = function () { return x; }; }
                                                         "start": 60,
                                                         "end": 62
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 53,
                                                     "end": 63
@@ -268,7 +268,7 @@ for (const x of [ 1, 2, 3 ]) { a[i++] = function () { return x; }; }
                 "start": 28,
                 "end": 68
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 68

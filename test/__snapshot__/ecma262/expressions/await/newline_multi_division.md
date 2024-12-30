@@ -47,7 +47,7 @@ await
                         "start": 8,
                         "end": 10
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 10
@@ -68,7 +68,7 @@ await
                     "start": 12,
                     "end": 14
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 14

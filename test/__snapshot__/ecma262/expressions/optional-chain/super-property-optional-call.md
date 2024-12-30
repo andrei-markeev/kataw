@@ -135,7 +135,7 @@ class Foo extends Base {
                                                             "start": 52,
                                                             "end": 58
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 39,
                                                         "end": 58

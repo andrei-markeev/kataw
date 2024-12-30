@@ -91,29 +91,6 @@
                 "end": 31
             },
             "condition": {
-                "kind": 127,
-                "operandToken": {
-                    "kind": 196635,
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 44,
-                    "end": 46
-                },
-                "operand": {
-                    "kind": 134299649,
-                    "text": "let",
-                    "rawText": "let",
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 40,
-                    "end": 44
-                },
-                "flags": 32,
-                "transformFlags": 0,
-                "start": 40,
-                "end": 46
-            },
-            "incrementor": {
                 "kind": 198,
                 "left": {
                     "kind": 134299649,
@@ -140,10 +117,33 @@
                     "start": 37,
                     "end": 39
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 31,
                 "end": 39
+            },
+            "incrementor": {
+                "kind": 127,
+                "operandToken": {
+                    "kind": 196635,
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 44,
+                    "end": 46
+                },
+                "operand": {
+                    "kind": 134299649,
+                    "text": "let",
+                    "rawText": "let",
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 40,
+                    "end": 44
+                },
+                "flags": 32,
+                "transformFlags": 0,
+                "start": 40,
+                "end": 46
             },
             "statement": {
                 "kind": 124,
@@ -160,7 +160,7 @@
                 "start": 47,
                 "end": 50
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 13,
             "end": 50

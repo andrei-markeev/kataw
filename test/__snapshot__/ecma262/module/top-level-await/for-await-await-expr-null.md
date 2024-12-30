@@ -210,7 +210,7 @@ for await (let binding of [await null]) {
                 "start": 211,
                 "end": 238
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 12,
             "end": 238
@@ -376,7 +376,7 @@ for await (let binding of [await null]) {
                 "start": 415,
                 "end": 442
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 238,
             "end": 442
@@ -542,7 +542,7 @@ for await (let binding of [await null]) {
                 "start": 619,
                 "end": 646
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 442,
             "end": 646

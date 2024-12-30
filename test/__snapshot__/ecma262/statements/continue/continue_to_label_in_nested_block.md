@@ -88,7 +88,7 @@ foo: while (true) { continue foo; }
                     "start": 17,
                     "end": 35
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 4,
                 "end": 35

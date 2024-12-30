@@ -156,7 +156,7 @@ function x8(a: false & false): false {
                                 "start": 41,
                                 "end": 44
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 32,
                             "end": 45
@@ -298,7 +298,7 @@ function x8(a: false & false): false {
                                 "start": 126,
                                 "end": 129
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 117,
                             "end": 130
@@ -440,7 +440,7 @@ function x8(a: false & false): false {
                                 "start": 206,
                                 "end": 209
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 197,
                             "end": 210
@@ -567,7 +567,7 @@ function x8(a: false & false): false {
                                 "start": 296,
                                 "end": 299
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 287,
                             "end": 300
@@ -744,7 +744,7 @@ function x8(a: false & false): false {
                                 "start": 372,
                                 "end": 375
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 363,
                             "end": 376
@@ -928,7 +928,7 @@ function x8(a: false & false): false {
                                 "start": 429,
                                 "end": 432
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 420,
                             "end": 433
@@ -1093,7 +1093,7 @@ function x8(a: false & false): false {
                                 "start": 508,
                                 "end": 511
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 499,
                             "end": 512
@@ -1258,7 +1258,7 @@ function x8(a: false & false): false {
                                 "start": 570,
                                 "end": 573
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 561,
                             "end": 574

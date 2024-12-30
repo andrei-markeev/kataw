@@ -86,29 +86,6 @@
                             "end": 16
                         },
                         "condition": {
-                            "kind": 127,
-                            "operandToken": {
-                                "kind": 196635,
-                                "flags": 96,
-                                "transformFlags": 0,
-                                "start": 25,
-                                "end": 27
-                            },
-                            "operand": {
-                                "kind": 134299649,
-                                "text": "i",
-                                "rawText": "i",
-                                "flags": 96,
-                                "transformFlags": 0,
-                                "start": 23,
-                                "end": 25
-                            },
-                            "flags": 32,
-                            "transformFlags": 0,
-                            "start": 23,
-                            "end": 27
-                        },
-                        "incrementor": {
                             "kind": 198,
                             "left": {
                                 "kind": 134299649,
@@ -135,10 +112,33 @@
                                 "start": 20,
                                 "end": 22
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 16,
                             "end": 22
+                        },
+                        "incrementor": {
+                            "kind": 127,
+                            "operandToken": {
+                                "kind": 196635,
+                                "flags": 96,
+                                "transformFlags": 0,
+                                "start": 25,
+                                "end": 27
+                            },
+                            "operand": {
+                                "kind": 134299649,
+                                "text": "i",
+                                "rawText": "i",
+                                "flags": 96,
+                                "transformFlags": 0,
+                                "start": 23,
+                                "end": 25
+                            },
+                            "flags": 32,
+                            "transformFlags": 0,
+                            "start": 23,
+                            "end": 27
                         },
                         "statement": {
                             "kind": 163,
@@ -216,7 +216,7 @@
                             "start": 28,
                             "end": 52
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 1,
                         "end": 52

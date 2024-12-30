@@ -189,7 +189,7 @@ const { accessibilityModule: FooAccessibilityModule, accessibilityModule: FooAcc
                                     "start": 115,
                                     "end": 120
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 93,
                                 "end": 120
@@ -242,7 +242,7 @@ const { accessibilityModule: FooAccessibilityModule, accessibilityModule: FooAcc
                                 "start": 143,
                                 "end": 164
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 4096,
                             "start": 93,
                             "end": 164
@@ -433,7 +433,7 @@ const { accessibilityModule: FooAccessibilityModule, accessibilityModule: FooAcc
                                 "start": 374,
                                 "end": 377
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 367,
                             "end": 377

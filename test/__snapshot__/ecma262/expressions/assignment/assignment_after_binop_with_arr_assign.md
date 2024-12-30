@@ -81,7 +81,7 @@ switch(y&[]=y){}
                     "start": 9,
                     "end": 13
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 7,
                 "end": 13
@@ -94,7 +94,7 @@ switch(y&[]=y){}
                 "start": 15,
                 "end": 15
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 16

@@ -60,21 +60,21 @@ for (a,b of c) d;
             },
             "condition": {
                 "kind": 134299649,
-                "text": "c",
-                "rawText": "c",
-                "flags": 96,
-                "transformFlags": 0,
-                "start": 11,
-                "end": 13
-            },
-            "incrementor": {
-                "kind": 134299649,
                 "text": "of",
                 "rawText": "of",
                 "flags": 96,
                 "transformFlags": 0,
                 "start": 8,
                 "end": 11
+            },
+            "incrementor": {
+                "kind": 134299649,
+                "text": "c",
+                "rawText": "c",
+                "flags": 96,
+                "transformFlags": 0,
+                "start": 11,
+                "end": 13
             },
             "statement": {
                 "kind": 120,
@@ -92,7 +92,7 @@ for (a,b of c) d;
                 "start": 14,
                 "end": 17
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 17

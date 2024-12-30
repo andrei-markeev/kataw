@@ -99,7 +99,7 @@ for (;;) async function *f(){}
                 "start": 8,
                 "end": 30
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 30

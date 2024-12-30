@@ -254,7 +254,7 @@ var c: { (): string; (x: number): string } =
                                                 "start": 84,
                                                 "end": 89
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 77,
                                             "end": 90

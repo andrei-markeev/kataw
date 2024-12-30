@@ -62,7 +62,7 @@ a ? b ** x : c ? d : e
                         "start": 8,
                         "end": 10
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 3,
                     "end": 10

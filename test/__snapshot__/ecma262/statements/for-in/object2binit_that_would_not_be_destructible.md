@@ -78,7 +78,7 @@ for ({a: x + y} = z in obj);
                                         "start": 12,
                                         "end": 14
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 6,
                                     "end": 14
@@ -134,7 +134,7 @@ for ({a: x + y} = z in obj);
                         "start": 22,
                         "end": 26
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 17,
                     "end": 26
@@ -144,8 +144,7 @@ for ({a: x + y} = z in obj);
                 "start": 5,
                 "end": 26
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -154,6 +153,7 @@ for ({a: x + y} = z in obj);
                 "start": 26,
                 "end": 26
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -161,7 +161,7 @@ for ({a: x + y} = z in obj);
                 "start": 27,
                 "end": 28
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 28

@@ -197,7 +197,7 @@ function *f(x = delete ((if) = f)) {}
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 25,
             "end": 32

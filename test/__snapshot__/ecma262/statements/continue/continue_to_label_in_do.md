@@ -79,7 +79,7 @@ foo: do continue foo; while(true)
                     "start": 28,
                     "end": 32
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 4,
                 "end": 33

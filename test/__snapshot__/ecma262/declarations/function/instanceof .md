@@ -151,7 +151,7 @@ function foo(value: AOrString) {
                                                 "start": 61,
                                                 "end": 63
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 45,
                                             "end": 63

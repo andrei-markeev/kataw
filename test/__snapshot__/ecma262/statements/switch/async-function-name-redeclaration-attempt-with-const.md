@@ -205,7 +205,7 @@ switch (0) { case 1: async function f() {} default: const f = 0 }
                 "start": 12,
                 "end": 63
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 65

@@ -222,7 +222,7 @@ class C extends B {
                                                         "start": 70,
                                                         "end": 73
                                                     },
-                                                    "flags": 97,
+                                                    "flags": 33,
                                                     "transformFlags": 2,
                                                     "start": 60,
                                                     "end": 73
@@ -252,7 +252,7 @@ class C extends B {
                                                         "start": 82,
                                                         "end": 85
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 75,
                                                     "end": 85

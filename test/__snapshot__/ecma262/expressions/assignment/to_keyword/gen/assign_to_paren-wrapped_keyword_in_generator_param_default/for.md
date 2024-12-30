@@ -135,8 +135,7 @@ function *f(x = (for) = f) {}
                 "start": 20,
                 "end": 20
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -145,6 +144,7 @@ function *f(x = (for) = f) {}
                 "start": 20,
                 "end": 20
             },
+            "incrementor": null,
             "statement": {
                 "kind": 120,
                 "expression": {
@@ -184,7 +184,7 @@ function *f(x = (for) = f) {}
                 "start": 21,
                 "end": 25
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 17,
             "end": 25

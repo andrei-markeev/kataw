@@ -75,7 +75,7 @@ for ([x + y];;);
                                 "start": 9,
                                 "end": 11
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 6,
                             "end": 11
@@ -101,7 +101,7 @@ for ([x + y];;);
                 "start": 15,
                 "end": 16
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 16

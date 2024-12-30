@@ -374,7 +374,7 @@ class A {
                                 "start": 99,
                                 "end": 104
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2,
                             "start": 93,
                             "end": 104
@@ -497,7 +497,7 @@ class A {
                                 "start": 153,
                                 "end": 158
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2,
                             "start": 147,
                             "end": 158
@@ -1113,7 +1113,7 @@ class A {
                                                 "end": 474
                                             },
                                             "expression": null,
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 256,
                                             "start": 465,
                                             "end": 474
@@ -1386,7 +1386,7 @@ class A {
                     "start": 568,
                     "end": 582
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 539,
                 "end": 582
@@ -1540,7 +1540,7 @@ class A {
                     "start": 641,
                     "end": 655
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 601,
                 "end": 655
@@ -1721,12 +1721,12 @@ class A {
                                                                     "start": 720,
                                                                     "end": 726
                                                                 },
-                                                                "flags": 96,
+                                                                "flags": 32,
                                                                 "transformFlags": 5120,
                                                                 "start": 715,
                                                                 "end": 726
                                                             },
-                                                            "flags": 81,
+                                                            "flags": 17,
                                                             "transformFlags": 256,
                                                             "start": 704,
                                                             "end": 727
@@ -1950,12 +1950,12 @@ class A {
                                                         "start": 796,
                                                         "end": 802
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 791,
                                                     "end": 802
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 780,
                                                 "end": 803

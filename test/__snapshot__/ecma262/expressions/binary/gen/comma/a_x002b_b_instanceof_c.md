@@ -81,12 +81,12 @@ x, a + b instanceof c
                                 "start": 19,
                                 "end": 21
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 8,
                             "end": 21
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 2,
                         "end": 21

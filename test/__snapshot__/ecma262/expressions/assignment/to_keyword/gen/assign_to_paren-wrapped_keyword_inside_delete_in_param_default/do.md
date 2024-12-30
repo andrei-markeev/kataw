@@ -150,7 +150,7 @@ async (x = delete ((do) = f)) => {}
                 "start": 22,
                 "end": 22
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 20,
             "end": 23

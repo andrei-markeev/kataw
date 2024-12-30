@@ -321,7 +321,7 @@ function from<T>(arg: any): Query<T> {
                                 "start": 99,
                                 "end": 109
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 88,
                             "end": 110

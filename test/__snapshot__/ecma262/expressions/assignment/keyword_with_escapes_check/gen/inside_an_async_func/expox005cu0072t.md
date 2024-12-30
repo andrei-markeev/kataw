@@ -71,7 +71,7 @@ async () => {  expo\u0072t = x  }
                                 "exportFromClause": null,
                                 "fromClause": null,
                                 "exportKind": 0,
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 13,
                                 "end": 26

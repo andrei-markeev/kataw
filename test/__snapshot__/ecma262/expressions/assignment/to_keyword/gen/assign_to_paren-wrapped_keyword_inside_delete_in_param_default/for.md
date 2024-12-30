@@ -133,8 +133,7 @@ async (x = delete ((for) = f)) => {}
                 "start": 23,
                 "end": 23
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -143,6 +142,7 @@ async (x = delete ((for) = f)) => {}
                 "start": 23,
                 "end": 23
             },
+            "incrementor": null,
             "statement": {
                 "kind": 120,
                 "expression": {
@@ -182,7 +182,7 @@ async (x = delete ((for) = f)) => {}
                 "start": 24,
                 "end": 28
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 20,
             "end": 28

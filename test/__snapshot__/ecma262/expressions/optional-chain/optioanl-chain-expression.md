@@ -46,7 +46,7 @@ a.b?.c()
                         "start": 2,
                         "end": 3
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2,
                     "start": 0,
                     "end": 3

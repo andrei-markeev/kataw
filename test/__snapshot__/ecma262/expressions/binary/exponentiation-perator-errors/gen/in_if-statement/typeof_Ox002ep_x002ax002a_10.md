@@ -179,7 +179,7 @@ var O = { p: 1 }, x = 10; ; if (typeof O.p ** 10) { foo(); }
                             "start": 41,
                             "end": 42
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2,
                         "start": 38,
                         "end": 42
@@ -260,7 +260,7 @@ var O = { p: 1 }, x = 10; ; if (typeof O.p ** 10) { foo(); }
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 27,
             "end": 60

@@ -111,7 +111,7 @@
                         "end": 54
                     },
                     "argumentList": null,
-                    "flags": 67108961,
+                    "flags": 67108897,
                     "transformFlags": 2048,
                     "start": 0,
                     "end": 54
@@ -125,7 +125,7 @@
                     "start": 55,
                     "end": 56
                 },
-                "flags": 67108961,
+                "flags": 67108897,
                 "transformFlags": 2,
                 "start": 0,
                 "end": 56

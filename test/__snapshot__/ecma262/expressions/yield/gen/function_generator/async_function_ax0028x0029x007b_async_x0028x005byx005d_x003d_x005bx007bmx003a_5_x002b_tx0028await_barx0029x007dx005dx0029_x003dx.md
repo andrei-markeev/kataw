@@ -280,7 +280,7 @@ function * gen() { function not_gen() { async function a(){     async ([y] = [{m
                                                                                                                 "start": 85,
                                                                                                                 "end": 98
                                                                                                             },
-                                                                                                            "flags": 96,
+                                                                                                            "flags": 32,
                                                                                                             "transformFlags": 5120,
                                                                                                             "start": 79,
                                                                                                             "end": 98

@@ -124,7 +124,7 @@ function* g() {
                                 "start": 37,
                                 "end": 38
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 15,
                             "end": 38

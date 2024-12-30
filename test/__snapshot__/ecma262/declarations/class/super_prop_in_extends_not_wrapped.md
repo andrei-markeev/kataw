@@ -73,7 +73,7 @@ class x extends super.foo {}
                             "start": 22,
                             "end": 25
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2,
                         "start": 15,
                         "end": 25

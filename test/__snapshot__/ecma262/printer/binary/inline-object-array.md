@@ -292,7 +292,7 @@ const obj = {
                         "start": 24,
                         "end": 126
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 11,
                     "end": 126
@@ -356,7 +356,7 @@ const obj = {
                             "start": 153,
                             "end": 168
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 140,
                         "end": 168
@@ -518,7 +518,7 @@ const obj = {
                         "start": 171,
                         "end": 285
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 140,
                     "end": 285
@@ -739,12 +739,12 @@ const obj = {
                             "start": 330,
                             "end": 444
                         },
-                        "flags": 97,
+                        "flags": 33,
                         "transformFlags": 5120,
                         "start": 327,
                         "end": 444
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 299,
                     "end": 444
@@ -826,12 +826,12 @@ const obj = {
                                 "start": 485,
                                 "end": 498
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 482,
                             "end": 498
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 458,
                         "end": 498
@@ -993,7 +993,7 @@ const obj = {
                         "start": 501,
                         "end": 615
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 458,
                     "end": 615
@@ -1030,7 +1030,7 @@ const obj = {
                         "start": 623,
                         "end": 628
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 616,
                     "end": 628
@@ -1146,7 +1146,7 @@ const obj = {
                         "start": 639,
                         "end": 707
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 630,
                     "end": 707
@@ -1183,7 +1183,7 @@ const obj = {
                         "start": 715,
                         "end": 720
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 708,
                     "end": 720
@@ -1317,12 +1317,12 @@ const obj = {
                             "start": 744,
                             "end": 812
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 741,
                         "end": 812
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 722,
                     "end": 812
@@ -1359,7 +1359,7 @@ const obj = {
                         "start": 820,
                         "end": 825
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 813,
                     "end": 825
@@ -1400,7 +1400,7 @@ const obj = {
                             "start": 836,
                             "end": 846
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 827,
                         "end": 846
@@ -1498,7 +1498,7 @@ const obj = {
                         "start": 849,
                         "end": 917
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 827,
                     "end": 917
@@ -1680,12 +1680,12 @@ const obj = {
                                                                 "start": 1017,
                                                                 "end": 1019
                                                             },
-                                                            "flags": 97,
+                                                            "flags": 33,
                                                             "transformFlags": 2,
                                                             "start": 1005,
                                                             "end": 1019
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 5120,
                                                         "start": 983,
                                                         "end": 1019
@@ -1760,7 +1760,7 @@ const obj = {
                                                                             "start": 1069,
                                                                             "end": 1078
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 1044,
                                                                         "end": 1078
@@ -1802,7 +1802,7 @@ const obj = {
                                                                             "start": 1104,
                                                                             "end": 1113
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 1079,
                                                                         "end": 1113
@@ -1824,7 +1824,7 @@ const obj = {
                                                         "start": 1022,
                                                         "end": 1119
                                                     },
-                                                    "flags": 97,
+                                                    "flags": 33,
                                                     "transformFlags": 5120,
                                                     "start": 983,
                                                     "end": 1119
@@ -1834,7 +1834,7 @@ const obj = {
                                                 "start": 983,
                                                 "end": 1123
                                             },
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 256,
                                             "start": 974,
                                             "end": 1124
@@ -2040,12 +2040,12 @@ const obj = {
                                                                     "start": 1222,
                                                                     "end": 1224
                                                                 },
-                                                                "flags": 96,
+                                                                "flags": 32,
                                                                 "transformFlags": 2,
                                                                 "start": 1214,
                                                                 "end": 1224
                                                             },
-                                                            "flags": 97,
+                                                            "flags": 33,
                                                             "transformFlags": 5120,
                                                             "start": 1192,
                                                             "end": 1224
@@ -2066,7 +2066,7 @@ const obj = {
                                                             "start": 1227,
                                                             "end": 1234
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 5120,
                                                         "start": 1192,
                                                         "end": 1234
@@ -2141,7 +2141,7 @@ const obj = {
                                                                             "start": 1284,
                                                                             "end": 1293
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 1259,
                                                                         "end": 1293
@@ -2183,7 +2183,7 @@ const obj = {
                                                                             "start": 1319,
                                                                             "end": 1328
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 1294,
                                                                         "end": 1328
@@ -2205,7 +2205,7 @@ const obj = {
                                                         "start": 1237,
                                                         "end": 1334
                                                     },
-                                                    "flags": 97,
+                                                    "flags": 33,
                                                     "transformFlags": 5120,
                                                     "start": 1192,
                                                     "end": 1334
@@ -2215,7 +2215,7 @@ const obj = {
                                                 "start": 1192,
                                                 "end": 1338
                                             },
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 256,
                                             "start": 1183,
                                             "end": 1339
@@ -2322,7 +2322,7 @@ const obj = {
                                                     "start": 1384,
                                                     "end": 1398
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 1356,
                                                 "end": 1398
@@ -2401,7 +2401,7 @@ const obj = {
                                                 "start": 1401,
                                                 "end": 1454
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 1356,
                                             "end": 1454
@@ -2452,7 +2452,7 @@ const obj = {
                                                     "start": 1480,
                                                     "end": 1488
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 1455,
                                                 "end": 1488
@@ -2505,7 +2505,7 @@ const obj = {
                                                 "start": 1491,
                                                 "end": 1520
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 1455,
                                             "end": 1520

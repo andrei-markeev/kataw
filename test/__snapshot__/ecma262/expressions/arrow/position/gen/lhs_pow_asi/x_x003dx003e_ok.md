@@ -73,7 +73,7 @@ x => ok
                         "start": 10,
                         "end": 12
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 4,
                     "end": 12

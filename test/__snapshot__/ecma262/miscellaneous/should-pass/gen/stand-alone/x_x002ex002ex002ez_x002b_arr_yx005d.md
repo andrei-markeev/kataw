@@ -88,7 +88,7 @@ x, ...z + arr, y]
                             "start": 9,
                             "end": 13
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 6,
                         "end": 13

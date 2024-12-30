@@ -118,7 +118,7 @@ let c = (x => /*1*/ x * /*2*/ x)(2);
                                                             "start": 26,
                                                             "end": 28
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 13,
                                                         "end": 28
@@ -285,7 +285,7 @@ let c = (x => /*1*/ x * /*2*/ x)(2);
                                                             "start": 76,
                                                             "end": 83
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 68,
                                                         "end": 83
@@ -418,7 +418,7 @@ let c = (x => /*1*/ x * /*2*/ x)(2);
                                             "start": 114,
                                             "end": 122
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 104,
                                         "end": 122

@@ -186,7 +186,7 @@ var x = a <= 1 ? 2 : 3;
                                     "start": 58,
                                     "end": 60
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 53,
                                 "end": 60
@@ -223,7 +223,7 @@ var x = a <= 1 ? 2 : 3;
                                 "start": 66,
                                 "end": 68
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 4096,
                             "start": 53,
                             "end": 68

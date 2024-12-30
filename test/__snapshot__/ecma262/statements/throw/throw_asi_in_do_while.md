@@ -81,7 +81,7 @@ function f() {
                                     "start": 25,
                                     "end": 30
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 19,
                                 "end": 30
@@ -102,7 +102,7 @@ function f() {
                                 "start": 37,
                                 "end": 38
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 14,
                             "end": 40

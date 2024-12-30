@@ -121,7 +121,7 @@ function fn(x = await 1) {
                                 "start": 35,
                                 "end": 37
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 26,
                             "end": 38

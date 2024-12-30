@@ -143,7 +143,7 @@ const middleware = options => (req, res, next) => {
                                                         "start": 36,
                                                         "end": 38
                                                     },
-                                                    "flags": 81,
+                                                    "flags": 17,
                                                     "transformFlags": 256,
                                                     "start": 27,
                                                     "end": 39
@@ -320,7 +320,7 @@ const middleware = options => (req, res, next) => {
                                                         "start": 86,
                                                         "end": 88
                                                     },
-                                                    "flags": 81,
+                                                    "flags": 17,
                                                     "transformFlags": 256,
                                                     "start": 77,
                                                     "end": 89
@@ -483,7 +483,7 @@ const middleware = options => (req, res, next) => {
                                                 "start": 124,
                                                 "end": 126
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 120,
                                             "end": 126
@@ -504,7 +504,7 @@ const middleware = options => (req, res, next) => {
                                             "start": 128,
                                             "end": 130
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 120,
                                         "end": 130
@@ -677,7 +677,7 @@ const middleware = options => (req, res, next) => {
                                                         "start": 180,
                                                         "end": 193
                                                     },
-                                                    "flags": 81,
+                                                    "flags": 17,
                                                     "transformFlags": 256,
                                                     "start": 171,
                                                     "end": 193

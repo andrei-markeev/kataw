@@ -92,7 +92,7 @@ do do do catch while while while
                                 "start": 14,
                                 "end": 14
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 8,
                             "end": 14
@@ -120,7 +120,7 @@ do do do catch while while while
                         "start": 20,
                         "end": 20
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 5,
                     "end": 20
@@ -141,7 +141,7 @@ do do do catch while while while
                     "start": 26,
                     "end": 26
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 26
@@ -162,7 +162,7 @@ do do do catch while while while
                 "start": 32,
                 "end": 32
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 32

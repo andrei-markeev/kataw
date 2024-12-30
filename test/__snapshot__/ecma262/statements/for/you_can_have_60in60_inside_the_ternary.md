@@ -86,7 +86,7 @@ for (true ? a in b : {}; false; ) ;
                         "start": 16,
                         "end": 18
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 11,
                     "end": 18
@@ -119,14 +119,14 @@ for (true ? a in b : {}; false; ) ;
                 "start": 0,
                 "end": 23
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 205586437,
                 "flags": 96,
                 "transformFlags": 0,
                 "start": 24,
                 "end": 30
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -134,7 +134,7 @@ for (true ? a in b : {}; false; ) ;
                 "start": 33,
                 "end": 35
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 35

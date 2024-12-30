@@ -53,7 +53,7 @@ a instanceof b > c
                         "start": 12,
                         "end": 14
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 14
@@ -74,7 +74,7 @@ a instanceof b > c
                     "start": 16,
                     "end": 18
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 18

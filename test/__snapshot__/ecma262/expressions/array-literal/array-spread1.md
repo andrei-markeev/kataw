@@ -305,7 +305,7 @@ var y: Array<string> = ['3', ...x];
                         "start": 52,
                         "end": 56
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 49,
                     "end": 56
@@ -380,7 +380,7 @@ var y: Array<string> = ['3', ...x];
                                     "start": 70,
                                     "end": 72
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 66,
                                 "end": 72
@@ -431,7 +431,7 @@ var y: Array<string> = ['3', ...x];
                         "start": 77,
                         "end": 81
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 74,
                     "end": 81
@@ -506,7 +506,7 @@ var y: Array<string> = ['3', ...x];
                                     "start": 95,
                                     "end": 97
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 91,
                                 "end": 97

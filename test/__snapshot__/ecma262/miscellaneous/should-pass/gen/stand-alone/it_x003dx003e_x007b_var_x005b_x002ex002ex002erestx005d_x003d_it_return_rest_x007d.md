@@ -167,7 +167,7 @@ it => { var [,,...rest] = it; return rest; }
                                     "start": 36,
                                     "end": 41
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 256,
                                 "start": 29,
                                 "end": 42

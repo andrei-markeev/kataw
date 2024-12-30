@@ -181,12 +181,12 @@ class Example {
                                                         "start": 77,
                                                         "end": 82
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 71,
                                                     "end": 82
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 60,
                                                 "end": 83

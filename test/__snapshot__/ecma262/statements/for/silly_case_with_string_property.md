@@ -63,7 +63,7 @@ for ("foo".bar;;);
                     "start": 11,
                     "end": 14
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 5,
                 "end": 14
@@ -77,7 +77,7 @@ for ("foo".bar;;);
                 "start": 17,
                 "end": 18
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 18

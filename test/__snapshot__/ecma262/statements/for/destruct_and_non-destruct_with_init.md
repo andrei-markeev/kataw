@@ -116,8 +116,7 @@ for (let [foo] = arr, bar = arr2);
                 "start": 0,
                 "end": 32
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -126,6 +125,7 @@ for (let [foo] = arr, bar = arr2);
                 "start": 32,
                 "end": 32
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -133,7 +133,7 @@ for (let [foo] = arr, bar = arr2);
                 "start": 33,
                 "end": 34
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 34

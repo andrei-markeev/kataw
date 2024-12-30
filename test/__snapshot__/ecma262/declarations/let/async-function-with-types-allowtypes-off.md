@@ -78,7 +78,7 @@ const f = async <T, R, S>(
                                 "start": 17,
                                 "end": 18
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 9,
                             "end": 18
@@ -170,7 +170,7 @@ const f = async <T, R, S>(
                     "start": 25,
                     "end": 30
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 24,
                 "end": 30
@@ -303,7 +303,7 @@ const f = async <T, R, S>(
                             "start": 66,
                             "end": 71
                         },
-                        "flags": 81,
+                        "flags": 17,
                         "transformFlags": 256,
                         "start": 57,
                         "end": 72

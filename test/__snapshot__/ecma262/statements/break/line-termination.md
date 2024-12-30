@@ -104,29 +104,6 @@ FOR2 : for(var i=1;i<2;i++){
                     "end": 19
                 },
                 "condition": {
-                    "kind": 127,
-                    "operandToken": {
-                        "kind": 196635,
-                        "flags": 96,
-                        "transformFlags": 0,
-                        "start": 24,
-                        "end": 26
-                    },
-                    "operand": {
-                        "kind": 134299649,
-                        "text": "i",
-                        "rawText": "i",
-                        "flags": 96,
-                        "transformFlags": 0,
-                        "start": 23,
-                        "end": 24
-                    },
-                    "flags": 32,
-                    "transformFlags": 0,
-                    "start": 23,
-                    "end": 26
-                },
-                "incrementor": {
                     "kind": 198,
                     "left": {
                         "kind": 134299649,
@@ -153,10 +130,33 @@ FOR2 : for(var i=1;i<2;i++){
                         "start": 21,
                         "end": 22
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 19,
                     "end": 22
+                },
+                "incrementor": {
+                    "kind": 127,
+                    "operandToken": {
+                        "kind": 196635,
+                        "flags": 96,
+                        "transformFlags": 0,
+                        "start": 24,
+                        "end": 26
+                    },
+                    "operand": {
+                        "kind": 134299649,
+                        "text": "i",
+                        "rawText": "i",
+                        "flags": 96,
+                        "transformFlags": 0,
+                        "start": 23,
+                        "end": 24
+                    },
+                    "flags": 32,
+                    "transformFlags": 0,
+                    "start": 23,
+                    "end": 26
                 },
                 "statement": {
                     "kind": 124,
@@ -253,7 +253,7 @@ FOR2 : for(var i=1;i<2;i++){
                                         "start": 71,
                                         "end": 72
                                     },
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 39,
                                     "end": 74
@@ -274,7 +274,7 @@ FOR2 : for(var i=1;i<2;i++){
                     "start": 27,
                     "end": 76
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 76
@@ -361,29 +361,6 @@ FOR2 : for(var i=1;i<2;i++){
                     "end": 97
                 },
                 "condition": {
-                    "kind": 127,
-                    "operandToken": {
-                        "kind": 196635,
-                        "flags": 96,
-                        "transformFlags": 0,
-                        "start": 102,
-                        "end": 104
-                    },
-                    "operand": {
-                        "kind": 134299649,
-                        "text": "i",
-                        "rawText": "i",
-                        "flags": 96,
-                        "transformFlags": 0,
-                        "start": 101,
-                        "end": 102
-                    },
-                    "flags": 32,
-                    "transformFlags": 0,
-                    "start": 101,
-                    "end": 104
-                },
-                "incrementor": {
                     "kind": 198,
                     "left": {
                         "kind": 134299649,
@@ -410,10 +387,33 @@ FOR2 : for(var i=1;i<2;i++){
                         "start": 99,
                         "end": 100
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 97,
                     "end": 100
+                },
+                "incrementor": {
+                    "kind": 127,
+                    "operandToken": {
+                        "kind": 196635,
+                        "flags": 96,
+                        "transformFlags": 0,
+                        "start": 102,
+                        "end": 104
+                    },
+                    "operand": {
+                        "kind": 134299649,
+                        "text": "i",
+                        "rawText": "i",
+                        "flags": 96,
+                        "transformFlags": 0,
+                        "start": 101,
+                        "end": 102
+                    },
+                    "flags": 32,
+                    "transformFlags": 0,
+                    "start": 101,
+                    "end": 104
                 },
                 "statement": {
                     "kind": 124,
@@ -495,7 +495,7 @@ FOR2 : for(var i=1;i<2;i++){
                                         "start": 148,
                                         "end": 149
                                     },
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 117,
                                     "end": 151
@@ -516,7 +516,7 @@ FOR2 : for(var i=1;i<2;i++){
                     "start": 105,
                     "end": 153
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 84,
                 "end": 153

@@ -144,13 +144,13 @@ class C { m() { foo(new new super); } }
                                                                         "end": 33
                                                                     },
                                                                     "argumentList": null,
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 2048,
                                                                     "start": 23,
                                                                     "end": 33
                                                                 },
                                                                 "argumentList": null,
-                                                                "flags": 96,
+                                                                "flags": 32,
                                                                 "transformFlags": 2048,
                                                                 "start": 20,
                                                                 "end": 33

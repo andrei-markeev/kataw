@@ -111,8 +111,7 @@ function *f(){   for (yield of y);   }
                                 "start": 22,
                                 "end": 30
                             },
-                            "condition": null,
-                            "incrementor": {
+                            "condition": {
                                 "kind": 134299649,
                                 "text": "y",
                                 "rawText": "y",
@@ -121,6 +120,7 @@ function *f(){   for (yield of y);   }
                                 "start": 30,
                                 "end": 32
                             },
+                            "incrementor": null,
                             "statement": {
                                 "kind": 168,
                                 "flags": 16,
@@ -128,7 +128,7 @@ function *f(){   for (yield of y);   }
                                 "start": 33,
                                 "end": 34
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 14,
                             "end": 34

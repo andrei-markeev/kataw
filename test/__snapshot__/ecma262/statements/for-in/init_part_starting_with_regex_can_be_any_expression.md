@@ -88,18 +88,17 @@ for (/x/g + b in obj);
                         "start": 16,
                         "end": 20
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 13,
                     "end": 20
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 20
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -108,6 +107,7 @@ for (/x/g + b in obj);
                 "start": 20,
                 "end": 20
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -115,7 +115,7 @@ for (/x/g + b in obj);
                 "start": 21,
                 "end": 22
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 22

@@ -51,7 +51,7 @@ yield * 1; return 37; yield * 'dead';
                     "start": 7,
                     "end": 9
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 9
@@ -79,7 +79,7 @@ yield * 1; return 37; yield * 'dead';
                 "start": 17,
                 "end": 20
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 256,
             "start": 10,
             "end": 21
@@ -113,7 +113,7 @@ yield * 1; return 37; yield * 'dead';
                     "start": 29,
                     "end": 36
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 21,
                 "end": 36

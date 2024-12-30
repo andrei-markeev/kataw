@@ -176,7 +176,7 @@ var x,y; export {x as a, y as b}
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 8,
             "end": 32

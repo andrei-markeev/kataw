@@ -73,7 +73,7 @@ try {
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 12
@@ -111,7 +111,7 @@ try {
                 "start": 25,
                 "end": 29
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 12,
             "end": 29
@@ -142,7 +142,7 @@ try {
                 "start": 44,
                 "end": 44
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 29,
             "end": 46
@@ -237,7 +237,7 @@ try {
                     "start": 84,
                     "end": 89
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 74,
                 "end": 89

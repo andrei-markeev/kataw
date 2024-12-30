@@ -64,7 +64,7 @@ for (456..x of c) d;
                     "start": 10,
                     "end": 11
                 },
-                "flags": 32864,
+                "flags": 32800,
                 "transformFlags": 2,
                 "start": 5,
                 "end": 11
@@ -101,7 +101,7 @@ for (456..x of c) d;
                 "start": 17,
                 "end": 20
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 20

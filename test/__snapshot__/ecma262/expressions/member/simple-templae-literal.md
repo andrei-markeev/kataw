@@ -50,7 +50,7 @@
                                     "start": 5,
                                     "end": 11
                                 },
-                                "flags": 134217824,
+                                "flags": 134217760,
                                 "transformFlags": 2,
                                 "start": 1,
                                 "end": 11

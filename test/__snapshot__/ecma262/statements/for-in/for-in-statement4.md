@@ -187,7 +187,7 @@ for (a in expr) {
                 "start": 45,
                 "end": 49
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 29,
             "end": 49

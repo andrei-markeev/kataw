@@ -287,7 +287,7 @@ var x, y, z; for (x of x = { x: new.target = 1 } = z = {});
                 "start": 58,
                 "end": 59
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 12,
             "end": 59

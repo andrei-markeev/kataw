@@ -150,7 +150,7 @@ class C<T> {
                                                             "start": 40,
                                                             "end": 41
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 5120,
                                                         "start": 22,
                                                         "end": 41
@@ -178,7 +178,7 @@ class C<T> {
                                                         "start": 42,
                                                         "end": 45
                                                     },
-                                                    "flags": 97,
+                                                    "flags": 33,
                                                     "transformFlags": 5120,
                                                     "start": 22,
                                                     "end": 45
@@ -219,7 +219,7 @@ class C<T> {
                                                             "start": 64,
                                                             "end": 65
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 5120,
                                                         "start": 46,
                                                         "end": 65
@@ -265,12 +265,12 @@ class C<T> {
                                                             "start": 75,
                                                             "end": 78
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 74,
                                                         "end": 78
                                                     },
-                                                    "flags": 97,
+                                                    "flags": 33,
                                                     "transformFlags": 5120,
                                                     "start": 46,
                                                     "end": 78
@@ -371,7 +371,7 @@ class C<T> {
                                                             "start": 97,
                                                             "end": 114
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 5120,
                                                         "start": 79,
                                                         "end": 114
@@ -399,7 +399,7 @@ class C<T> {
                                                         "start": 115,
                                                         "end": 118
                                                     },
-                                                    "flags": 97,
+                                                    "flags": 33,
                                                     "transformFlags": 5120,
                                                     "start": 79,
                                                     "end": 118

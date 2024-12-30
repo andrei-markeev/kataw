@@ -149,7 +149,7 @@ try {} catch (e) { for (let e in y) {} }
                                     "start": 35,
                                     "end": 38
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 18,
                                 "end": 38
@@ -165,7 +165,7 @@ try {} catch (e) { for (let e in y) {} }
                     "start": 16,
                     "end": 40
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 40

@@ -76,18 +76,17 @@ for (a+b in c) d;
                         "start": 11,
                         "end": 13
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 8,
                     "end": 13
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 13
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -96,6 +95,7 @@ for (a+b in c) d;
                 "start": 13,
                 "end": 13
             },
+            "incrementor": null,
             "statement": {
                 "kind": 120,
                 "expression": {
@@ -112,7 +112,7 @@ for (a+b in c) d;
                 "start": 14,
                 "end": 17
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 17

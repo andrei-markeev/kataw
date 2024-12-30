@@ -121,7 +121,7 @@ class C { constructor() { new super; } }
                                                         "end": 35
                                                     },
                                                     "argumentList": null,
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2048,
                                                     "start": 25,
                                                     "end": 35

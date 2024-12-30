@@ -25,14 +25,14 @@ for (;false;) const x = 1;
                 "end": 3
             },
             "initializer": null,
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 205586437,
                 "flags": 96,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 11
             },
+            "incrementor": null,
             "statement": {
                 "kind": 120,
                 "expression": {
@@ -49,7 +49,7 @@ for (;false;) const x = 1;
                 "start": 13,
                 "end": 13
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 13

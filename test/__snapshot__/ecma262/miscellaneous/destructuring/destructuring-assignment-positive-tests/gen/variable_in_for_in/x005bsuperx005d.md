@@ -202,7 +202,7 @@ var x, y, z; for (x in [super] = {});
                 "start": 36,
                 "end": 37
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 12,
             "end": 37

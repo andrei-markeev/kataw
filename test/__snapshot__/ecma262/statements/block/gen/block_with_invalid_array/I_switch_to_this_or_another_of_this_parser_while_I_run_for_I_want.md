@@ -93,7 +93,7 @@
                                 "start": 8,
                                 "end": 8
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 3,
                             "end": 8
@@ -158,7 +158,7 @@
                 "start": 21,
                 "end": 21
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 11,
             "end": 21
@@ -289,7 +289,7 @@
                 "start": 60,
                 "end": 64
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 52,
             "end": 64
@@ -313,21 +313,21 @@
                 "end": 70
             },
             "condition": {
-                "kind": 16637,
-                "text": "",
-                "rawText": "",
-                "flags": 64,
-                "transformFlags": 0,
-                "start": 75,
-                "end": 75
-            },
-            "incrementor": {
                 "kind": 134299649,
                 "text": "want",
                 "rawText": "want",
                 "flags": 96,
                 "transformFlags": 0,
                 "start": 70,
+                "end": 75
+            },
+            "incrementor": {
+                "kind": 16637,
+                "text": "",
+                "rawText": "",
+                "flags": 64,
+                "transformFlags": 0,
+                "start": 75,
                 "end": 75
             },
             "statement": {
@@ -346,7 +346,7 @@
                 "start": 75,
                 "end": 75
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 64,
             "end": 75

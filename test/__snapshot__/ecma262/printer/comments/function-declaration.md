@@ -1801,7 +1801,7 @@ function foo4() {
                                 "start": 885,
                                 "end": 888
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 876,
                             "end": 888
@@ -1878,7 +1878,7 @@ function foo4() {
                                 "start": 940,
                                 "end": 943
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 931,
                             "end": 943
@@ -1955,7 +1955,7 @@ function foo4() {
                                 "start": 995,
                                 "end": 998
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 964,
                             "end": 998
@@ -2032,7 +2032,7 @@ function foo4() {
                                 "start": 1052,
                                 "end": 1055
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 1019,
                             "end": 1056

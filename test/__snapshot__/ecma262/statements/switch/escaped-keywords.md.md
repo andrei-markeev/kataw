@@ -44,7 +44,7 @@ switch (this.a) { c\u0061se 6: break; }
                     "start": 13,
                     "end": 14
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 8,
                 "end": 14
@@ -96,7 +96,7 @@ switch (this.a) { c\u0061se 6: break; }
                 "start": 17,
                 "end": 38
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 40
@@ -128,7 +128,7 @@ switch (this.a) { c\u0061se 6: break; }
                     "start": 55,
                     "end": 56
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 50,
                 "end": 56
@@ -189,7 +189,7 @@ switch (this.a) { c\u0061se 6: break; }
                 "start": 59,
                 "end": 79
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 40,
             "end": 81

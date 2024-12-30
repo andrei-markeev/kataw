@@ -353,7 +353,7 @@ class Foo {
                                                             "start": 97,
                                                             "end": 99
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 88,
                                                         "end": 99
@@ -408,7 +408,7 @@ class Foo {
                                                             "start": 112,
                                                             "end": 114
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 104,
                                                         "end": 114
@@ -463,7 +463,7 @@ class Foo {
                                                             "start": 127,
                                                             "end": 129
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 119,
                                                         "end": 129

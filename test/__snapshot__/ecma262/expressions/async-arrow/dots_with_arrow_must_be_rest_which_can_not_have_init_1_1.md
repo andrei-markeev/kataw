@@ -76,7 +76,7 @@ async (a, ...b+b=c) => a;
                                     "start": 15,
                                     "end": 16
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 9,
                                 "end": 16

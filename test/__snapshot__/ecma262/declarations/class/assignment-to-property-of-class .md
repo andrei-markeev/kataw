@@ -116,7 +116,7 @@ c.m = n => n * 3;
                                         "start": 91,
                                         "end": 93
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 87,
                                     "end": 93
@@ -205,7 +205,7 @@ c.m = n => n * 3;
                                 "start": 114,
                                 "end": 114
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2048,
                             "start": 107,
                             "end": 115
@@ -250,7 +250,7 @@ c.m = n => n * 3;
                         "start": 119,
                         "end": 120
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 116,
                     "end": 120
@@ -310,7 +310,7 @@ c.m = n => n * 3;
                             "start": 131,
                             "end": 133
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 127,
                         "end": 133

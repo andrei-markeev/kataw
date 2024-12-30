@@ -115,29 +115,6 @@
                                             "end": 28
                                         },
                                         "condition": {
-                                            "kind": 127,
-                                            "operandToken": {
-                                                "kind": 196635,
-                                                "flags": 96,
-                                                "transformFlags": 0,
-                                                "start": 37,
-                                                "end": 39
-                                            },
-                                            "operand": {
-                                                "kind": 134299649,
-                                                "text": "i",
-                                                "rawText": "i",
-                                                "flags": 96,
-                                                "transformFlags": 0,
-                                                "start": 35,
-                                                "end": 37
-                                            },
-                                            "flags": 32,
-                                            "transformFlags": 0,
-                                            "start": 35,
-                                            "end": 39
-                                        },
-                                        "incrementor": {
                                             "kind": 198,
                                             "left": {
                                                 "kind": 134299649,
@@ -164,10 +141,33 @@
                                                 "start": 32,
                                                 "end": 34
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 28,
                                             "end": 34
+                                        },
+                                        "incrementor": {
+                                            "kind": 127,
+                                            "operandToken": {
+                                                "kind": 196635,
+                                                "flags": 96,
+                                                "transformFlags": 0,
+                                                "start": 37,
+                                                "end": 39
+                                            },
+                                            "operand": {
+                                                "kind": 134299649,
+                                                "text": "i",
+                                                "rawText": "i",
+                                                "flags": 96,
+                                                "transformFlags": 0,
+                                                "start": 35,
+                                                "end": 37
+                                            },
+                                            "flags": 32,
+                                            "transformFlags": 0,
+                                            "start": 35,
+                                            "end": 39
                                         },
                                         "statement": {
                                             "kind": 163,
@@ -245,7 +245,7 @@
                                             "start": 40,
                                             "end": 64
                                         },
-                                        "flags": 80,
+                                        "flags": 16,
                                         "transformFlags": 0,
                                         "start": 13,
                                         "end": 64

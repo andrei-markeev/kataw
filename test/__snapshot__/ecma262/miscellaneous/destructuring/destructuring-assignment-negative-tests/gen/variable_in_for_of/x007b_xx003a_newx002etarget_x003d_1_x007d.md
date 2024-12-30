@@ -241,7 +241,7 @@ var x, y, z; for (x of { x: new.target = 1 } = {});
                 "start": 50,
                 "end": 51
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 12,
             "end": 51

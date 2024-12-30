@@ -120,7 +120,7 @@ var f: >x:int) => string;
                     "start": 8,
                     "end": 9
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 6,
                 "end": 9

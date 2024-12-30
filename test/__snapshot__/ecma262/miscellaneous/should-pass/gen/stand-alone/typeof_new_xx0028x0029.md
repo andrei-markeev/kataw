@@ -60,7 +60,7 @@ typeof new x()
                         "start": 13,
                         "end": 13
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2048,
                     "start": 6,
                     "end": 14

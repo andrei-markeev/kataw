@@ -51,7 +51,7 @@ inst\u0061nceof = x;
                     "start": 15,
                     "end": 15
                 },
-                "flags": 16480,
+                "flags": 16416,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 15

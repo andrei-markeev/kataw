@@ -200,7 +200,7 @@
                                         "start": 59,
                                         "end": 60
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 51,
                                     "end": 60
@@ -221,7 +221,7 @@
                                     "start": 61,
                                     "end": 62
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 51,
                                 "end": 62
@@ -1256,7 +1256,7 @@
                             "start": 414,
                             "end": 415
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 406,
                         "end": 415
@@ -1277,7 +1277,7 @@
                         "start": 416,
                         "end": 417
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 406,
                     "end": 417
@@ -1507,7 +1507,7 @@
                                                         "start": 496,
                                                         "end": 497
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 488,
                                                     "end": 497
@@ -1528,7 +1528,7 @@
                                                     "start": 498,
                                                     "end": 499
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 488,
                                                 "end": 499

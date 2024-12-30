@@ -121,7 +121,7 @@ class C { m() { new super; }
                                                         "end": 25
                                                     },
                                                     "argumentList": null,
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2048,
                                                     "start": 15,
                                                     "end": 25

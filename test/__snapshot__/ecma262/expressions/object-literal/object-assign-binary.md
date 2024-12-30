@@ -124,7 +124,7 @@ x = { "a": {x} = y.z };
                                             "start": 19,
                                             "end": 20
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 16,
                                         "end": 20

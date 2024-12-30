@@ -205,7 +205,7 @@ function getSecurity(level) {
                                                     "start": 169,
                                                     "end": 174
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 111,
                                                 "end": 175
@@ -291,7 +291,7 @@ function getSecurity(level) {
                                                     "start": 243,
                                                     "end": 251
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 216,
                                                 "end": 252
@@ -368,7 +368,7 @@ function getSecurity(level) {
                                                     "start": 323,
                                                     "end": 331
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 293,
                                                 "end": 332
@@ -385,7 +385,7 @@ function getSecurity(level) {
                                 "start": 48,
                                 "end": 332
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 29,
                             "end": 363

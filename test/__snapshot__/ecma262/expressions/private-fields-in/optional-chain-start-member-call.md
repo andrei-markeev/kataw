@@ -233,7 +233,7 @@ class Foo {
                                                     "start": 58,
                                                     "end": 77
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 47,
                                                 "end": 78

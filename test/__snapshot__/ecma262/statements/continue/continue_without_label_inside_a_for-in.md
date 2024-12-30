@@ -64,7 +64,7 @@ for (x in y) continue
                 "start": 12,
                 "end": 21
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 21

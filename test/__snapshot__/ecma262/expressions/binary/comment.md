@@ -119,7 +119,7 @@ foo[
                                                 "start": 29,
                                                 "end": 35
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 2,
                                             "start": 5,
                                             "end": 35
@@ -194,7 +194,7 @@ foo[
                                                         "start": 54,
                                                         "end": 74
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 51,
                                                     "end": 74
@@ -204,7 +204,7 @@ foo[
                                                 "start": 49,
                                                 "end": 75
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 39,
                                             "end": 75
@@ -260,7 +260,7 @@ foo[
                                         "start": 104,
                                         "end": 111
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 81,
                                     "end": 111
@@ -346,7 +346,7 @@ foo[
                                 "start": 129,
                                 "end": 132
                             },
-                            "flags": 97,
+                            "flags": 33,
                             "transformFlags": 5120,
                             "start": 124,
                             "end": 132
@@ -367,7 +367,7 @@ foo[
                             "start": 134,
                             "end": 137
                         },
-                        "flags": 97,
+                        "flags": 33,
                         "transformFlags": 5120,
                         "start": 124,
                         "end": 137
@@ -388,7 +388,7 @@ foo[
                         "start": 139,
                         "end": 153
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 124,
                     "end": 153
@@ -409,7 +409,7 @@ foo[
                     "start": 155,
                     "end": 158
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 124,
                 "end": 158
@@ -454,7 +454,7 @@ foo[
                                 "start": 165,
                                 "end": 204
                             },
-                            "flags": 97,
+                            "flags": 33,
                             "transformFlags": 5120,
                             "start": 159,
                             "end": 204
@@ -475,7 +475,7 @@ foo[
                             "start": 207,
                             "end": 246
                         },
-                        "flags": 97,
+                        "flags": 33,
                         "transformFlags": 5120,
                         "start": 159,
                         "end": 246
@@ -496,7 +496,7 @@ foo[
                         "start": 249,
                         "end": 300
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 159,
                     "end": 300
@@ -517,7 +517,7 @@ foo[
                     "start": 303,
                     "end": 342
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 159,
                 "end": 342
@@ -562,7 +562,7 @@ foo[
                                 "start": 348,
                                 "end": 387
                             },
-                            "flags": 97,
+                            "flags": 33,
                             "transformFlags": 5120,
                             "start": 342,
                             "end": 387
@@ -583,7 +583,7 @@ foo[
                             "start": 390,
                             "end": 429
                         },
-                        "flags": 97,
+                        "flags": 33,
                         "transformFlags": 5120,
                         "start": 342,
                         "end": 429
@@ -604,7 +604,7 @@ foo[
                         "start": 432,
                         "end": 483
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 342,
                     "end": 483
@@ -625,7 +625,7 @@ foo[
                     "start": 486,
                     "end": 525
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 342,
                 "end": 525
@@ -705,7 +705,7 @@ foo[
                                                     "start": 572,
                                                     "end": 602
                                                 },
-                                                "flags": 97,
+                                                "flags": 33,
                                                 "transformFlags": 5120,
                                                 "start": 537,
                                                 "end": 602
@@ -726,7 +726,7 @@ foo[
                                                 "start": 609,
                                                 "end": 639
                                             },
-                                            "flags": 97,
+                                            "flags": 33,
                                             "transformFlags": 5120,
                                             "start": 537,
                                             "end": 639
@@ -747,7 +747,7 @@ foo[
                                             "start": 640,
                                             "end": 672
                                         },
-                                        "flags": 97,
+                                        "flags": 33,
                                         "transformFlags": 5120,
                                         "start": 537,
                                         "end": 672
@@ -824,7 +824,7 @@ foo[
                                 "start": 686,
                                 "end": 690
                             },
-                            "flags": 97,
+                            "flags": 33,
                             "transformFlags": 5120,
                             "start": 680,
                             "end": 690
@@ -845,7 +845,7 @@ foo[
                             "start": 692,
                             "end": 707
                         },
-                        "flags": 97,
+                        "flags": 33,
                         "transformFlags": 5120,
                         "start": 680,
                         "end": 707
@@ -901,7 +901,7 @@ foo[
                                             "start": 724,
                                             "end": 730
                                         },
-                                        "flags": 97,
+                                        "flags": 33,
                                         "transformFlags": 5120,
                                         "start": 716,
                                         "end": 730
@@ -922,7 +922,7 @@ foo[
                                         "start": 732,
                                         "end": 738
                                     },
-                                    "flags": 97,
+                                    "flags": 33,
                                     "transformFlags": 5120,
                                     "start": 716,
                                     "end": 738
@@ -943,7 +943,7 @@ foo[
                                     "start": 740,
                                     "end": 757
                                 },
-                                "flags": 97,
+                                "flags": 33,
                                 "transformFlags": 5120,
                                 "start": 716,
                                 "end": 757
@@ -964,7 +964,7 @@ foo[
                                 "start": 759,
                                 "end": 765
                             },
-                            "flags": 97,
+                            "flags": 33,
                             "transformFlags": 5120,
                             "start": 716,
                             "end": 765
@@ -974,7 +974,7 @@ foo[
                         "start": 709,
                         "end": 769
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 680,
                     "end": 769
@@ -1033,7 +1033,7 @@ foo[
                                     "start": 782,
                                     "end": 786
                                 },
-                                "flags": 97,
+                                "flags": 33,
                                 "transformFlags": 5120,
                                 "start": 775,
                                 "end": 786
@@ -1054,7 +1054,7 @@ foo[
                                 "start": 788,
                                 "end": 803
                             },
-                            "flags": 97,
+                            "flags": 33,
                             "transformFlags": 5120,
                             "start": 775,
                             "end": 803
@@ -1110,7 +1110,7 @@ foo[
                                                     "start": 818,
                                                     "end": 824
                                                 },
-                                                "flags": 97,
+                                                "flags": 33,
                                                 "transformFlags": 5120,
                                                 "start": 809,
                                                 "end": 824
@@ -1131,7 +1131,7 @@ foo[
                                                 "start": 826,
                                                 "end": 832
                                             },
-                                            "flags": 97,
+                                            "flags": 33,
                                             "transformFlags": 5120,
                                             "start": 809,
                                             "end": 832
@@ -1152,7 +1152,7 @@ foo[
                                             "start": 834,
                                             "end": 851
                                         },
-                                        "flags": 97,
+                                        "flags": 33,
                                         "transformFlags": 5120,
                                         "start": 809,
                                         "end": 851
@@ -1173,7 +1173,7 @@ foo[
                                         "start": 853,
                                         "end": 859
                                     },
-                                    "flags": 97,
+                                    "flags": 33,
                                     "transformFlags": 5120,
                                     "start": 809,
                                     "end": 859
@@ -1188,7 +1188,7 @@ foo[
                             "start": 805,
                             "end": 863
                         },
-                        "flags": 97,
+                        "flags": 33,
                         "transformFlags": 5120,
                         "start": 775,
                         "end": 863

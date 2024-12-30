@@ -47,7 +47,7 @@ for (var i = 0; i < 10; ++i) 0;
                 "start": 8,
                 "end": 11
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 11
@@ -111,29 +111,6 @@ for (var i = 0; i < 10; ++i) 0;
                 "end": 27
             },
             "condition": {
-                "kind": 128,
-                "operandToken": {
-                    "kind": 196635,
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 35,
-                    "end": 38
-                },
-                "operand": {
-                    "kind": 134299649,
-                    "text": "i",
-                    "rawText": "i",
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 38,
-                    "end": 39
-                },
-                "flags": 32,
-                "transformFlags": 16384,
-                "start": 35,
-                "end": 39
-            },
-            "incrementor": {
                 "kind": 198,
                 "left": {
                     "kind": 134299649,
@@ -160,10 +137,33 @@ for (var i = 0; i < 10; ++i) 0;
                     "start": 31,
                     "end": 34
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 27,
                 "end": 34
+            },
+            "incrementor": {
+                "kind": 128,
+                "operandToken": {
+                    "kind": 196635,
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 35,
+                    "end": 38
+                },
+                "operand": {
+                    "kind": 134299649,
+                    "text": "i",
+                    "rawText": "i",
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 38,
+                    "end": 39
+                },
+                "flags": 32,
+                "transformFlags": 16384,
+                "start": 35,
+                "end": 39
             },
             "statement": {
                 "kind": 124,
@@ -180,7 +180,7 @@ for (var i = 0; i < 10; ++i) 0;
                 "start": 40,
                 "end": 43
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 11,
             "end": 43
@@ -213,7 +213,7 @@ for (var i = 0; i < 10; ++i) 0;
                 "start": 53,
                 "end": 56
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 43,
             "end": 56
@@ -277,29 +277,6 @@ for (var i = 0; i < 10; ++i) 0;
                 "end": 72
             },
             "condition": {
-                "kind": 128,
-                "operandToken": {
-                    "kind": 196635,
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 80,
-                    "end": 83
-                },
-                "operand": {
-                    "kind": 134299649,
-                    "text": "i",
-                    "rawText": "i",
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 83,
-                    "end": 84
-                },
-                "flags": 32,
-                "transformFlags": 16384,
-                "start": 80,
-                "end": 84
-            },
-            "incrementor": {
                 "kind": 198,
                 "left": {
                     "kind": 134299649,
@@ -326,10 +303,33 @@ for (var i = 0; i < 10; ++i) 0;
                     "start": 76,
                     "end": 79
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 72,
                 "end": 79
+            },
+            "incrementor": {
+                "kind": 128,
+                "operandToken": {
+                    "kind": 196635,
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 80,
+                    "end": 83
+                },
+                "operand": {
+                    "kind": 134299649,
+                    "text": "i",
+                    "rawText": "i",
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 83,
+                    "end": 84
+                },
+                "flags": 32,
+                "transformFlags": 16384,
+                "start": 80,
+                "end": 84
             },
             "statement": {
                 "kind": 120,
@@ -347,7 +347,7 @@ for (var i = 0; i < 10; ++i) 0;
                 "start": 85,
                 "end": 88
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 56,
             "end": 88

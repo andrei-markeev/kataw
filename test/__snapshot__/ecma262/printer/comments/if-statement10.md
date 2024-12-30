@@ -89,7 +89,7 @@ while (/*1*/x/*2*/) {}
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 20
@@ -129,7 +129,7 @@ while (/*1*/x/*2*/) {}
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 20,
             "end": 42
@@ -169,7 +169,7 @@ while (/*1*/x/*2*/) {}
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 42,
             "end": 74
@@ -229,7 +229,7 @@ while (/*1*/x/*2*/) {}
                 "start": 111,
                 "end": 121
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 74,
             "end": 121
@@ -269,7 +269,7 @@ while (/*1*/x/*2*/) {}
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 121,
             "end": 141
@@ -309,7 +309,7 @@ while (/*1*/x/*2*/) {}
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 141,
             "end": 167
@@ -369,7 +369,7 @@ while (/*1*/x/*2*/) {}
                 "start": 198,
                 "end": 208
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 167,
             "end": 208
@@ -409,7 +409,7 @@ while (/*1*/x/*2*/) {}
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 208,
             "end": 237
@@ -470,7 +470,7 @@ while (/*1*/x/*2*/) {}
                                 "start": 279,
                                 "end": 282
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 258,
                             "end": 282
@@ -488,7 +488,7 @@ while (/*1*/x/*2*/) {}
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 237,
             "end": 285

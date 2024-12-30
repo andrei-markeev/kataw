@@ -68,7 +68,7 @@
                                                         "end": 15
                                                     },
                                                     "expression": null,
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 8,
                                                     "end": 15

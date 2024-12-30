@@ -311,7 +311,7 @@ function f1() {
                                 "start": 77,
                                 "end": 86
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 66,
                             "end": 87

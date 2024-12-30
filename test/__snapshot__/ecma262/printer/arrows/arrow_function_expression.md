@@ -411,7 +411,7 @@ a = b => {
                     "end": 80
                 },
                 "argumentList": null,
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 2048,
                 "start": 65,
                 "end": 80
@@ -535,7 +535,7 @@ a = b => {
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 81,
             "end": 108
@@ -1948,7 +1948,7 @@ a = b => {
                         "start": 404,
                         "end": 407
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 391,
                     "end": 407
@@ -2979,7 +2979,7 @@ a = b => {
                                         "start": 597,
                                         "end": 599
                                     },
-                                    "flags": 81,
+                                    "flags": 17,
                                     "transformFlags": 256,
                                     "start": 588,
                                     "end": 599

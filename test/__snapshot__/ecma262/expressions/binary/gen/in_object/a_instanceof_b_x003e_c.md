@@ -88,7 +88,7 @@ x = { a: a instanceof b > c }
                                             "start": 21,
                                             "end": 23
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 5,
                                         "end": 23
@@ -109,7 +109,7 @@ x = { a: a instanceof b > c }
                                         "start": 25,
                                         "end": 27
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 5,
                                     "end": 27

@@ -80,7 +80,7 @@ a ? b : c ** x ? d : e
                             "start": 12,
                             "end": 14
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 7,
                         "end": 14
@@ -117,7 +117,7 @@ a ? b : c ** x ? d : e
                         "start": 20,
                         "end": 22
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 4096,
                     "start": 7,
                     "end": 22

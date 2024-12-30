@@ -277,7 +277,7 @@ class D<T> {
                                                             "start": 55,
                                                             "end": 56
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 45,
                                                         "end": 56
@@ -418,12 +418,12 @@ class D<T> {
                                                         "start": 95,
                                                         "end": 96
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 89,
                                                     "end": 96
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 78,
                                                 "end": 97
@@ -538,12 +538,12 @@ class D<T> {
                                                         "start": 135,
                                                         "end": 136
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 129,
                                                     "end": 136
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 118,
                                                 "end": 137
@@ -898,7 +898,7 @@ class D<T> {
                                                             "start": 199,
                                                             "end": 200
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 189,
                                                         "end": 200
@@ -947,7 +947,7 @@ class D<T> {
                                                     "start": 216,
                                                     "end": 218
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 205,
                                                 "end": 219

@@ -181,7 +181,7 @@ var x; for (x in {}) label: function foo() {}
                 "start": 20,
                 "end": 45
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 6,
             "end": 45

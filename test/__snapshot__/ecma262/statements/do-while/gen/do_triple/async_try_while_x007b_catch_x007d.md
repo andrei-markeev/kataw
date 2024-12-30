@@ -75,7 +75,7 @@ do do do async try while { catch } while while while
                         "start": 14,
                         "end": 14
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 5,
                     "end": 14
@@ -90,7 +90,7 @@ do do do async try while { catch } while while while
                     "start": 14,
                     "end": 14
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 14
@@ -105,7 +105,7 @@ do do do async try while { catch } while while while
                 "start": 14,
                 "end": 14
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 14
@@ -261,22 +261,22 @@ do do do async try while { catch } while while while
                             "start": 52,
                             "end": 52
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 46,
                         "end": 52
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 40,
                     "end": 52
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 34,
                 "end": 52
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 18,
             "end": 52

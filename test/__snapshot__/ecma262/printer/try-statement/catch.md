@@ -96,7 +96,7 @@ catch(
                     "start": 34,
                     "end": 37
                 },
-                "flags": 81,
+                "flags": 17,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 37
@@ -165,7 +165,7 @@ catch(
                     "start": 67,
                     "end": 70
                 },
-                "flags": 81,
+                "flags": 17,
                 "transformFlags": 0,
                 "start": 45,
                 "end": 70
@@ -234,7 +234,7 @@ catch(
                     "start": 107,
                     "end": 110
                 },
-                "flags": 81,
+                "flags": 17,
                 "transformFlags": 0,
                 "start": 78,
                 "end": 110
@@ -303,7 +303,7 @@ catch(
                     "start": 147,
                     "end": 150
                 },
-                "flags": 81,
+                "flags": 17,
                 "transformFlags": 0,
                 "start": 118,
                 "end": 150
@@ -372,7 +372,7 @@ catch(
                     "start": 189,
                     "end": 192
                 },
-                "flags": 81,
+                "flags": 17,
                 "transformFlags": 0,
                 "start": 158,
                 "end": 192

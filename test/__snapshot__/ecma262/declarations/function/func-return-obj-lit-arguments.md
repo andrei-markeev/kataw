@@ -87,7 +87,7 @@ function foo() { return {arguments} }
                                 "start": 23,
                                 "end": 35
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 256,
                             "start": 16,
                             "end": 35

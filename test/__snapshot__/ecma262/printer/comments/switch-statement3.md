@@ -134,7 +134,7 @@ default /* comment 5 */ : /* comment 6 */ foo;
                 "start": 46,
                 "end": 140
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 143

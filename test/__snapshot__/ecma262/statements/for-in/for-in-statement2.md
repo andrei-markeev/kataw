@@ -238,7 +238,7 @@ function F<T>() {
                                 "start": 54,
                                 "end": 60
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 32,
                             "end": 60

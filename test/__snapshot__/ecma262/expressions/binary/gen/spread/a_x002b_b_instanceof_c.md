@@ -83,12 +83,12 @@
                                         "start": 22,
                                         "end": 24
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 11,
                                     "end": 24
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 5,
                                 "end": 24

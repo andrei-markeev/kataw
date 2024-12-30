@@ -110,7 +110,7 @@ new Foo();
                                                     "start": 33,
                                                     "end": 38
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 22,
                                                 "end": 39
@@ -171,7 +171,7 @@ new Foo();
                                     "start": 60,
                                     "end": 64
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2,
                                 "start": 54,
                                 "end": 64
@@ -269,7 +269,7 @@ new Foo();
                                                                         "start": 111,
                                                                         "end": 115
                                                                     },
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 2,
                                                                     "start": 105,
                                                                     "end": 115
@@ -328,7 +328,7 @@ new Foo();
                                                             "start": 146,
                                                             "end": 152
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 133,
                                                         "end": 152
@@ -361,7 +361,7 @@ new Foo();
                                                                     "start": 165,
                                                                     "end": 170
                                                                 },
-                                                                "flags": 96,
+                                                                "flags": 32,
                                                                 "transformFlags": 5120,
                                                                 "start": 153,
                                                                 "end": 170
@@ -427,7 +427,7 @@ new Foo();
                                                                         "start": 201,
                                                                         "end": 206
                                                                     },
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 2,
                                                                     "start": 195,
                                                                     "end": 206
@@ -486,7 +486,7 @@ new Foo();
                                                             "start": 237,
                                                             "end": 243
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 224,
                                                         "end": 243
@@ -519,7 +519,7 @@ new Foo();
                                                                     "start": 257,
                                                                     "end": 262
                                                                 },
-                                                                "flags": 96,
+                                                                "flags": 32,
                                                                 "transformFlags": 5120,
                                                                 "start": 244,
                                                                 "end": 262
@@ -607,7 +607,7 @@ new Foo();
                     "start": 279,
                     "end": 279
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 2048,
                 "start": 270,
                 "end": 280

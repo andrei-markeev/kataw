@@ -40,7 +40,7 @@ return => {} ;
                 "start": 6,
                 "end": 6
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 256,
             "start": 0,
             "end": 6

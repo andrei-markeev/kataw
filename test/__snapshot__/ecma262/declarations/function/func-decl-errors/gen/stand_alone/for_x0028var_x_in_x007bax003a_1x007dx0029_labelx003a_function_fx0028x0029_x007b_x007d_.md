@@ -198,7 +198,7 @@ for (var x in {a: 1}) label: function f() { };
                 "start": 21,
                 "end": 45
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 45

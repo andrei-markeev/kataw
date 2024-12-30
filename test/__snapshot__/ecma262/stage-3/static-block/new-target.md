@@ -116,7 +116,7 @@ class Base {
                                                             "start": 40,
                                                             "end": 43
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 30,
                                                         "end": 43
@@ -222,7 +222,7 @@ class Base {
                                                                                                                 "start": 94,
                                                                                                                 "end": 97
                                                                                                             },
-                                                                                                            "flags": 97,
+                                                                                                            "flags": 33,
                                                                                                             "transformFlags": 2,
                                                                                                             "start": 80,
                                                                                                             "end": 97

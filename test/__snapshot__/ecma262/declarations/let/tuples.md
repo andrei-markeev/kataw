@@ -778,12 +778,12 @@ let tests = [
                                                                                 "start": 578,
                                                                                 "end": 584
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 2,
                                                                             "start": 575,
                                                                             "end": 584
                                                                         },
-                                                                        "flags": 80,
+                                                                        "flags": 16,
                                                                         "transformFlags": 256,
                                                                         "start": 568,
                                                                         "end": 585

@@ -129,7 +129,7 @@ try {} catch (e) { var e = x; }
                     "start": 16,
                     "end": 31
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 31

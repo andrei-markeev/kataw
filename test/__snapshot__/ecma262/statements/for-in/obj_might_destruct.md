@@ -128,7 +128,7 @@ for ({x,...x}=x in x) ;
                         "start": 18,
                         "end": 20
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 14,
                     "end": 20
@@ -138,8 +138,7 @@ for ({x,...x}=x in x) ;
                 "start": 5,
                 "end": 20
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -148,6 +147,7 @@ for ({x,...x}=x in x) ;
                 "start": 20,
                 "end": 20
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -155,7 +155,7 @@ for ({x,...x}=x in x) ;
                 "start": 21,
                 "end": 23
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 23

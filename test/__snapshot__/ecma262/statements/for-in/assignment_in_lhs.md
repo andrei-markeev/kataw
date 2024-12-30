@@ -88,7 +88,7 @@ for (a = b in x);
                         "start": 13,
                         "end": 15
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 8,
                     "end": 15
@@ -98,8 +98,7 @@ for (a = b in x);
                 "start": 0,
                 "end": 15
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -108,6 +107,7 @@ for (a = b in x);
                 "start": 15,
                 "end": 15
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -115,7 +115,7 @@ for (a = b in x);
                 "start": 16,
                 "end": 17
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 17

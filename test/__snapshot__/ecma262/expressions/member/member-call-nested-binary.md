@@ -47,7 +47,7 @@ a.b<T>(e)
                             "start": 2,
                             "end": 3
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2,
                         "start": 0,
                         "end": 3
@@ -68,7 +68,7 @@ a.b<T>(e)
                         "start": 4,
                         "end": 5
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 5
@@ -96,7 +96,7 @@ a.b<T>(e)
                     "start": 6,
                     "end": 9
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 9

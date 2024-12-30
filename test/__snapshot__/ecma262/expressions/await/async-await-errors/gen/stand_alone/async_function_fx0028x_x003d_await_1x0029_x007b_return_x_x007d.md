@@ -126,7 +126,7 @@ async function f(x = await 1) { return x; }
                                 "start": 38,
                                 "end": 40
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 256,
                             "start": 31,
                             "end": 41

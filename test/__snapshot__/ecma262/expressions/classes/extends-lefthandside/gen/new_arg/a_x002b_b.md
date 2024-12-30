@@ -45,7 +45,7 @@ new a + b
                         "end": 5
                     },
                     "argumentList": null,
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2048,
                     "start": 0,
                     "end": 5
@@ -66,7 +66,7 @@ new a + b
                     "start": 7,
                     "end": 9
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 9

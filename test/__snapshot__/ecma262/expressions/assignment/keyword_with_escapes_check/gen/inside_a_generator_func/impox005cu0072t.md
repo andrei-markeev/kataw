@@ -81,7 +81,7 @@ function *f(){
                             "fromClause": null,
                             "moduleSpecifier": null,
                             "importClause": null,
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 14,
                             "end": 28

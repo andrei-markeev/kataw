@@ -119,7 +119,7 @@ async x => switch = 1
                 "start": 21,
                 "end": 21
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 10,
             "end": 21

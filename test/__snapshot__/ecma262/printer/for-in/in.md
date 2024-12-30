@@ -65,7 +65,7 @@ for ((x in a);;) {}
                         "start": 10,
                         "end": 12
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 5,
                     "end": 12
@@ -92,7 +92,7 @@ for ((x in a);;) {}
                 "start": 16,
                 "end": 19
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 19

@@ -70,7 +70,7 @@ for ([x.y] = z in obj);
                                     "start": 8,
                                     "end": 9
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2,
                                 "start": 6,
                                 "end": 9
@@ -121,7 +121,7 @@ for ([x.y] = z in obj);
                         "start": 17,
                         "end": 21
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 12,
                     "end": 21
@@ -131,8 +131,7 @@ for ([x.y] = z in obj);
                 "start": 5,
                 "end": 21
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -141,6 +140,7 @@ for ([x.y] = z in obj);
                 "start": 21,
                 "end": 21
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -148,7 +148,7 @@ for ([x.y] = z in obj);
                 "start": 22,
                 "end": 23
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 23

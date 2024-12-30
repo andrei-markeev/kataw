@@ -213,7 +213,7 @@ foo.bar["bar"]["lorem_ispsum"].foo["lorem-ipsum"] = true;
                                         "start": 63,
                                         "end": 66
                                     },
-                                    "flags": 97,
+                                    "flags": 33,
                                     "transformFlags": 2,
                                     "start": 58,
                                     "end": 66

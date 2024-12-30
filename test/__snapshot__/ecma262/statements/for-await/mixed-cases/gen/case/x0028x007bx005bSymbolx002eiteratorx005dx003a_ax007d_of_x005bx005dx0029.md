@@ -152,7 +152,7 @@ async function f() { let a; for await ({[Symbol.iterator]: a} of []) ; }
                                                         "start": 48,
                                                         "end": 56
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 41,
                                                     "end": 56
@@ -218,7 +218,7 @@ async function f() { let a; for await ({[Symbol.iterator]: a} of []) ; }
                                 "start": 68,
                                 "end": 70
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 27,
                             "end": 70

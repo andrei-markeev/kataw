@@ -60,7 +60,7 @@ fuction *f() {  return await yield;  }
                     "start": 9,
                     "end": 12
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 12
@@ -93,7 +93,7 @@ fuction *f() {  return await yield;  }
                             "start": 22,
                             "end": 28
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 256,
                         "start": 14,
                         "end": 28

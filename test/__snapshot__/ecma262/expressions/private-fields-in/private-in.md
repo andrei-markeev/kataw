@@ -215,7 +215,7 @@ class Point {
                                                             "start": 74,
                                                             "end": 78
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 68,
                                                         "end": 78
@@ -254,17 +254,17 @@ class Point {
                                                             "start": 87,
                                                             "end": 91
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 84,
                                                         "end": 91
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 68,
                                                     "end": 91
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 57,
                                                 "end": 92

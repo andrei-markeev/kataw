@@ -107,7 +107,7 @@ var x; "use strict"; with (x) y;
                 "start": 29,
                 "end": 32
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 20,
             "end": 32

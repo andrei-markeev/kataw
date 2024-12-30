@@ -51,7 +51,7 @@
                             "start": 28,
                             "end": 30
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 0,
                         "end": 30
@@ -115,7 +115,7 @@
                                 "start": 67,
                                 "end": 99
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 37,
                             "end": 99
@@ -136,7 +136,7 @@
                             "start": 102,
                             "end": 124
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 37,
                         "end": 124

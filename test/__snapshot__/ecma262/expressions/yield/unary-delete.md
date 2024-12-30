@@ -98,7 +98,7 @@ function *f() {  return delete yield;  }
                                 "start": 23,
                                 "end": 36
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 256,
                             "start": 15,
                             "end": 37

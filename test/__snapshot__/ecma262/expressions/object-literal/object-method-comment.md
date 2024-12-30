@@ -148,7 +148,7 @@ function foo() {
                                 "start": 25,
                                 "end": 89
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 16,
                             "end": 90

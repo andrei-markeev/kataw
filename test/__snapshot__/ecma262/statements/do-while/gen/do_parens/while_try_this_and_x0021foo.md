@@ -70,7 +70,7 @@ do( while try this and !foo while
                 "start": 9,
                 "end": 9
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 9
@@ -215,7 +215,7 @@ do( while try this and !foo while
                 "start": 33,
                 "end": 33
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 27,
             "end": 33

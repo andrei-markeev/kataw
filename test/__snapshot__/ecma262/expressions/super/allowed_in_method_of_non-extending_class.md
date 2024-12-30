@@ -99,7 +99,7 @@ class x { foo(){ super.foo; }}
                                                         "start": 23,
                                                         "end": 26
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 16,
                                                     "end": 26

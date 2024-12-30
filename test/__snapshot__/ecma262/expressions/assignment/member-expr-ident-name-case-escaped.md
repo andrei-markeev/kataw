@@ -105,7 +105,7 @@ obj.c\u0061se = 42;
                         "start": 19,
                         "end": 28
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 13,
                     "end": 28

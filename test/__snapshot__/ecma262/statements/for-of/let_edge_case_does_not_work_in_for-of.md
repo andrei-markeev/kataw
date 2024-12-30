@@ -102,8 +102,7 @@ for (let of x) y
                 "start": 0,
                 "end": 13
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -112,6 +111,7 @@ for (let of x) y
                 "start": 13,
                 "end": 13
             },
+            "incrementor": null,
             "statement": {
                 "kind": 120,
                 "expression": {
@@ -128,7 +128,7 @@ for (let of x) y
                 "start": 14,
                 "end": 16
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 16

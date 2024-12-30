@@ -96,7 +96,7 @@ a ? b ? c : d ** x : e
                             "start": 16,
                             "end": 18
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 11,
                         "end": 18

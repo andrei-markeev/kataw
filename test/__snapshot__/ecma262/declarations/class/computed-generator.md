@@ -84,7 +84,7 @@ class Foo {
                                             "start": 22,
                                             "end": 30
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 15,
                                         "end": 30

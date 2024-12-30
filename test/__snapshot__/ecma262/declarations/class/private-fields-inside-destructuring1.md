@@ -245,12 +245,12 @@ class Test {
                                                         "start": 71,
                                                         "end": 73
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 65,
                                                     "end": 73
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 256,
                                                 "start": 58,
                                                 "end": 74
@@ -346,12 +346,12 @@ class Test {
                                                         "start": 102,
                                                         "end": 104
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 96,
                                                     "end": 104
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 256,
                                                 "start": 89,
                                                 "end": 105
@@ -493,7 +493,7 @@ class Test {
                                                     "start": 133,
                                                     "end": 145
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 120,
                                                 "end": 146
@@ -583,7 +583,7 @@ class Test {
                                                                         "start": 177,
                                                                         "end": 179
                                                                     },
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 2,
                                                                     "start": 172,
                                                                     "end": 179
@@ -606,7 +606,7 @@ class Test {
                                                                         "start": 185,
                                                                         "end": 187
                                                                     },
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 2,
                                                                     "start": 180,
                                                                     "end": 187
@@ -629,7 +629,7 @@ class Test {
                                                                         "start": 193,
                                                                         "end": 194
                                                                     },
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 2,
                                                                     "start": 188,
                                                                     "end": 194
@@ -673,7 +673,7 @@ class Test {
                                                                 "start": 203,
                                                                 "end": 208
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 197,
                                                             "end": 208

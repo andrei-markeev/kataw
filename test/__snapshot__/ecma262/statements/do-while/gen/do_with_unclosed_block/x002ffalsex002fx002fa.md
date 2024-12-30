@@ -62,7 +62,7 @@ do {} while (x) { /false//a
                 "start": 13,
                 "end": 14
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 15
@@ -101,7 +101,7 @@ do {} while (x) { /false//a
                                 "start": 26,
                                 "end": 27
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 17,
                             "end": 27

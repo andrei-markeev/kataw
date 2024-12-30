@@ -71,7 +71,7 @@ async async => ok.x
                         "start": 18,
                         "end": 19
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2,
                     "start": 14,
                     "end": 19

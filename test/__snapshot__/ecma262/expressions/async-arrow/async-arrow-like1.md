@@ -146,7 +146,7 @@ async <T>(fn: () => T);
                         "start": 9,
                         "end": 22
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 8,
                     "end": 22

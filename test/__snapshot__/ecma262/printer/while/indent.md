@@ -69,7 +69,7 @@ while (0);
                             "start": 26,
                             "end": 46
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 4,
                         "end": 46
@@ -90,7 +90,7 @@ while (0);
                         "start": 49,
                         "end": 69
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 4,
                     "end": 69
@@ -111,7 +111,7 @@ while (0);
                     "start": 72,
                     "end": 92
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 4,
                 "end": 92
@@ -133,7 +133,7 @@ while (0);
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 96
@@ -178,7 +178,7 @@ while (0);
                             "start": 126,
                             "end": 146
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 104,
                         "end": 146
@@ -199,7 +199,7 @@ while (0);
                         "start": 149,
                         "end": 169
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 104,
                     "end": 169
@@ -220,7 +220,7 @@ while (0);
                     "start": 172,
                     "end": 192
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 104,
                 "end": 192
@@ -240,7 +240,7 @@ while (0);
                 "start": 193,
                 "end": 196
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 96,
             "end": 196
@@ -307,7 +307,7 @@ while (0);
                             "start": 232,
                             "end": 252
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 210,
                         "end": 252
@@ -328,7 +328,7 @@ while (0);
                         "start": 255,
                         "end": 275
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 210,
                     "end": 275
@@ -349,12 +349,12 @@ while (0);
                     "start": 278,
                     "end": 298
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 210,
                 "end": 298
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 196,
             "end": 300
@@ -447,7 +447,7 @@ while (0);
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 300,
             "end": 398
@@ -538,7 +538,7 @@ while (0);
                 "start": 495,
                 "end": 498
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 398,
             "end": 498
@@ -636,7 +636,7 @@ while (0);
                 "start": 512,
                 "end": 600
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 498,
             "end": 602
@@ -675,7 +675,7 @@ while (0);
                 "start": 613,
                 "end": 616
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 602,
             "end": 616
@@ -721,7 +721,7 @@ while (0);
                 "start": 631,
                 "end": 632
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 616,
             "end": 634

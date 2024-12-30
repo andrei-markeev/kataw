@@ -338,7 +338,7 @@ new async function() { await 0 }.x
                     "start": 67,
                     "end": 100
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 63,
                 "end": 100
@@ -875,7 +875,7 @@ new async function() { await 0 }.x
                     "start": 104,
                     "end": 271
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 100,
                 "end": 271
@@ -978,7 +978,7 @@ new async function() { await 0 }.x
                     "end": 304
                 },
                 "argumentList": null,
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 2048,
                 "start": 271,
                 "end": 304
@@ -1083,7 +1083,7 @@ new async function() { await 0 }.x
                         "end": 337
                     },
                     "argumentList": null,
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2048,
                     "start": 304,
                     "end": 337
@@ -1097,7 +1097,7 @@ new async function() { await 0 }.x
                     "start": 338,
                     "end": 339
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 2,
                 "start": 304,
                 "end": 339

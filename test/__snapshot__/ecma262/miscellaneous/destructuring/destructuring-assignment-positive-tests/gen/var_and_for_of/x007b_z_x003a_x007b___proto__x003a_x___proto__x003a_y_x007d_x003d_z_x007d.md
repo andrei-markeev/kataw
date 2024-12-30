@@ -335,7 +335,7 @@ var x, y, z; for (x of x = { z : { __proto__: x, __proto__: y } = z } = z = {});
                 "start": 79,
                 "end": 80
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 12,
             "end": 80

@@ -49,7 +49,7 @@
                             "start": 4,
                             "end": 5
                         },
-                        "flags": 97,
+                        "flags": 33,
                         "transformFlags": 5120,
                         "start": 0,
                         "end": 5
@@ -70,7 +70,7 @@
                         "start": 6,
                         "end": 6
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 6

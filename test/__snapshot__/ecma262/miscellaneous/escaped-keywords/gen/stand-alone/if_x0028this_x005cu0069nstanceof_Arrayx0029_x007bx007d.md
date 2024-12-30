@@ -56,7 +56,7 @@ if (this \u0069nstanceof Array) {}
                     "start": 24,
                     "end": 30
                 },
-                "flags": 16480,
+                "flags": 16416,
                 "transformFlags": 5120,
                 "start": 4,
                 "end": 30
@@ -78,7 +78,7 @@ if (this \u0069nstanceof Array) {}
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 34

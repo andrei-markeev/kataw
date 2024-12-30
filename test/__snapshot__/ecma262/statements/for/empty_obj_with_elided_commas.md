@@ -73,15 +73,6 @@ for (let {,,} = obj;;);
                 "end": 11
             },
             "condition": {
-                "kind": 16637,
-                "text": "",
-                "rawText": "",
-                "flags": 64,
-                "transformFlags": 0,
-                "start": 12,
-                "end": 12
-            },
-            "incrementor": {
                 "kind": 132,
                 "expressions": [
                     {
@@ -108,6 +99,15 @@ for (let {,,} = obj;;);
                 "start": 11,
                 "end": 12
             },
+            "incrementor": {
+                "kind": 16637,
+                "text": "",
+                "rawText": "",
+                "flags": 64,
+                "transformFlags": 0,
+                "start": 12,
+                "end": 12
+            },
             "statement": {
                 "kind": 120,
                 "expression": {
@@ -124,7 +124,7 @@ for (let {,,} = obj;;);
                 "start": 12,
                 "end": 12
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 12

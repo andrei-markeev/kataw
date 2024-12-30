@@ -123,7 +123,7 @@ class x extends instanceof {}
                     "start": 26,
                     "end": 29
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 15,
                 "end": 29

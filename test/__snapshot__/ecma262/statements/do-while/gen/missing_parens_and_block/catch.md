@@ -74,7 +74,7 @@ do catch while
                         "start": 8,
                         "end": 8
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 2,
                     "end": 8
@@ -102,7 +102,7 @@ do catch while
                 "start": 14,
                 "end": 14
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 14

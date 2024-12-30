@@ -183,7 +183,7 @@ var d: { (): string } = function (x: number): string { return "hi"; };
                                                 "start": 61,
                                                 "end": 66
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 54,
                                             "end": 67

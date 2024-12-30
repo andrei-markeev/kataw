@@ -381,7 +381,7 @@ function b1<A: 'a', B: A>(b: B): void {
                                 "start": 46,
                                 "end": 136
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 31,
                             "end": 140
@@ -550,7 +550,7 @@ function b1<A: 'a', B: A>(b: B): void {
                                                     "start": 187,
                                                     "end": 191
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 182,
                                                 "end": 191
@@ -572,7 +572,7 @@ function b1<A: 'a', B: A>(b: B): void {
                                             },
                                             "elseKeyword": null,
                                             "alternate": null,
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 0,
                                             "start": 175,
                                             "end": 195
@@ -834,7 +834,7 @@ function b1<A: 'a', B: A>(b: B): void {
                                     "start": 253,
                                     "end": 257
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 248,
                                 "end": 257
@@ -856,7 +856,7 @@ function b1<A: 'a', B: A>(b: B): void {
                             },
                             "elseKeyword": null,
                             "alternate": null,
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 241,
                             "end": 261

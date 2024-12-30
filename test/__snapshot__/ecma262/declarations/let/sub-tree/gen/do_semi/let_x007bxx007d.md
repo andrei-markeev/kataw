@@ -74,7 +74,7 @@ do let {x}; while (a);
                 "start": 6,
                 "end": 10
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 11
@@ -104,7 +104,7 @@ do let {x}; while (a);
                 "start": 21,
                 "end": 22
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 11,
             "end": 22

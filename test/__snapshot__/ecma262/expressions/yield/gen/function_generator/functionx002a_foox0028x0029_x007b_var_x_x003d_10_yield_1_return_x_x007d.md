@@ -245,7 +245,7 @@ function * gen() { function not_gen() { function* foo() { var x = 10; yield 1; r
                                                                 "start": 85,
                                                                 "end": 87
                                                             },
-                                                            "flags": 80,
+                                                            "flags": 16,
                                                             "transformFlags": 256,
                                                             "start": 78,
                                                             "end": 88

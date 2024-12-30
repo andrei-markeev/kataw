@@ -108,8 +108,7 @@ function *f(){
                                 "start": 21,
                                 "end": 21
                             },
-                            "condition": null,
-                            "incrementor": {
+                            "condition": {
                                 "kind": 16637,
                                 "text": "",
                                 "rawText": "",
@@ -118,6 +117,7 @@ function *f(){
                                 "start": 21,
                                 "end": 21
                             },
+                            "incrementor": null,
                             "statement": {
                                 "kind": 120,
                                 "expression": {
@@ -157,7 +157,7 @@ function *f(){
                                 "start": 22,
                                 "end": 27
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 18,
                             "end": 27

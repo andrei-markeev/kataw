@@ -62,7 +62,7 @@ import x, * as a from "y"
                         "start": 11,
                         "end": 14
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 9,
                     "end": 14
@@ -91,7 +91,7 @@ import x, * as a from "y"
                 "start": 0,
                 "end": 9
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 14

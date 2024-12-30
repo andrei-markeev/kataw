@@ -38,7 +38,7 @@ new a ? b : c
                         "end": 5
                     },
                     "argumentList": null,
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2048,
                     "start": 0,
                     "end": 5
@@ -75,7 +75,7 @@ new a ? b : c
                     "start": 11,
                     "end": 13
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 4096,
                 "start": 0,
                 "end": 13

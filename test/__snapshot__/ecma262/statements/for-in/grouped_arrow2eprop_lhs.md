@@ -141,7 +141,7 @@ for (((x)=>{}).x in y);
                 "start": 22,
                 "end": 23
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 23

@@ -95,7 +95,7 @@ while (true) {
                                     "start": 32,
                                     "end": 44
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 19,
                                 "end": 44
@@ -116,7 +116,7 @@ while (true) {
                 "start": 12,
                 "end": 46
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 46

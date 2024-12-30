@@ -195,7 +195,7 @@ function *f(x = delete ((with) = f)) {}
                 "start": 30,
                 "end": 34
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 25,
             "end": 34

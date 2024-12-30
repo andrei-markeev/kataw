@@ -38,7 +38,7 @@ new false.__proto__.constructor
                             "end": 9
                         },
                         "argumentList": null,
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2048,
                         "start": 0,
                         "end": 9
@@ -52,7 +52,7 @@ new false.__proto__.constructor
                         "start": 10,
                         "end": 19
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2,
                     "start": 0,
                     "end": 19
@@ -66,7 +66,7 @@ new false.__proto__.constructor
                     "start": 20,
                     "end": 31
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 0,
                 "end": 31

@@ -105,7 +105,7 @@ function functionName() {
                                                         "start": 84,
                                                         "end": 122
                                                     },
-                                                    "flags": 97,
+                                                    "flags": 33,
                                                     "transformFlags": 2,
                                                     "start": 74,
                                                     "end": 122
@@ -138,7 +138,7 @@ function functionName() {
                                                                 "end": 133
                                                             },
                                                             "argumentList": null,
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2048,
                                                             "start": 124,
                                                             "end": 133
@@ -152,7 +152,7 @@ function functionName() {
                                                             "start": 134,
                                                             "end": 141
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 124,
                                                         "end": 141
@@ -256,7 +256,7 @@ function functionName() {
                             },
                             "elseKeyword": null,
                             "alternate": null,
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 25,
                             "end": 214

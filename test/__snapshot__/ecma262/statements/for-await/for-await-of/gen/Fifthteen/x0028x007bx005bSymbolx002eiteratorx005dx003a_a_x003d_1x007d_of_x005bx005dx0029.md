@@ -118,7 +118,7 @@ async function * f() { for await
                                                         "start": 43,
                                                         "end": 51
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 36,
                                                     "end": 51
@@ -215,7 +215,7 @@ async function * f() { for await
                                 "start": 67,
                                 "end": 72
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 22,
                             "end": 72

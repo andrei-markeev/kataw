@@ -90,7 +90,7 @@ foo: for (x in y) continue foo;
                     "start": 17,
                     "end": 31
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 4,
                 "end": 31

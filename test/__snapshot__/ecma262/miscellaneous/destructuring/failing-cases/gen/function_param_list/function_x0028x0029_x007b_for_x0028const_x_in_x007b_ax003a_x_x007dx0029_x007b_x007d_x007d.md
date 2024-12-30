@@ -219,7 +219,7 @@ function x(function () { for (const x in { a: x }) { } }) {}
                                 "start": 50,
                                 "end": 54
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 24,
                             "end": 54

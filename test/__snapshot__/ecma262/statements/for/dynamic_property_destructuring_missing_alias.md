@@ -114,8 +114,7 @@ for (let {[x]} = z);
                 "start": 0,
                 "end": 18
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -124,6 +123,7 @@ for (let {[x]} = z);
                 "start": 18,
                 "end": 18
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -131,7 +131,7 @@ for (let {[x]} = z);
                 "start": 19,
                 "end": 20
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 20

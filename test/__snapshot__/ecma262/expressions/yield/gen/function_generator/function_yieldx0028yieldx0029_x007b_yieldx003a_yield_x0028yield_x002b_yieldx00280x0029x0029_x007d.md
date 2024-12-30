@@ -236,7 +236,7 @@ function * gen() { function not_gen() { function yield(yield) { yield: yield (yi
                                                                                     "start": 85,
                                                                                     "end": 94
                                                                                 },
-                                                                                "flags": 96,
+                                                                                "flags": 32,
                                                                                 "transformFlags": 5120,
                                                                                 "start": 78,
                                                                                 "end": 94

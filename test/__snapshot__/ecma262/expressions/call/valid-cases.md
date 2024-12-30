@@ -80,7 +80,7 @@ x(class {} ?? 1);
                                 "start": 8,
                                 "end": 10
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 2,
                             "end": 10
@@ -248,7 +248,7 @@ x(class {} ?? 1);
                                 "start": 44,
                                 "end": 46
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 37,
                             "end": 46
@@ -739,7 +739,7 @@ x(class {} ?? 1);
                                         "start": 139,
                                         "end": 141
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 135,
                                     "end": 141
@@ -834,7 +834,7 @@ x(class {} ?? 1);
                                         "start": 157,
                                         "end": 159
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 153,
                                     "end": 159
@@ -929,7 +929,7 @@ x(class {} ?? 1);
                                         "start": 176,
                                         "end": 178
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 171,
                                     "end": 178

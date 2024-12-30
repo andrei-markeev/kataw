@@ -97,7 +97,7 @@ foo: while(z) { while(z) continue foo }
                                     "start": 24,
                                     "end": 37
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 15,
                                 "end": 37
@@ -113,7 +113,7 @@ foo: while(z) { while(z) continue foo }
                     "start": 13,
                     "end": 39
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 4,
                 "end": 39

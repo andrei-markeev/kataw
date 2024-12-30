@@ -365,7 +365,7 @@ function foo8_c(x) {
                                                                 "start": 69,
                                                                 "end": 75
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 58,
                                                             "end": 75
@@ -454,12 +454,12 @@ function foo8_c(x) {
                                                                             "start": 109,
                                                                             "end": 111
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 105,
                                                                         "end": 111
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 98,
                                                                     "end": 111
@@ -543,7 +543,7 @@ function foo8_c(x) {
                                                             "start": 134,
                                                             "end": 136
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 130,
                                                         "end": 136
@@ -574,7 +574,7 @@ function foo8_c(x) {
                                 "start": 40,
                                 "end": 144
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 18,
                             "end": 144
@@ -765,7 +765,7 @@ function foo8_c(x) {
                                                                 "start": 219,
                                                                 "end": 225
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 208,
                                                             "end": 225
@@ -854,12 +854,12 @@ function foo8_c(x) {
                                                                             "start": 259,
                                                                             "end": 261
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 255,
                                                                         "end": 261
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 248,
                                                                     "end": 261
@@ -943,7 +943,7 @@ function foo8_c(x) {
                                                             "start": 284,
                                                             "end": 286
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 280,
                                                         "end": 286
@@ -974,7 +974,7 @@ function foo8_c(x) {
                                 "start": 190,
                                 "end": 294
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 168,
                             "end": 294
@@ -1102,29 +1102,6 @@ function foo8_c(x) {
                                 "end": 335
                             },
                             "condition": {
-                                "kind": 128,
-                                "operandToken": {
-                                    "kind": 196635,
-                                    "flags": 96,
-                                    "transformFlags": 0,
-                                    "start": 343,
-                                    "end": 346
-                                },
-                                "operand": {
-                                    "kind": 134299649,
-                                    "text": "x",
-                                    "rawText": "x",
-                                    "flags": 96,
-                                    "transformFlags": 0,
-                                    "start": 346,
-                                    "end": 347
-                                },
-                                "flags": 32,
-                                "transformFlags": 16384,
-                                "start": 343,
-                                "end": 347
-                            },
-                            "incrementor": {
                                 "kind": 198,
                                 "left": {
                                     "kind": 134299649,
@@ -1151,10 +1128,33 @@ function foo8_c(x) {
                                     "start": 340,
                                     "end": 342
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 336,
                                 "end": 342
+                            },
+                            "incrementor": {
+                                "kind": 128,
+                                "operandToken": {
+                                    "kind": 196635,
+                                    "flags": 96,
+                                    "transformFlags": 0,
+                                    "start": 343,
+                                    "end": 346
+                                },
+                                "operand": {
+                                    "kind": 134299649,
+                                    "text": "x",
+                                    "rawText": "x",
+                                    "flags": 96,
+                                    "transformFlags": 0,
+                                    "start": 346,
+                                    "end": 347
+                                },
+                                "flags": 32,
+                                "transformFlags": 16384,
+                                "start": 343,
+                                "end": 347
                             },
                             "statement": {
                                 "kind": 124,
@@ -1205,7 +1205,7 @@ function foo8_c(x) {
                                                                 "start": 377,
                                                                 "end": 383
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 366,
                                                             "end": 383
@@ -1294,12 +1294,12 @@ function foo8_c(x) {
                                                                             "start": 417,
                                                                             "end": 419
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 413,
                                                                         "end": 419
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 406,
                                                                     "end": 419
@@ -1383,7 +1383,7 @@ function foo8_c(x) {
                                                             "start": 442,
                                                             "end": 444
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 438,
                                                         "end": 444
@@ -1414,7 +1414,7 @@ function foo8_c(x) {
                                 "start": 348,
                                 "end": 452
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 316,
                             "end": 452
@@ -1519,7 +1519,7 @@ function foo8_c(x) {
                                     "start": 491,
                                     "end": 493
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 486,
                                 "end": 493
@@ -1573,7 +1573,7 @@ function foo8_c(x) {
                                                                 "start": 523,
                                                                 "end": 529
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 512,
                                                             "end": 529
@@ -1662,12 +1662,12 @@ function foo8_c(x) {
                                                                             "start": 563,
                                                                             "end": 565
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 559,
                                                                         "end": 565
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 552,
                                                                     "end": 565
@@ -1751,7 +1751,7 @@ function foo8_c(x) {
                                                             "start": 588,
                                                             "end": 590
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 584,
                                                         "end": 590
@@ -1782,7 +1782,7 @@ function foo8_c(x) {
                                 "start": 494,
                                 "end": 598
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 474,
                             "end": 598
@@ -1950,7 +1950,7 @@ function foo8_c(x) {
                                                                 "start": 671,
                                                                 "end": 677
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 660,
                                                             "end": 677
@@ -2039,12 +2039,12 @@ function foo8_c(x) {
                                                                             "start": 711,
                                                                             "end": 713
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 707,
                                                                         "end": 713
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 700,
                                                                     "end": 713
@@ -2128,7 +2128,7 @@ function foo8_c(x) {
                                                             "start": 736,
                                                             "end": 738
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 732,
                                                         "end": 738
@@ -2193,12 +2193,12 @@ function foo8_c(x) {
                                     "start": 759,
                                     "end": 761
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 754,
                                 "end": 761
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 620,
                             "end": 762
@@ -2326,29 +2326,6 @@ function foo8_c(x) {
                                 "end": 803
                             },
                             "condition": {
-                                "kind": 128,
-                                "operandToken": {
-                                    "kind": 196635,
-                                    "flags": 96,
-                                    "transformFlags": 0,
-                                    "start": 811,
-                                    "end": 814
-                                },
-                                "operand": {
-                                    "kind": 134299649,
-                                    "text": "y",
-                                    "rawText": "y",
-                                    "flags": 96,
-                                    "transformFlags": 0,
-                                    "start": 814,
-                                    "end": 815
-                                },
-                                "flags": 32,
-                                "transformFlags": 16384,
-                                "start": 811,
-                                "end": 815
-                            },
-                            "incrementor": {
                                 "kind": 198,
                                 "left": {
                                     "kind": 134299649,
@@ -2375,10 +2352,33 @@ function foo8_c(x) {
                                     "start": 808,
                                     "end": 810
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 804,
                                 "end": 810
+                            },
+                            "incrementor": {
+                                "kind": 128,
+                                "operandToken": {
+                                    "kind": 196635,
+                                    "flags": 96,
+                                    "transformFlags": 0,
+                                    "start": 811,
+                                    "end": 814
+                                },
+                                "operand": {
+                                    "kind": 134299649,
+                                    "text": "y",
+                                    "rawText": "y",
+                                    "flags": 96,
+                                    "transformFlags": 0,
+                                    "start": 814,
+                                    "end": 815
+                                },
+                                "flags": 32,
+                                "transformFlags": 16384,
+                                "start": 811,
+                                "end": 815
                             },
                             "statement": {
                                 "kind": 124,
@@ -2429,7 +2429,7 @@ function foo8_c(x) {
                                                                 "start": 845,
                                                                 "end": 851
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 834,
                                                             "end": 851
@@ -2567,12 +2567,12 @@ function foo8_c(x) {
                                                                             "start": 904,
                                                                             "end": 906
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 900,
                                                                         "end": 906
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 893,
                                                                     "end": 906
@@ -2656,7 +2656,7 @@ function foo8_c(x) {
                                                             "start": 929,
                                                             "end": 931
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 925,
                                                         "end": 931
@@ -2687,7 +2687,7 @@ function foo8_c(x) {
                                 "start": 816,
                                 "end": 939
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 784,
                             "end": 939
@@ -2841,29 +2841,6 @@ function foo8_c(x) {
                                 "end": 987
                             },
                             "condition": {
-                                "kind": 128,
-                                "operandToken": {
-                                    "kind": 196635,
-                                    "flags": 96,
-                                    "transformFlags": 0,
-                                    "start": 995,
-                                    "end": 998
-                                },
-                                "operand": {
-                                    "kind": 134299649,
-                                    "text": "x",
-                                    "rawText": "x",
-                                    "flags": 96,
-                                    "transformFlags": 0,
-                                    "start": 998,
-                                    "end": 999
-                                },
-                                "flags": 32,
-                                "transformFlags": 16384,
-                                "start": 995,
-                                "end": 999
-                            },
-                            "incrementor": {
                                 "kind": 198,
                                 "left": {
                                     "kind": 134299649,
@@ -2890,10 +2867,33 @@ function foo8_c(x) {
                                     "start": 992,
                                     "end": 994
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 988,
                                 "end": 994
+                            },
+                            "incrementor": {
+                                "kind": 128,
+                                "operandToken": {
+                                    "kind": 196635,
+                                    "flags": 96,
+                                    "transformFlags": 0,
+                                    "start": 995,
+                                    "end": 998
+                                },
+                                "operand": {
+                                    "kind": 134299649,
+                                    "text": "x",
+                                    "rawText": "x",
+                                    "flags": 96,
+                                    "transformFlags": 0,
+                                    "start": 998,
+                                    "end": 999
+                                },
+                                "flags": 32,
+                                "transformFlags": 16384,
+                                "start": 995,
+                                "end": 999
                             },
                             "statement": {
                                 "kind": 124,
@@ -2944,7 +2944,7 @@ function foo8_c(x) {
                                                                 "start": 1029,
                                                                 "end": 1035
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 1018,
                                                             "end": 1035
@@ -3035,7 +3035,7 @@ function foo8_c(x) {
                                                                                 "start": 1069,
                                                                                 "end": 1071
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 5120,
                                                                             "start": 1065,
                                                                             "end": 1071
@@ -3056,12 +3056,12 @@ function foo8_c(x) {
                                                                             "start": 1073,
                                                                             "end": 1075
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 1065,
                                                                         "end": 1075
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 1058,
                                                                     "end": 1075
@@ -3147,7 +3147,7 @@ function foo8_c(x) {
                                                                 "start": 1098,
                                                                 "end": 1100
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 5120,
                                                             "start": 1094,
                                                             "end": 1100
@@ -3168,7 +3168,7 @@ function foo8_c(x) {
                                                             "start": 1102,
                                                             "end": 1104
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 1094,
                                                         "end": 1104
@@ -3199,7 +3199,7 @@ function foo8_c(x) {
                                 "start": 1000,
                                 "end": 1112
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 961,
                             "end": 1112
@@ -3304,7 +3304,7 @@ function foo8_c(x) {
                                     "start": 1152,
                                     "end": 1154
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 1147,
                                 "end": 1154
@@ -3417,7 +3417,7 @@ function foo8_c(x) {
                                                                 "start": 1202,
                                                                 "end": 1208
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 1191,
                                                             "end": 1208
@@ -3508,7 +3508,7 @@ function foo8_c(x) {
                                                                                 "start": 1242,
                                                                                 "end": 1244
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 5120,
                                                                             "start": 1238,
                                                                             "end": 1244
@@ -3529,12 +3529,12 @@ function foo8_c(x) {
                                                                             "start": 1246,
                                                                             "end": 1248
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 1238,
                                                                         "end": 1248
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 1231,
                                                                     "end": 1248
@@ -3620,7 +3620,7 @@ function foo8_c(x) {
                                                                 "start": 1271,
                                                                 "end": 1273
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 5120,
                                                             "start": 1267,
                                                             "end": 1273
@@ -3641,7 +3641,7 @@ function foo8_c(x) {
                                                             "start": 1275,
                                                             "end": 1277
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 1267,
                                                         "end": 1277
@@ -3672,7 +3672,7 @@ function foo8_c(x) {
                                 "start": 1155,
                                 "end": 1285
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 1135,
                             "end": 1285
@@ -3858,7 +3858,7 @@ function foo8_c(x) {
                                                                 "start": 1361,
                                                                 "end": 1367
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 1350,
                                                             "end": 1367
@@ -3949,7 +3949,7 @@ function foo8_c(x) {
                                                                                 "start": 1401,
                                                                                 "end": 1403
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 5120,
                                                                             "start": 1397,
                                                                             "end": 1403
@@ -3970,12 +3970,12 @@ function foo8_c(x) {
                                                                             "start": 1405,
                                                                             "end": 1407
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 1397,
                                                                         "end": 1407
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 1390,
                                                                     "end": 1407
@@ -4061,7 +4061,7 @@ function foo8_c(x) {
                                                                 "start": 1430,
                                                                 "end": 1432
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 5120,
                                                             "start": 1426,
                                                             "end": 1432
@@ -4082,7 +4082,7 @@ function foo8_c(x) {
                                                             "start": 1434,
                                                             "end": 1436
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 1426,
                                                         "end": 1436
@@ -4147,12 +4147,12 @@ function foo8_c(x) {
                                     "start": 1457,
                                     "end": 1459
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 1452,
                                 "end": 1459
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 1307,
                             "end": 1460
@@ -4280,29 +4280,6 @@ function foo8_c(x) {
                                 "end": 1502
                             },
                             "condition": {
-                                "kind": 128,
-                                "operandToken": {
-                                    "kind": 196635,
-                                    "flags": 96,
-                                    "transformFlags": 0,
-                                    "start": 1510,
-                                    "end": 1513
-                                },
-                                "operand": {
-                                    "kind": 134299649,
-                                    "text": "y",
-                                    "rawText": "y",
-                                    "flags": 96,
-                                    "transformFlags": 0,
-                                    "start": 1513,
-                                    "end": 1514
-                                },
-                                "flags": 32,
-                                "transformFlags": 16384,
-                                "start": 1510,
-                                "end": 1514
-                            },
-                            "incrementor": {
                                 "kind": 198,
                                 "left": {
                                     "kind": 134299649,
@@ -4329,10 +4306,33 @@ function foo8_c(x) {
                                     "start": 1507,
                                     "end": 1509
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 1503,
                                 "end": 1509
+                            },
+                            "incrementor": {
+                                "kind": 128,
+                                "operandToken": {
+                                    "kind": 196635,
+                                    "flags": 96,
+                                    "transformFlags": 0,
+                                    "start": 1510,
+                                    "end": 1513
+                                },
+                                "operand": {
+                                    "kind": 134299649,
+                                    "text": "y",
+                                    "rawText": "y",
+                                    "flags": 96,
+                                    "transformFlags": 0,
+                                    "start": 1513,
+                                    "end": 1514
+                                },
+                                "flags": 32,
+                                "transformFlags": 16384,
+                                "start": 1510,
+                                "end": 1514
                             },
                             "statement": {
                                 "kind": 124,
@@ -4432,7 +4432,7 @@ function foo8_c(x) {
                                                                 "start": 1563,
                                                                 "end": 1569
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 1552,
                                                             "end": 1569
@@ -4523,7 +4523,7 @@ function foo8_c(x) {
                                                                                 "start": 1603,
                                                                                 "end": 1605
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 5120,
                                                                             "start": 1599,
                                                                             "end": 1605
@@ -4544,12 +4544,12 @@ function foo8_c(x) {
                                                                             "start": 1607,
                                                                             "end": 1609
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 1599,
                                                                         "end": 1609
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 1592,
                                                                     "end": 1609
@@ -4635,7 +4635,7 @@ function foo8_c(x) {
                                                                 "start": 1632,
                                                                 "end": 1634
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 5120,
                                                             "start": 1628,
                                                             "end": 1634
@@ -4656,7 +4656,7 @@ function foo8_c(x) {
                                                             "start": 1636,
                                                             "end": 1638
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 1628,
                                                         "end": 1638
@@ -4687,7 +4687,7 @@ function foo8_c(x) {
                                 "start": 1515,
                                 "end": 1646
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 1483,
                             "end": 1646
@@ -4879,7 +4879,7 @@ function foo8_c(x) {
                                                                 "start": 1740,
                                                                 "end": 1746
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 1729,
                                                             "end": 1746
@@ -4968,12 +4968,12 @@ function foo8_c(x) {
                                                                             "start": 1780,
                                                                             "end": 1782
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 1776,
                                                                         "end": 1782
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 1769,
                                                                     "end": 1782
@@ -5057,7 +5057,7 @@ function foo8_c(x) {
                                                             "start": 1805,
                                                             "end": 1807
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 1801,
                                                         "end": 1807
@@ -5088,7 +5088,7 @@ function foo8_c(x) {
                                 "start": 1709,
                                 "end": 1815
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 1685,
                             "end": 1815
@@ -5279,7 +5279,7 @@ function foo8_c(x) {
                                                                 "start": 1896,
                                                                 "end": 1902
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 1885,
                                                             "end": 1902
@@ -5368,12 +5368,12 @@ function foo8_c(x) {
                                                                             "start": 1936,
                                                                             "end": 1938
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 1932,
                                                                         "end": 1938
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 1925,
                                                                     "end": 1938
@@ -5457,7 +5457,7 @@ function foo8_c(x) {
                                                             "start": 1961,
                                                             "end": 1963
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 1957,
                                                         "end": 1963
@@ -5488,7 +5488,7 @@ function foo8_c(x) {
                                 "start": 1865,
                                 "end": 1971
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 1841,
                             "end": 1971
@@ -5615,8 +5615,7 @@ function foo8_c(x) {
                                 "start": 1995,
                                 "end": 2016
                             },
-                            "condition": null,
-                            "incrementor": {
+                            "condition": {
                                 "kind": 198,
                                 "left": {
                                     "kind": 134299649,
@@ -5643,11 +5642,12 @@ function foo8_c(x) {
                                     "start": 2021,
                                     "end": 2023
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 2017,
                                 "end": 2023
                             },
+                            "incrementor": null,
                             "statement": {
                                 "kind": 124,
                                 "block": {
@@ -5697,7 +5697,7 @@ function foo8_c(x) {
                                                                 "start": 2056,
                                                                 "end": 2062
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 2045,
                                                             "end": 2062
@@ -5786,12 +5786,12 @@ function foo8_c(x) {
                                                                             "start": 2096,
                                                                             "end": 2098
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 2092,
                                                                         "end": 2098
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 2085,
                                                                     "end": 2098
@@ -5875,7 +5875,7 @@ function foo8_c(x) {
                                                             "start": 2121,
                                                             "end": 2123
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 2117,
                                                         "end": 2123
@@ -5906,7 +5906,7 @@ function foo8_c(x) {
                                 "start": 2025,
                                 "end": 2131
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 1995,
                             "end": 2131
@@ -6011,7 +6011,7 @@ function foo8_c(x) {
                                     "start": 2172,
                                     "end": 2174
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 2167,
                                 "end": 2174
@@ -6065,7 +6065,7 @@ function foo8_c(x) {
                                                                 "start": 2206,
                                                                 "end": 2212
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 2195,
                                                             "end": 2212
@@ -6154,12 +6154,12 @@ function foo8_c(x) {
                                                                             "start": 2246,
                                                                             "end": 2248
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 2242,
                                                                         "end": 2248
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 2235,
                                                                     "end": 2248
@@ -6243,7 +6243,7 @@ function foo8_c(x) {
                                                             "start": 2271,
                                                             "end": 2273
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 2267,
                                                         "end": 2273
@@ -6274,7 +6274,7 @@ function foo8_c(x) {
                                 "start": 2175,
                                 "end": 2281
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 2155,
                             "end": 2281
@@ -6450,7 +6450,7 @@ function foo8_c(x) {
                                                                 "start": 2364,
                                                                 "end": 2370
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 2353,
                                                             "end": 2370
@@ -6539,12 +6539,12 @@ function foo8_c(x) {
                                                                             "start": 2404,
                                                                             "end": 2406
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 2400,
                                                                         "end": 2406
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 2393,
                                                                     "end": 2406
@@ -6628,7 +6628,7 @@ function foo8_c(x) {
                                                             "start": 2429,
                                                             "end": 2431
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 2425,
                                                         "end": 2431
@@ -6693,12 +6693,12 @@ function foo8_c(x) {
                                     "start": 2452,
                                     "end": 2454
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 2447,
                                 "end": 2454
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 2305,
                             "end": 2455
@@ -6825,8 +6825,7 @@ function foo8_c(x) {
                                 "start": 2479,
                                 "end": 2500
                             },
-                            "condition": null,
-                            "incrementor": {
+                            "condition": {
                                 "kind": 198,
                                 "left": {
                                     "kind": 134299649,
@@ -6853,11 +6852,12 @@ function foo8_c(x) {
                                     "start": 2505,
                                     "end": 2507
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 2501,
                                 "end": 2507
                             },
+                            "incrementor": null,
                             "statement": {
                                 "kind": 124,
                                 "block": {
@@ -6907,7 +6907,7 @@ function foo8_c(x) {
                                                                 "start": 2540,
                                                                 "end": 2546
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 2529,
                                                             "end": 2546
@@ -7045,12 +7045,12 @@ function foo8_c(x) {
                                                                             "start": 2601,
                                                                             "end": 2603
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 2597,
                                                                         "end": 2603
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 2590,
                                                                     "end": 2603
@@ -7134,7 +7134,7 @@ function foo8_c(x) {
                                                             "start": 2626,
                                                             "end": 2628
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 2622,
                                                         "end": 2628
@@ -7165,7 +7165,7 @@ function foo8_c(x) {
                                 "start": 2509,
                                 "end": 2636
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 2479,
                             "end": 2636
@@ -7318,8 +7318,7 @@ function foo8_c(x) {
                                 "start": 2660,
                                 "end": 2688
                             },
-                            "condition": null,
-                            "incrementor": {
+                            "condition": {
                                 "kind": 198,
                                 "left": {
                                     "kind": 134299649,
@@ -7346,11 +7345,12 @@ function foo8_c(x) {
                                     "start": 2693,
                                     "end": 2695
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 2689,
                                 "end": 2695
                             },
+                            "incrementor": null,
                             "statement": {
                                 "kind": 124,
                                 "block": {
@@ -7400,7 +7400,7 @@ function foo8_c(x) {
                                                                 "start": 2728,
                                                                 "end": 2734
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 2717,
                                                             "end": 2734
@@ -7491,7 +7491,7 @@ function foo8_c(x) {
                                                                                 "start": 2768,
                                                                                 "end": 2770
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 5120,
                                                                             "start": 2764,
                                                                             "end": 2770
@@ -7512,12 +7512,12 @@ function foo8_c(x) {
                                                                             "start": 2772,
                                                                             "end": 2774
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 2764,
                                                                         "end": 2774
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 2757,
                                                                     "end": 2774
@@ -7603,7 +7603,7 @@ function foo8_c(x) {
                                                                 "start": 2797,
                                                                 "end": 2799
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 5120,
                                                             "start": 2793,
                                                             "end": 2799
@@ -7624,7 +7624,7 @@ function foo8_c(x) {
                                                             "start": 2801,
                                                             "end": 2803
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 2793,
                                                         "end": 2803
@@ -7655,7 +7655,7 @@ function foo8_c(x) {
                                 "start": 2697,
                                 "end": 2811
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 2660,
                             "end": 2811
@@ -7760,7 +7760,7 @@ function foo8_c(x) {
                                     "start": 2853,
                                     "end": 2855
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 2848,
                                 "end": 2855
@@ -7889,7 +7889,7 @@ function foo8_c(x) {
                                                                 "start": 2915,
                                                                 "end": 2921
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 2904,
                                                             "end": 2921
@@ -7980,7 +7980,7 @@ function foo8_c(x) {
                                                                                 "start": 2955,
                                                                                 "end": 2957
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 5120,
                                                                             "start": 2951,
                                                                             "end": 2957
@@ -8001,12 +8001,12 @@ function foo8_c(x) {
                                                                             "start": 2959,
                                                                             "end": 2961
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 2951,
                                                                         "end": 2961
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 2944,
                                                                     "end": 2961
@@ -8092,7 +8092,7 @@ function foo8_c(x) {
                                                                 "start": 2984,
                                                                 "end": 2986
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 5120,
                                                             "start": 2980,
                                                             "end": 2986
@@ -8113,7 +8113,7 @@ function foo8_c(x) {
                                                             "start": 2988,
                                                             "end": 2990
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 2980,
                                                         "end": 2990
@@ -8144,7 +8144,7 @@ function foo8_c(x) {
                                 "start": 2856,
                                 "end": 2998
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 2836,
                             "end": 2998
@@ -8346,7 +8346,7 @@ function foo8_c(x) {
                                                                 "start": 3088,
                                                                 "end": 3094
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 3077,
                                                             "end": 3094
@@ -8437,7 +8437,7 @@ function foo8_c(x) {
                                                                                 "start": 3128,
                                                                                 "end": 3130
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 5120,
                                                                             "start": 3124,
                                                                             "end": 3130
@@ -8458,12 +8458,12 @@ function foo8_c(x) {
                                                                             "start": 3132,
                                                                             "end": 3134
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 3124,
                                                                         "end": 3134
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 3117,
                                                                     "end": 3134
@@ -8549,7 +8549,7 @@ function foo8_c(x) {
                                                                 "start": 3157,
                                                                 "end": 3159
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 5120,
                                                             "start": 3153,
                                                             "end": 3159
@@ -8570,7 +8570,7 @@ function foo8_c(x) {
                                                             "start": 3161,
                                                             "end": 3163
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 3153,
                                                         "end": 3163
@@ -8635,12 +8635,12 @@ function foo8_c(x) {
                                     "start": 3184,
                                     "end": 3186
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 3179,
                                 "end": 3186
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 3022,
                             "end": 3187
@@ -8767,8 +8767,7 @@ function foo8_c(x) {
                                 "start": 3212,
                                 "end": 3233
                             },
-                            "condition": null,
-                            "incrementor": {
+                            "condition": {
                                 "kind": 198,
                                 "left": {
                                     "kind": 134299649,
@@ -8795,11 +8794,12 @@ function foo8_c(x) {
                                     "start": 3238,
                                     "end": 3240
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 3234,
                                 "end": 3240
                             },
+                            "incrementor": null,
                             "statement": {
                                 "kind": 124,
                                 "block": {
@@ -8898,7 +8898,7 @@ function foo8_c(x) {
                                                                 "start": 3294,
                                                                 "end": 3300
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 3283,
                                                             "end": 3300
@@ -8989,7 +8989,7 @@ function foo8_c(x) {
                                                                                 "start": 3334,
                                                                                 "end": 3336
                                                                             },
-                                                                            "flags": 96,
+                                                                            "flags": 32,
                                                                             "transformFlags": 5120,
                                                                             "start": 3330,
                                                                             "end": 3336
@@ -9010,12 +9010,12 @@ function foo8_c(x) {
                                                                             "start": 3338,
                                                                             "end": 3340
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 5120,
                                                                         "start": 3330,
                                                                         "end": 3340
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 3323,
                                                                     "end": 3340
@@ -9101,7 +9101,7 @@ function foo8_c(x) {
                                                                 "start": 3363,
                                                                 "end": 3365
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 5120,
                                                             "start": 3359,
                                                             "end": 3365
@@ -9122,7 +9122,7 @@ function foo8_c(x) {
                                                             "start": 3367,
                                                             "end": 3369
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 3359,
                                                         "end": 3369
@@ -9153,7 +9153,7 @@ function foo8_c(x) {
                                 "start": 3242,
                                 "end": 3377
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 3212,
                             "end": 3377

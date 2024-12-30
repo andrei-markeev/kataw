@@ -151,7 +151,7 @@ var await; var f = (async function() { async function f(){ await foo\n/foo/g } }
                         "start": 71,
                         "end": 74
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 69,
                     "end": 74
@@ -172,7 +172,7 @@ var await; var f = (async function() { async function f(){ await foo\n/foo/g } }
                     "start": 75,
                     "end": 76
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 69,
                 "end": 76

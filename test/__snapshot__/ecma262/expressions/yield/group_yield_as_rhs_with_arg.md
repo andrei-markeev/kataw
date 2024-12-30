@@ -135,7 +135,7 @@ function *g() { async (x = x + yield y); }
                                                     "start": 30,
                                                     "end": 38
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 26,
                                                 "end": 38

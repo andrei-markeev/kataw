@@ -44,7 +44,7 @@ new asc() => x
                     "start": 8,
                     "end": 8
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2048,
                 "start": 0,
                 "end": 9

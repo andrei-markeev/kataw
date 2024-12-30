@@ -112,7 +112,7 @@ x = { foo(){ return x[super.foo]; }}
                                                                 "start": 28,
                                                                 "end": 31
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 22,
                                                             "end": 31
@@ -122,7 +122,7 @@ x = { foo(){ return x[super.foo]; }}
                                                         "start": 19,
                                                         "end": 32
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 12,
                                                     "end": 33

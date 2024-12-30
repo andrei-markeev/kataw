@@ -1502,7 +1502,7 @@ a = { y: x = 1 } = b;
                                         "start": 289,
                                         "end": 290
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 282,
                                     "end": 290
@@ -1910,7 +1910,7 @@ a = { y: x = 1 } = b;
                                             "start": 365,
                                             "end": 368
                                         },
-                                        "flags": 32864,
+                                        "flags": 32800,
                                         "transformFlags": 2,
                                         "start": 360,
                                         "end": 368
@@ -2460,7 +2460,7 @@ a = { y: x = 1 } = b;
                                             "start": 482,
                                             "end": 483
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 474,
                                         "end": 483
@@ -3595,7 +3595,7 @@ a = { y: x = 1 } = b;
                                                                 "start": 731,
                                                                 "end": 732
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 724,
                                                             "end": 732
@@ -4728,7 +4728,7 @@ a = { y: x = 1 } = b;
                                                         "start": 958,
                                                         "end": 960
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 952,
                                                     "end": 960
@@ -4940,7 +4940,7 @@ a = { y: x = 1 } = b;
                                                 "start": 999,
                                                 "end": 1000
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 2,
                                             "start": 995,
                                             "end": 1000
@@ -4954,7 +4954,7 @@ a = { y: x = 1 } = b;
                                             "start": 1001,
                                             "end": 1002
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 995,
                                         "end": 1002

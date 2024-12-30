@@ -139,7 +139,7 @@ switch (a) { case b: let {x} }
                 "start": 12,
                 "end": 28
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 30

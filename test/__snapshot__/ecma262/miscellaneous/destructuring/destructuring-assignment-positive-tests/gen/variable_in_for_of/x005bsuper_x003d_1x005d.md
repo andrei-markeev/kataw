@@ -226,7 +226,7 @@ var x, y, z; for (x of [super = 1] = {});
                 "start": 40,
                 "end": 41
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 12,
             "end": 41

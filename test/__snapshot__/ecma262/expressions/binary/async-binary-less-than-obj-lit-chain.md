@@ -55,7 +55,7 @@ async <{}>(x) >> y + z
                             "start": 7,
                             "end": 9
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 0,
                         "end": 9
@@ -106,7 +106,7 @@ async <{}>(x) >> y + z
                         "start": 13,
                         "end": 18
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 18
@@ -127,7 +127,7 @@ async <{}>(x) >> y + z
                     "start": 20,
                     "end": 22
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 22

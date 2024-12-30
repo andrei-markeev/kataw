@@ -128,7 +128,7 @@ export default class { givesANum(): number { return 42; }};
                                                         "start": 51,
                                                         "end": 54
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 44,
                                                     "end": 55

@@ -63,7 +63,7 @@ for ("foo".bar in obj);
                     "start": 11,
                     "end": 14
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 5,
                 "end": 14
@@ -91,7 +91,7 @@ for ("foo".bar in obj);
                 "start": 22,
                 "end": 23
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 23

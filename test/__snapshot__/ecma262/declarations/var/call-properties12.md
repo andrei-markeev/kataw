@@ -155,7 +155,7 @@ var z : Object = function (x: number): string { return "hi"; };
                                                 "start": 54,
                                                 "end": 59
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 47,
                                             "end": 60

@@ -133,7 +133,7 @@ async function f() {
                                         "start": 42,
                                         "end": 44
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 38,
                                     "end": 44
@@ -166,7 +166,7 @@ async function f() {
                                 "start": 51,
                                 "end": 52
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 20,
                             "end": 52

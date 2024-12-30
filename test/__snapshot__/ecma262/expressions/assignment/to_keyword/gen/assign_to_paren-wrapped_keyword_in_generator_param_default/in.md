@@ -98,7 +98,7 @@ function *f(x = (in) = f) {}
                                         "start": 19,
                                         "end": 19
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 17,
                                     "end": 19

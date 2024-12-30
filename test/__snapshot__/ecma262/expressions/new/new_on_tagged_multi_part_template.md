@@ -97,7 +97,7 @@ new Foo`a${b}c${c}e`
                     "end": 20
                 },
                 "argumentList": null,
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2048,
                 "start": 0,
                 "end": 20

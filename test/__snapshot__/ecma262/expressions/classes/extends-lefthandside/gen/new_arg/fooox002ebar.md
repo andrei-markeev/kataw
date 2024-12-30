@@ -45,7 +45,7 @@ new fooo.bar
                         "end": 8
                     },
                     "argumentList": null,
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2048,
                     "start": 0,
                     "end": 8
@@ -59,7 +59,7 @@ new fooo.bar
                     "start": 9,
                     "end": 12
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 0,
                 "end": 12

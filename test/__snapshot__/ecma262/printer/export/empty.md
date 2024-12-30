@@ -56,7 +56,7 @@ export {} from ".";
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 10
@@ -111,7 +111,7 @@ export {} from ".";
                 "end": 29
             },
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 10,
             "end": 30

@@ -116,8 +116,7 @@ for (var [foo] = arr, bar);
                 "start": 0,
                 "end": 26
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -126,6 +125,7 @@ for (var [foo] = arr, bar);
                 "start": 25,
                 "end": 25
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -133,7 +133,7 @@ for (var [foo] = arr, bar);
                 "start": 26,
                 "end": 27
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 27

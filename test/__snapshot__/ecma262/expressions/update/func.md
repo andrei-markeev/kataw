@@ -84,7 +84,7 @@ function f(){ return --a; }
                                 "start": 20,
                                 "end": 24
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 256,
                             "start": 13,
                             "end": 25

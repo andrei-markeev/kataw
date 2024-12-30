@@ -302,7 +302,7 @@ class C {
                                                                 "start": 97,
                                                                 "end": 101
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 5120,
                                                             "start": 87,
                                                             "end": 101
@@ -341,12 +341,12 @@ class C {
                                                                 "start": 115,
                                                                 "end": 119
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 5120,
                                                             "start": 112,
                                                             "end": 119
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 87,
                                                         "end": 119
@@ -385,17 +385,17 @@ class C {
                                                             "start": 133,
                                                             "end": 137
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 130,
                                                         "end": 137
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 87,
                                                     "end": 137
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 76,
                                                 "end": 138

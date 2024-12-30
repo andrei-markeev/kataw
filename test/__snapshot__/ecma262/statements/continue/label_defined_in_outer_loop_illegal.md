@@ -88,7 +88,7 @@ while (true) x: while (true) continue x;
                         "start": 28,
                         "end": 40
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 15,
                     "end": 40
@@ -98,7 +98,7 @@ while (true) x: while (true) continue x;
                 "start": 12,
                 "end": 40
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 40

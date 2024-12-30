@@ -139,7 +139,7 @@ class C { m() { k = new super; } }
                                                             "end": 29
                                                         },
                                                         "argumentList": null,
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2048,
                                                         "start": 19,
                                                         "end": 29

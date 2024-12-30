@@ -140,7 +140,7 @@
                             "start": 27,
                             "end": 27
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 11,
                         "end": 27

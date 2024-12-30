@@ -293,12 +293,12 @@ class Class {
                                                         "start": 121,
                                                         "end": 127
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 108,
                                                     "end": 127
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 97,
                                                 "end": 128

@@ -50,7 +50,7 @@ do let x; while (false)
                 "start": 6,
                 "end": 8
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 9
@@ -87,7 +87,7 @@ do let x; while (false)
                 "start": 23,
                 "end": 23
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 9,
             "end": 23

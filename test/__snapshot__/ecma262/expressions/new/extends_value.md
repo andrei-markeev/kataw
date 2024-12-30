@@ -74,7 +74,7 @@ class x extends new A() {}
                             "start": 22,
                             "end": 22
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2048,
                         "start": 15,
                         "end": 23

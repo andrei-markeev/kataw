@@ -47,7 +47,7 @@ o.attr = function() {};
                         "start": 3,
                         "end": 7
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 0,
                     "end": 7

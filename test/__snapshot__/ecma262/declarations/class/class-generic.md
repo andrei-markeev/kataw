@@ -219,7 +219,7 @@ class A<TYPE> {
                                                                 "end": 69
                                                             },
                                                             "argumentList": null,
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2048,
                                                             "start": 57,
                                                             "end": 69
@@ -240,7 +240,7 @@ class A<TYPE> {
                                                             "start": 70,
                                                             "end": 74
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 57,
                                                         "end": 74
@@ -274,7 +274,7 @@ class A<TYPE> {
                                                                 "start": 84,
                                                                 "end": 87
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 75,
                                                             "end": 87
@@ -284,12 +284,12 @@ class A<TYPE> {
                                                         "start": 75,
                                                         "end": 88
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 57,
                                                     "end": 88
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 46,
                                                 "end": 89
@@ -451,7 +451,7 @@ class A<TYPE> {
                                                                 "end": 142
                                                             },
                                                             "argumentList": null,
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2048,
                                                             "start": 130,
                                                             "end": 142
@@ -472,7 +472,7 @@ class A<TYPE> {
                                                             "start": 143,
                                                             "end": 147
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 130,
                                                         "end": 147
@@ -506,7 +506,7 @@ class A<TYPE> {
                                                                 "start": 157,
                                                                 "end": 160
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 148,
                                                             "end": 160
@@ -516,12 +516,12 @@ class A<TYPE> {
                                                         "start": 148,
                                                         "end": 161
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 130,
                                                     "end": 161
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 119,
                                                 "end": 162

@@ -136,7 +136,7 @@ class x { fo(){ return function() { super.foo; } }}
                                                                             "start": 42,
                                                                             "end": 45
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 35,
                                                                         "end": 45
@@ -163,7 +163,7 @@ class x { fo(){ return function() { super.foo; } }}
                                                     "start": 22,
                                                     "end": 48
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 256,
                                                 "start": 15,
                                                 "end": 48

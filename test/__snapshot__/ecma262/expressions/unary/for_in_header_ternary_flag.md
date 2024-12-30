@@ -103,7 +103,7 @@ for(delete((1)?y:x in y) in z)x
                                 "start": 21,
                                 "end": 23
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 17,
                             "end": 23
@@ -155,7 +155,7 @@ for(delete((1)?y:x in y) in z)x
                 "start": 30,
                 "end": 31
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 31

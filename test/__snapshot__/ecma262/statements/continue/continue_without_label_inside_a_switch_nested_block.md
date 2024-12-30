@@ -105,7 +105,7 @@ switch (x) { case x: {continue;} }
                 "start": 12,
                 "end": 32
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 34

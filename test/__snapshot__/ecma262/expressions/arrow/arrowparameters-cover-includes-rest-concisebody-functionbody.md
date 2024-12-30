@@ -146,7 +146,7 @@ var af = (x, ...y) => { return [x, y.length]; };
                                                                 "start": 37,
                                                                 "end": 43
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 34,
                                                             "end": 43
@@ -163,7 +163,7 @@ var af = (x, ...y) => { return [x, y.length]; };
                                                 "start": 30,
                                                 "end": 44
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 23,
                                             "end": 45

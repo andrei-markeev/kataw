@@ -209,7 +209,7 @@ for ({}.bar = x in obj);
                         "start": 17,
                         "end": 19
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 8,
                     "end": 19
@@ -219,8 +219,7 @@ for ({}.bar = x in obj);
                 "start": 0,
                 "end": 19
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -229,6 +228,7 @@ for ({}.bar = x in obj);
                 "start": 19,
                 "end": 19
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -236,7 +236,7 @@ for ({}.bar = x in obj);
                 "start": 20,
                 "end": 22
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 22
@@ -295,18 +295,17 @@ for ({}.bar = x in obj);
                         "start": 35,
                         "end": 37
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 32,
                     "end": 37
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 22,
                 "end": 37
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -315,6 +314,7 @@ for ({}.bar = x in obj);
                 "start": 37,
                 "end": 37
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -322,7 +322,7 @@ for ({}.bar = x in obj);
                 "start": 38,
                 "end": 39
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 22,
             "end": 39
@@ -382,7 +382,7 @@ for ({}.bar = x in obj);
                 "start": 55,
                 "end": 56
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 39,
             "end": 56
@@ -491,7 +491,7 @@ for ({}.bar = x in obj);
                 "start": 96,
                 "end": 97
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 56,
             "end": 97
@@ -583,7 +583,7 @@ for ({}.bar = x in obj);
                 "start": 135,
                 "end": 136
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 97,
             "end": 136
@@ -629,7 +629,7 @@ for ({}.bar = x in obj);
                                 "start": 147,
                                 "end": 149
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 144,
                             "end": 149
@@ -669,7 +669,7 @@ for ({}.bar = x in obj);
                 "start": 158,
                 "end": 159
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 136,
             "end": 159
@@ -710,7 +710,7 @@ for ({}.bar = x in obj);
                                     "start": 169,
                                     "end": 170
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2,
                                 "start": 167,
                                 "end": 170
@@ -761,7 +761,7 @@ for ({}.bar = x in obj);
                         "start": 178,
                         "end": 182
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 173,
                     "end": 182
@@ -771,8 +771,7 @@ for ({}.bar = x in obj);
                 "start": 166,
                 "end": 182
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -781,6 +780,7 @@ for ({}.bar = x in obj);
                 "start": 182,
                 "end": 182
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -788,7 +788,7 @@ for ({}.bar = x in obj);
                 "start": 183,
                 "end": 184
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 159,
             "end": 184
@@ -889,7 +889,7 @@ for ({}.bar = x in obj);
                 "start": 207,
                 "end": 208
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 184,
             "end": 208
@@ -935,8 +935,7 @@ for ({}.bar = x in obj);
                 "start": 208,
                 "end": 219
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -945,6 +944,7 @@ for ({}.bar = x in obj);
                 "start": 219,
                 "end": 219
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -952,7 +952,7 @@ for ({}.bar = x in obj);
                 "start": 220,
                 "end": 221
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 208,
             "end": 221
@@ -1098,7 +1098,7 @@ for ({}.bar = x in obj);
                 "start": 249,
                 "end": 251
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 221,
             "end": 251
@@ -1270,7 +1270,7 @@ for ({}.bar = x in obj);
                 "start": 285,
                 "end": 287
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 251,
             "end": 287
@@ -1394,7 +1394,7 @@ for ({}.bar = x in obj);
                 "start": 313,
                 "end": 315
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 287,
             "end": 315
@@ -1447,7 +1447,7 @@ for ({}.bar = x in obj);
                             "start": 329,
                             "end": 331
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 324,
                         "end": 331
@@ -1458,8 +1458,7 @@ for ({}.bar = x in obj);
                 "start": 315,
                 "end": 331
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -1468,6 +1467,7 @@ for ({}.bar = x in obj);
                 "start": 331,
                 "end": 331
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -1475,7 +1475,7 @@ for ({}.bar = x in obj);
                 "start": 332,
                 "end": 333
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 315,
             "end": 333
@@ -1541,7 +1541,7 @@ for ({}.bar = x in obj);
                         "start": 349,
                         "end": 351
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 344,
                     "end": 351
@@ -1551,8 +1551,7 @@ for ({}.bar = x in obj);
                 "start": 340,
                 "end": 351
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -1561,6 +1560,7 @@ for ({}.bar = x in obj);
                 "start": 351,
                 "end": 351
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -1568,7 +1568,7 @@ for ({}.bar = x in obj);
                 "start": 352,
                 "end": 353
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 333,
             "end": 353
@@ -1698,7 +1698,7 @@ for ({}.bar = x in obj);
                 "start": 378,
                 "end": 380
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 353,
             "end": 380
@@ -1768,7 +1768,7 @@ for ({}.bar = x in obj);
                 "start": 410,
                 "end": 413
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 395,
             "end": 413
@@ -1845,7 +1845,7 @@ for ({}.bar = x in obj);
                 "start": 432,
                 "end": 435
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 413,
             "end": 435
@@ -1902,7 +1902,7 @@ for ({}.bar = x in obj);
                     "start": 449,
                     "end": 450
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 446,
                 "end": 450
@@ -1914,7 +1914,7 @@ for ({}.bar = x in obj);
                 "start": 450,
                 "end": 451
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 435,
             "end": 451
@@ -2084,7 +2084,7 @@ for ({}.bar = x in obj);
                 "start": 474,
                 "end": 496
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 455,
             "end": 496
@@ -2162,7 +2162,7 @@ for ({}.bar = x in obj);
                 "start": 515,
                 "end": 516
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 496,
             "end": 516
@@ -2241,7 +2241,7 @@ for ({}.bar = x in obj);
                 "start": 535,
                 "end": 536
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 516,
             "end": 536
@@ -2370,7 +2370,7 @@ for ({}.bar = x in obj);
                 "start": 553,
                 "end": 564
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 536,
             "end": 564
@@ -2499,7 +2499,7 @@ for ({}.bar = x in obj);
                 "start": 583,
                 "end": 594
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 564,
             "end": 594
@@ -2603,7 +2603,7 @@ for ({}.bar = x in obj);
                 "start": 618,
                 "end": 619
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 594,
             "end": 619
@@ -2683,7 +2683,7 @@ for ({}.bar = x in obj);
                         "start": 641,
                         "end": 644
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 636,
                     "end": 644
@@ -2693,14 +2693,14 @@ for ({}.bar = x in obj);
                 "start": 619,
                 "end": 644
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 205586437,
                 "flags": 96,
                 "transformFlags": 0,
                 "start": 645,
                 "end": 651
             },
+            "incrementor": null,
             "statement": {
                 "kind": 165,
                 "forKeyword": {
@@ -2753,12 +2753,12 @@ for ({}.bar = x in obj);
                     "start": 661,
                     "end": 661
                 },
-                "flags": 81,
+                "flags": 17,
                 "transformFlags": 0,
                 "start": 654,
                 "end": 661
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 619,
             "end": 661
@@ -2792,7 +2792,7 @@ for ({}.bar = x in obj);
                     "start": 668,
                     "end": 670
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 664,
                 "end": 670
@@ -2882,7 +2882,7 @@ for ({}.bar = x in obj);
                 "start": 685,
                 "end": 685
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 673,
             "end": 685
@@ -2916,7 +2916,7 @@ for ({}.bar = x in obj);
                     "start": 693,
                     "end": 695
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 689,
                 "end": 695
@@ -3028,7 +3028,7 @@ for ({}.bar = x in obj);
                         "start": 715,
                         "end": 717
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 711,
                     "end": 717
@@ -3038,8 +3038,7 @@ for ({}.bar = x in obj);
                 "start": 705,
                 "end": 717
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -3048,6 +3047,7 @@ for ({}.bar = x in obj);
                 "start": 717,
                 "end": 717
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -3055,7 +3055,7 @@ for ({}.bar = x in obj);
                 "start": 718,
                 "end": 720
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 698,
             "end": 720
@@ -3118,8 +3118,7 @@ for ({}.bar = x in obj);
                 "start": 727,
                 "end": 734
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -3128,6 +3127,7 @@ for ({}.bar = x in obj);
                 "start": 734,
                 "end": 734
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -3135,7 +3135,7 @@ for ({}.bar = x in obj);
                 "start": 735,
                 "end": 736
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 720,
             "end": 736
@@ -3238,7 +3238,7 @@ for ({}.bar = x in obj);
                 "start": 758,
                 "end": 761
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 736,
             "end": 761
@@ -3415,7 +3415,7 @@ for ({}.bar = x in obj);
                 "start": 782,
                 "end": 814
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 761,
             "end": 814
@@ -3524,7 +3524,7 @@ for ({}.bar = x in obj);
                         "start": 833,
                         "end": 835
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 829,
                     "end": 835
@@ -3534,8 +3534,7 @@ for ({}.bar = x in obj);
                 "start": 821,
                 "end": 835
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -3544,6 +3543,7 @@ for ({}.bar = x in obj);
                 "start": 835,
                 "end": 835
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -3551,7 +3551,7 @@ for ({}.bar = x in obj);
                 "start": 836,
                 "end": 838
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 814,
             "end": 838
@@ -3627,7 +3627,7 @@ for ({}.bar = x in obj);
                 "start": 858,
                 "end": 860
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 838,
             "end": 860
@@ -3686,7 +3686,7 @@ for ({}.bar = x in obj);
                         "start": 875,
                         "end": 877
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 870,
                     "end": 877
@@ -3696,8 +3696,7 @@ for ({}.bar = x in obj);
                 "start": 860,
                 "end": 877
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -3706,6 +3705,7 @@ for ({}.bar = x in obj);
                 "start": 877,
                 "end": 877
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -3713,7 +3713,7 @@ for ({}.bar = x in obj);
                 "start": 878,
                 "end": 880
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 860,
             "end": 880
@@ -3805,7 +3805,7 @@ for ({}.bar = x in obj);
                         "start": 899,
                         "end": 901
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 894,
                     "end": 901
@@ -3815,8 +3815,7 @@ for ({}.bar = x in obj);
                 "start": 887,
                 "end": 901
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -3825,6 +3824,7 @@ for ({}.bar = x in obj);
                 "start": 901,
                 "end": 901
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -3832,7 +3832,7 @@ for ({}.bar = x in obj);
                 "start": 902,
                 "end": 904
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 880,
             "end": 904
@@ -3924,7 +3924,7 @@ for ({}.bar = x in obj);
                         "start": 921,
                         "end": 923
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 917,
                     "end": 923
@@ -3934,8 +3934,7 @@ for ({}.bar = x in obj);
                 "start": 911,
                 "end": 923
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -3944,6 +3943,7 @@ for ({}.bar = x in obj);
                 "start": 923,
                 "end": 923
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -3951,7 +3951,7 @@ for ({}.bar = x in obj);
                 "start": 924,
                 "end": 926
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 904,
             "end": 926
@@ -4027,7 +4027,7 @@ for ({}.bar = x in obj);
                         "start": 943,
                         "end": 945
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 938,
                     "end": 945
@@ -4037,8 +4037,7 @@ for ({}.bar = x in obj);
                 "start": 933,
                 "end": 945
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -4047,6 +4046,7 @@ for ({}.bar = x in obj);
                 "start": 945,
                 "end": 945
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -4054,7 +4054,7 @@ for ({}.bar = x in obj);
                 "start": 946,
                 "end": 947
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 926,
             "end": 947
@@ -4120,7 +4120,7 @@ for ({}.bar = x in obj);
                         "start": 963,
                         "end": 965
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 958,
                     "end": 965
@@ -4130,8 +4130,7 @@ for ({}.bar = x in obj);
                 "start": 954,
                 "end": 965
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -4140,6 +4139,7 @@ for ({}.bar = x in obj);
                 "start": 965,
                 "end": 965
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -4147,7 +4147,7 @@ for ({}.bar = x in obj);
                 "start": 966,
                 "end": 967
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 947,
             "end": 967
@@ -4229,7 +4229,7 @@ for ({}.bar = x in obj);
                 "start": 987,
                 "end": 988
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 967,
             "end": 988
@@ -4294,7 +4294,7 @@ for ({}.bar = x in obj);
                 "start": 1003,
                 "end": 1004
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 988,
             "end": 1004
@@ -4408,7 +4408,7 @@ for ({}.bar = x in obj);
                         "start": 1026,
                         "end": 1029
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 1021,
                     "end": 1029
@@ -4418,8 +4418,7 @@ for ({}.bar = x in obj);
                 "start": 1011,
                 "end": 1029
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -4428,6 +4427,7 @@ for ({}.bar = x in obj);
                 "start": 1029,
                 "end": 1029
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -4435,7 +4435,7 @@ for ({}.bar = x in obj);
                 "start": 1030,
                 "end": 1031
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1004,
             "end": 1031
@@ -4493,15 +4493,6 @@ for ({}.bar = x in obj);
                 "end": 1044
             },
             "condition": {
-                "kind": 16637,
-                "text": "",
-                "rawText": "",
-                "flags": 64,
-                "transformFlags": 0,
-                "start": 1051,
-                "end": 1051
-            },
-            "incrementor": {
                 "kind": 220,
                 "propertyList": {
                     "kind": 218,
@@ -4544,6 +4535,15 @@ for ({}.bar = x in obj);
                 "start": 1044,
                 "end": 1051
             },
+            "incrementor": {
+                "kind": 16637,
+                "text": "",
+                "rawText": "",
+                "flags": 64,
+                "transformFlags": 0,
+                "start": 1051,
+                "end": 1051
+            },
             "statement": {
                 "kind": 120,
                 "expression": {
@@ -4560,7 +4560,7 @@ for ({}.bar = x in obj);
                 "start": 1051,
                 "end": 1051
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1031,
             "end": 1051
@@ -4594,7 +4594,7 @@ for ({}.bar = x in obj);
                     "start": 1055,
                     "end": 1059
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 1052,
                 "end": 1059
@@ -4722,7 +4722,7 @@ for ({}.bar = x in obj);
                                     "start": 1100,
                                     "end": 1102
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 1095,
                                 "end": 1102
@@ -4734,7 +4734,7 @@ for ({}.bar = x in obj);
                                 "start": 1103,
                                 "end": 1104
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 1077,
                             "end": 1104
@@ -5021,7 +5021,7 @@ for ({}.bar = x in obj);
                 "start": 1160,
                 "end": 1162
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1108,
             "end": 1162
@@ -5268,7 +5268,7 @@ for ({}.bar = x in obj);
                 "start": 1209,
                 "end": 1211
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1162,
             "end": 1211
@@ -5320,7 +5320,7 @@ for ({}.bar = x in obj);
                             "start": 1228,
                             "end": 1230
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 1223,
                         "end": 1230
@@ -5367,7 +5367,7 @@ for ({}.bar = x in obj);
                 "start": 1237,
                 "end": 1238
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1211,
             "end": 1238
@@ -5445,7 +5445,7 @@ for ({}.bar = x in obj);
                 "start": 1258,
                 "end": 1259
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1238,
             "end": 1259
@@ -5516,7 +5516,7 @@ for ({}.bar = x in obj);
                 "start": 1277,
                 "end": 1278
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1259,
             "end": 1278
@@ -5680,7 +5680,7 @@ for ({}.bar = x in obj);
                 "start": 1324,
                 "end": 1327
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 1293,
             "end": 1327
@@ -5778,7 +5778,7 @@ for ({}.bar = x in obj);
                 "start": 1351,
                 "end": 1354
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1327,
             "end": 1354
@@ -5907,7 +5907,7 @@ for ({}.bar = x in obj);
                 "start": 1383,
                 "end": 1386
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1354,
             "end": 1386
@@ -6054,7 +6054,7 @@ for ({}.bar = x in obj);
                 "start": 1418,
                 "end": 1421
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1386,
             "end": 1421
@@ -6184,7 +6184,7 @@ for ({}.bar = x in obj);
                 "start": 1450,
                 "end": 1453
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1421,
             "end": 1453
@@ -6332,7 +6332,7 @@ for ({}.bar = x in obj);
                 "start": 1485,
                 "end": 1488
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1453,
             "end": 1488
@@ -6459,7 +6459,7 @@ for ({}.bar = x in obj);
                 "start": 1519,
                 "end": 1522
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1488,
             "end": 1522
@@ -6570,7 +6570,7 @@ for ({}.bar = x in obj);
                 "start": 1544,
                 "end": 1547
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1522,
             "end": 1547
@@ -6698,7 +6698,7 @@ for ({}.bar = x in obj);
                 "start": 1578,
                 "end": 1581
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1547,
             "end": 1581
@@ -6810,7 +6810,7 @@ for ({}.bar = x in obj);
                 "start": 1603,
                 "end": 1606
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1581,
             "end": 1606
@@ -6911,7 +6911,7 @@ for ({}.bar = x in obj);
                 "start": 1626,
                 "end": 1628
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1606,
             "end": 1628
@@ -7004,7 +7004,7 @@ for ({}.bar = x in obj);
                                 "start": 1651,
                                 "end": 1653
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 1647,
                             "end": 1653
@@ -7056,7 +7056,7 @@ for ({}.bar = x in obj);
                 "start": 1660,
                 "end": 1661
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1628,
             "end": 1661
@@ -7122,7 +7122,7 @@ for ({}.bar = x in obj);
                         "start": 1677,
                         "end": 1679
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 1672,
                     "end": 1679
@@ -7132,8 +7132,7 @@ for ({}.bar = x in obj);
                 "start": 1668,
                 "end": 1679
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -7142,6 +7141,7 @@ for ({}.bar = x in obj);
                 "start": 1679,
                 "end": 1679
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -7149,7 +7149,7 @@ for ({}.bar = x in obj);
                 "start": 1680,
                 "end": 1681
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1661,
             "end": 1681
@@ -7208,7 +7208,7 @@ for ({}.bar = x in obj);
                         "start": 1696,
                         "end": 1698
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 1691,
                     "end": 1698
@@ -7218,8 +7218,7 @@ for ({}.bar = x in obj);
                 "start": 1681,
                 "end": 1698
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -7228,6 +7227,7 @@ for ({}.bar = x in obj);
                 "start": 1698,
                 "end": 1698
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -7235,7 +7235,7 @@ for ({}.bar = x in obj);
                 "start": 1699,
                 "end": 1701
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1681,
             "end": 1701
@@ -7327,7 +7327,7 @@ for ({}.bar = x in obj);
                 "start": 1721,
                 "end": 1722
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1701,
             "end": 1722
@@ -7403,7 +7403,7 @@ for ({}.bar = x in obj);
                         "start": 1739,
                         "end": 1743
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 1734,
                     "end": 1743
@@ -7413,8 +7413,7 @@ for ({}.bar = x in obj);
                 "start": 1729,
                 "end": 1743
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -7423,6 +7422,7 @@ for ({}.bar = x in obj);
                 "start": 1743,
                 "end": 1743
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -7430,7 +7430,7 @@ for ({}.bar = x in obj);
                 "start": 1744,
                 "end": 1745
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1722,
             "end": 1745
@@ -7483,7 +7483,7 @@ for ({}.bar = x in obj);
                                         "start": 1758,
                                         "end": 1759
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 1753,
                                     "end": 1759
@@ -7539,7 +7539,7 @@ for ({}.bar = x in obj);
                         "start": 1767,
                         "end": 1771
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 1762,
                     "end": 1771
@@ -7549,8 +7549,7 @@ for ({}.bar = x in obj);
                 "start": 1752,
                 "end": 1771
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -7559,6 +7558,7 @@ for ({}.bar = x in obj);
                 "start": 1771,
                 "end": 1771
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -7566,7 +7566,7 @@ for ({}.bar = x in obj);
                 "start": 1772,
                 "end": 1773
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1745,
             "end": 1773
@@ -7626,7 +7626,7 @@ for ({}.bar = x in obj);
                                         "start": 1787,
                                         "end": 1789
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 1781,
                                     "end": 1789
@@ -7682,7 +7682,7 @@ for ({}.bar = x in obj);
                         "start": 1797,
                         "end": 1801
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 1792,
                     "end": 1801
@@ -7692,8 +7692,7 @@ for ({}.bar = x in obj);
                 "start": 1780,
                 "end": 1801
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -7702,6 +7701,7 @@ for ({}.bar = x in obj);
                 "start": 1801,
                 "end": 1801
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -7709,7 +7709,7 @@ for ({}.bar = x in obj);
                 "start": 1802,
                 "end": 1803
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1773,
             "end": 1803
@@ -7804,7 +7804,7 @@ for ({}.bar = x in obj);
                 "start": 1827,
                 "end": 1828
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1803,
             "end": 1828
@@ -7899,7 +7899,7 @@ for ({}.bar = x in obj);
                 "start": 1854,
                 "end": 1855
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1828,
             "end": 1855
@@ -7957,7 +7957,7 @@ for ({}.bar = x in obj);
                                     "start": 1869,
                                     "end": 1871
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 1863,
                                 "end": 1871
@@ -8002,7 +8002,7 @@ for ({}.bar = x in obj);
                 "start": 1880,
                 "end": 1881
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1855,
             "end": 1881
@@ -8084,7 +8084,7 @@ for ({}.bar = x in obj);
                         "start": 1901,
                         "end": 1905
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 1896,
                     "end": 1905
@@ -8094,8 +8094,7 @@ for ({}.bar = x in obj);
                 "start": 1881,
                 "end": 1905
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -8104,6 +8103,7 @@ for ({}.bar = x in obj);
                 "start": 1905,
                 "end": 1905
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -8111,7 +8111,7 @@ for ({}.bar = x in obj);
                 "start": 1906,
                 "end": 1907
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1881,
             "end": 1907
@@ -8193,7 +8193,7 @@ for ({}.bar = x in obj);
                         "start": 1927,
                         "end": 1931
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 1922,
                     "end": 1931
@@ -8203,8 +8203,7 @@ for ({}.bar = x in obj);
                 "start": 1907,
                 "end": 1931
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -8213,6 +8212,7 @@ for ({}.bar = x in obj);
                 "start": 1931,
                 "end": 1931
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -8220,7 +8220,7 @@ for ({}.bar = x in obj);
                 "start": 1932,
                 "end": 1933
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 1907,
             "end": 1933

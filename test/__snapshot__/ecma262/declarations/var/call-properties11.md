@@ -147,7 +147,7 @@ var y : {} = function (x: number): string { return "hi"; };
                                                 "start": 50,
                                                 "end": 55
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 43,
                                             "end": 56

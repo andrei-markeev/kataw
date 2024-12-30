@@ -43,7 +43,7 @@ new super.foo
                         "end": 9
                     },
                     "argumentList": null,
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2048,
                     "start": 0,
                     "end": 9
@@ -57,7 +57,7 @@ new super.foo
                     "start": 10,
                     "end": 13
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 0,
                 "end": 13

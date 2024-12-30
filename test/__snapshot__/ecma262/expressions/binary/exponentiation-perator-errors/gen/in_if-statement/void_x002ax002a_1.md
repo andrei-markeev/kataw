@@ -244,7 +244,7 @@ var O = { p: 1 }, x = 10; ; if (void ** 1) { foo(); }
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 27,
             "end": 53

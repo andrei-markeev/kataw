@@ -116,7 +116,7 @@ try {} catch (x) { var x }
                     "start": 16,
                     "end": 26
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 26
@@ -228,7 +228,7 @@ try {} catch (x) { var x }
                     "start": 44,
                     "end": 54
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 34,
                 "end": 54

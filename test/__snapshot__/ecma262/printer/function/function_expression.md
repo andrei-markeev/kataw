@@ -487,7 +487,7 @@ new function() {};
                     "end": 140
                 },
                 "argumentList": null,
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 2048,
                 "start": 120,
                 "end": 140
@@ -805,7 +805,7 @@ new function() {};
                     "start": 210,
                     "end": 224
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 206,
                 "end": 224
@@ -871,7 +871,7 @@ new function() {};
                     "end": 243
                 },
                 "argumentList": null,
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 2048,
                 "start": 225,
                 "end": 243

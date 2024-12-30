@@ -90,12 +90,12 @@
                                                     "start": 14,
                                                     "end": 16
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 12,
                                                 "end": 16
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 6,
                                             "end": 16

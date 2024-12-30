@@ -97,7 +97,7 @@ function foo3() {
                                             "start": 31,
                                             "end": 40
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 25,
                                         "end": 40
@@ -157,7 +157,7 @@ function foo3() {
                                                     "start": 67,
                                                     "end": 76
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 2,
                                                 "start": 61,
                                                 "end": 76
@@ -219,7 +219,7 @@ function foo3() {
                                                 "start": 91,
                                                 "end": 100
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 2,
                                             "start": 87,
                                             "end": 100
@@ -233,7 +233,7 @@ function foo3() {
                                             "start": 101,
                                             "end": 106
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 87,
                                         "end": 106
@@ -248,7 +248,7 @@ function foo3() {
                                 "start": 25,
                                 "end": 106
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 16,
                             "end": 107
@@ -340,7 +340,7 @@ function foo3() {
                                                 "start": 143,
                                                 "end": 152
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 2,
                                             "start": 137,
                                             "end": 152
@@ -400,7 +400,7 @@ function foo3() {
                                                         "start": 179,
                                                         "end": 188
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 173,
                                                     "end": 188
@@ -462,7 +462,7 @@ function foo3() {
                                                     "start": 203,
                                                     "end": 212
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 2,
                                                 "start": 199,
                                                 "end": 212
@@ -476,7 +476,7 @@ function foo3() {
                                                 "start": 213,
                                                 "end": 218
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 2,
                                             "start": 199,
                                             "end": 218
@@ -524,7 +524,7 @@ function foo3() {
                                 "start": 137,
                                 "end": 241
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 128,
                             "end": 242
@@ -624,7 +624,7 @@ function foo3() {
                                                                 "start": 278,
                                                                 "end": 287
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 272,
                                                             "end": 287
@@ -734,7 +734,7 @@ function foo3() {
                                                                 "start": 328,
                                                                 "end": 337
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 322,
                                                             "end": 337
@@ -847,7 +847,7 @@ function foo3() {
                                 "start": 272,
                                 "end": 392
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 263,
                             "end": 393

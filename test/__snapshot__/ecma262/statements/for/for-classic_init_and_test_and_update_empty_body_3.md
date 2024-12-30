@@ -72,7 +72,7 @@ for (a * b + c * d;b;c);
                         "start": 8,
                         "end": 10
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 10
@@ -111,26 +111,17 @@ for (a * b + c * d;b;c);
                         "start": 16,
                         "end": 18
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 14,
                     "end": 18
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 18
             },
             "condition": {
-                "kind": 134299649,
-                "text": "c",
-                "rawText": "c",
-                "flags": 96,
-                "transformFlags": 0,
-                "start": 21,
-                "end": 22
-            },
-            "incrementor": {
                 "kind": 134299649,
                 "text": "b",
                 "rawText": "b",
@@ -139,6 +130,15 @@ for (a * b + c * d;b;c);
                 "start": 19,
                 "end": 20
             },
+            "incrementor": {
+                "kind": 134299649,
+                "text": "c",
+                "rawText": "c",
+                "flags": 96,
+                "transformFlags": 0,
+                "start": 21,
+                "end": 22
+            },
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -146,7 +146,7 @@ for (a * b + c * d;b;c);
                 "start": 23,
                 "end": 24
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 24

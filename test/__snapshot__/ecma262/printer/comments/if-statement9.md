@@ -85,7 +85,7 @@ if /* comment 1 */ (/* comment 2 */x/* comment 3 */) /* comment 4 */ {/* comment
                 "start": 107,
                 "end": 254
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 254

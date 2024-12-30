@@ -90,7 +90,7 @@ function *f(x = (new) = f) {}
                                         "end": 20
                                     },
                                     "argumentList": null,
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2048,
                                     "start": 17,
                                     "end": 20

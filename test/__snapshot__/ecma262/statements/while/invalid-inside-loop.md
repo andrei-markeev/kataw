@@ -92,7 +92,7 @@ while (1) async function foo(){}
                 "start": 9,
                 "end": 32
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 32

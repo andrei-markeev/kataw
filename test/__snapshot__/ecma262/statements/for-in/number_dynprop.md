@@ -89,7 +89,7 @@ for (456[x] in c) d;
                 "start": 17,
                 "end": 20
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 20

@@ -181,7 +181,7 @@ function* g() { function f(yield) { yield (yield + yield (0)); } }
                                                                 "start": 50,
                                                                 "end": 60
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 5120,
                                                             "start": 43,
                                                             "end": 60

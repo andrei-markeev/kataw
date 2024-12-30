@@ -63,7 +63,7 @@ for (a.b in c) d;
                     "start": 7,
                     "end": 8
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 5,
                 "end": 8
@@ -100,7 +100,7 @@ for (a.b in c) d;
                 "start": 14,
                 "end": 17
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 17

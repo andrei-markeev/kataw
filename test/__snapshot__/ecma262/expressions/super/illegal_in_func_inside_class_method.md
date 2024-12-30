@@ -136,7 +136,7 @@ class x { foo(){ function f(){ super.foo; } }}
                                                                         "start": 37,
                                                                         "end": 40
                                                                     },
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 2,
                                                                     "start": 30,
                                                                     "end": 40

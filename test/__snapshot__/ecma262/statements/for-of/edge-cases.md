@@ -51,7 +51,7 @@ for ((async) of x);
                     "start": 12,
                     "end": 13
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 6,
                 "end": 13
@@ -79,7 +79,7 @@ for ((async) of x);
                 "start": 19,
                 "end": 20
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 0,
             "end": 20
@@ -150,7 +150,7 @@ for ((async) of x);
                 "start": 44,
                 "end": 45
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 20,
             "end": 45
@@ -204,7 +204,7 @@ for ((async) of x);
                 "start": 65,
                 "end": 66
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 45,
             "end": 66

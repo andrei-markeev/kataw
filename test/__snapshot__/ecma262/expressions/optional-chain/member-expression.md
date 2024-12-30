@@ -104,7 +104,7 @@ f2`hello world`?.a;
                         "start": 17,
                         "end": 18
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 11,
                     "end": 18

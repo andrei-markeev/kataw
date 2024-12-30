@@ -55,7 +55,7 @@
                             "start": 16,
                             "end": 16
                         },
-                        "flags": 16480,
+                        "flags": 16416,
                         "transformFlags": 5120,
                         "start": 1,
                         "end": 16

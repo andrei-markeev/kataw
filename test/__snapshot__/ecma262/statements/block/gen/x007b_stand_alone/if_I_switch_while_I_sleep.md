@@ -71,14 +71,14 @@
                                 "start": 13,
                                 "end": 13
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 6,
                             "end": 13
                         },
                         "elseKeyword": null,
                         "alternate": null,
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 1,
                         "end": 13
@@ -117,7 +117,7 @@
                             "start": 21,
                             "end": 27
                         },
-                        "flags": 80,
+                        "flags": 16,
                         "transformFlags": 0,
                         "start": 13,
                         "end": 27

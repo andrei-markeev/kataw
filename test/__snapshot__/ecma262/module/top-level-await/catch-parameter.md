@@ -130,7 +130,7 @@ try {} catch ([ x = await 42 ]) {}
                     "start": 31,
                     "end": 34
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 34
@@ -255,7 +255,7 @@ try {} catch ([ x = await 42 ]) {}
                     "start": 84,
                     "end": 87
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 56,
                 "end": 87
@@ -374,7 +374,7 @@ try {} catch ([ x = await 42 ]) {}
                     "start": 149,
                     "end": 152
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 124,
                 "end": 152

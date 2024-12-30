@@ -98,7 +98,7 @@ while(y)
                 },
                 "elseKeyword": null,
                 "alternate": null,
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 22
@@ -119,7 +119,7 @@ while(y)
                 "start": 29,
                 "end": 30
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 31

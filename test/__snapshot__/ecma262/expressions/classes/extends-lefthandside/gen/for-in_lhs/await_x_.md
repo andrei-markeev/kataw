@@ -43,6 +43,15 @@ x; in x) ;
                 "end": 10
             },
             "condition": {
+                "kind": 134299649,
+                "text": "x",
+                "rawText": "x",
+                "flags": 97,
+                "transformFlags": 0,
+                "start": 10,
+                "end": 12
+            },
+            "incrementor": {
                 "kind": 198,
                 "left": {
                     "kind": 16637,
@@ -69,19 +78,10 @@ x; in x) ;
                     "start": 16,
                     "end": 18
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 13,
                 "end": 18
-            },
-            "incrementor": {
-                "kind": 134299649,
-                "text": "x",
-                "rawText": "x",
-                "flags": 97,
-                "transformFlags": 0,
-                "start": 10,
-                "end": 12
             },
             "statement": {
                 "kind": 168,
@@ -90,7 +90,7 @@ x; in x) ;
                 "start": 19,
                 "end": 21
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 21

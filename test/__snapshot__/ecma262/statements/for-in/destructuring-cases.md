@@ -59,7 +59,7 @@ for (let {...a.b} in c);
                                     "start": 11,
                                     "end": 12
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2,
                                 "start": 9,
                                 "end": 12
@@ -104,7 +104,7 @@ for (let {...a.b} in c);
                 "start": 19,
                 "end": 21
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 21
@@ -194,15 +194,6 @@ for (let {...a.b} in c);
                 "end": 36
             },
             "condition": {
-                "kind": 16637,
-                "text": "",
-                "rawText": "",
-                "flags": 64,
-                "transformFlags": 0,
-                "start": 38,
-                "end": 38
-            },
-            "incrementor": {
                 "kind": 129,
                 "member": {
                     "kind": 16637,
@@ -222,9 +213,18 @@ for (let {...a.b} in c);
                     "start": 37,
                     "end": 38
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 36,
+                "end": 38
+            },
+            "incrementor": {
+                "kind": 16637,
+                "text": "",
+                "rawText": "",
+                "flags": 64,
+                "transformFlags": 0,
+                "start": 38,
                 "end": 38
             },
             "statement": {
@@ -243,7 +243,7 @@ for (let {...a.b} in c);
                 "start": 38,
                 "end": 38
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 21,
             "end": 38
@@ -277,7 +277,7 @@ for (let {...a.b} in c);
                     "start": 42,
                     "end": 44
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 39,
                 "end": 44

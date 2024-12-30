@@ -136,7 +136,7 @@ try {
                     "start": 34,
                     "end": 38
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 24,
                 "end": 38

@@ -82,8 +82,7 @@ for (let [foo]);
                 "start": 0,
                 "end": 14
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -92,6 +91,7 @@ for (let [foo]);
                 "start": 14,
                 "end": 14
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -99,7 +99,7 @@ for (let [foo]);
                 "start": 15,
                 "end": 16
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 16

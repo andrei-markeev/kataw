@@ -60,7 +60,7 @@ for ( a instanceof b + c ;;);
                         "start": 18,
                         "end": 20
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 20
@@ -81,7 +81,7 @@ for ( a instanceof b + c ;;);
                     "start": 22,
                     "end": 24
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 24
@@ -95,7 +95,7 @@ for ( a instanceof b + c ;;);
                 "start": 28,
                 "end": 29
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 29

@@ -89,7 +89,7 @@ class return {}
                 "start": 12,
                 "end": 15
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 256,
             "start": 5,
             "end": 15

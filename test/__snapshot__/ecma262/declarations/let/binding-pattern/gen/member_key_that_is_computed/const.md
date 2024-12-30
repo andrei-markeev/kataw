@@ -65,7 +65,7 @@ const {[a.b]: c} = v
                                                     "start": 10,
                                                     "end": 11
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 2,
                                                 "start": 8,
                                                 "end": 11

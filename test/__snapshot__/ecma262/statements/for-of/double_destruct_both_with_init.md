@@ -153,7 +153,7 @@ for (let {x = y, z = a} of obj);
                 "start": 31,
                 "end": 32
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 32

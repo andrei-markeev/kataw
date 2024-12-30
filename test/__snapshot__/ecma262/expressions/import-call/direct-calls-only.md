@@ -78,7 +78,7 @@ function failsParse() {
                                 "start": 96,
                                 "end": 40
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 23,
                             "end": 40

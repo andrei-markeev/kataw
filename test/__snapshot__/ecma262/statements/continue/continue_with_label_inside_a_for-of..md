@@ -91,7 +91,7 @@ foo: for (x of y) continue foo
                     "start": 17,
                     "end": 30
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 4,
                 "end": 30

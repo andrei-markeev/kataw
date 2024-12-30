@@ -85,7 +85,7 @@ async (a => a + 1);
                                     "start": 15,
                                     "end": 17
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 11,
                                 "end": 17

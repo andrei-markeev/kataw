@@ -205,7 +205,7 @@ var x, y, z; for (x in {var: x} = {});
                 "start": 37,
                 "end": 38
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 12,
             "end": 38

@@ -80,7 +80,7 @@ for ({x = y} ;;) {}
                 "start": 13,
                 "end": 14
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 14
@@ -142,8 +142,8 @@ for ({x = y} ;;) {}
                 "rawText": "1",
                 "flags": 96,
                 "transformFlags": 0,
-                "start": 33,
-                "end": 34
+                "start": 30,
+                "end": 31
             },
             "incrementor": {
                 "kind": 201392130,
@@ -151,8 +151,8 @@ for ({x = y} ;;) {}
                 "rawText": "1",
                 "flags": 96,
                 "transformFlags": 0,
-                "start": 30,
-                "end": 31
+                "start": 33,
+                "end": 34
             },
             "statement": {
                 "kind": 124,
@@ -169,7 +169,7 @@ for ({x = y} ;;) {}
                 "start": 35,
                 "end": 38
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 14,
             "end": 38
@@ -242,7 +242,7 @@ for ({x = y} ;;) {}
                 "start": 56,
                 "end": 59
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 38,
             "end": 59

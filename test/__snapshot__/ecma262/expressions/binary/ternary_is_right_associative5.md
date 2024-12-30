@@ -114,7 +114,7 @@ typeof x;
                             "start": 19,
                             "end": 21
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 15,
                         "end": 21

@@ -86,7 +86,7 @@ class v extends.foo {}
                             "start": 16,
                             "end": 19
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2,
                         "start": 15,
                         "end": 19

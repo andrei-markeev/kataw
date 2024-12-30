@@ -74,7 +74,7 @@ async (x = (new) = f) => {}
                                             "end": 15
                                         },
                                         "argumentList": null,
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2048,
                                         "start": 12,
                                         "end": 15

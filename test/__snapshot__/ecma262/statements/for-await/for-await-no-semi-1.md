@@ -70,14 +70,14 @@ async function f() {
                                 "end": 26
                             },
                             "initializer": null,
-                            "condition": null,
-                            "incrementor": {
+                            "condition": {
                                 "kind": 205586437,
                                 "flags": 96,
                                 "transformFlags": 0,
                                 "start": 35,
                                 "end": 40
                             },
+                            "incrementor": null,
                             "statement": {
                                 "kind": 168,
                                 "flags": 16,
@@ -85,7 +85,7 @@ async function f() {
                                 "start": 42,
                                 "end": 43
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 20,
                             "end": 43

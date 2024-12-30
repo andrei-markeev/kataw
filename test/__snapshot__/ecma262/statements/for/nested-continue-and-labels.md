@@ -93,29 +93,6 @@ function relativeComplement() {
                                 },
                                 "initializer": null,
                                 "condition": {
-                                    "kind": 127,
-                                    "operandToken": {
-                                        "kind": 196635,
-                                        "flags": 96,
-                                        "transformFlags": 0,
-                                        "start": 80,
-                                        "end": 82
-                                    },
-                                    "operand": {
-                                        "kind": 134299649,
-                                        "text": "offsetB",
-                                        "rawText": "offsetB",
-                                        "flags": 96,
-                                        "transformFlags": 0,
-                                        "start": 72,
-                                        "end": 80
-                                    },
-                                    "flags": 32,
-                                    "transformFlags": 0,
-                                    "start": 72,
-                                    "end": 82
-                                },
-                                "incrementor": {
                                     "kind": 198,
                                     "left": {
                                         "kind": 134299649,
@@ -153,15 +130,38 @@ function relativeComplement() {
                                             "start": 65,
                                             "end": 71
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 57,
                                         "end": 71
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 47,
                                     "end": 71
+                                },
+                                "incrementor": {
+                                    "kind": 127,
+                                    "operandToken": {
+                                        "kind": 196635,
+                                        "flags": 96,
+                                        "transformFlags": 0,
+                                        "start": 80,
+                                        "end": 82
+                                    },
+                                    "operand": {
+                                        "kind": 134299649,
+                                        "text": "offsetB",
+                                        "rawText": "offsetB",
+                                        "flags": 96,
+                                        "transformFlags": 0,
+                                        "start": 72,
+                                        "end": 80
+                                    },
+                                    "flags": 32,
+                                    "transformFlags": 0,
+                                    "start": 72,
+                                    "end": 82
                                 },
                                 "statement": {
                                     "kind": 124,
@@ -197,29 +197,6 @@ function relativeComplement() {
                                                     },
                                                     "initializer": null,
                                                     "condition": {
-                                                        "kind": 127,
-                                                        "operandToken": {
-                                                            "kind": 196635,
-                                                            "flags": 96,
-                                                            "transformFlags": 0,
-                                                            "start": 136,
-                                                            "end": 138
-                                                        },
-                                                        "operand": {
-                                                            "kind": 134299649,
-                                                            "text": "offsetA",
-                                                            "rawText": "offsetA",
-                                                            "flags": 96,
-                                                            "transformFlags": 0,
-                                                            "start": 128,
-                                                            "end": 136
-                                                        },
-                                                        "flags": 32,
-                                                        "transformFlags": 0,
-                                                        "start": 128,
-                                                        "end": 138
-                                                    },
-                                                    "incrementor": {
                                                         "kind": 198,
                                                         "left": {
                                                             "kind": 134299649,
@@ -257,15 +234,38 @@ function relativeComplement() {
                                                                 "start": 121,
                                                                 "end": 127
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 113,
                                                             "end": 127
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 103,
                                                         "end": 127
+                                                    },
+                                                    "incrementor": {
+                                                        "kind": 127,
+                                                        "operandToken": {
+                                                            "kind": 196635,
+                                                            "flags": 96,
+                                                            "transformFlags": 0,
+                                                            "start": 136,
+                                                            "end": 138
+                                                        },
+                                                        "operand": {
+                                                            "kind": 134299649,
+                                                            "text": "offsetA",
+                                                            "rawText": "offsetA",
+                                                            "flags": 96,
+                                                            "transformFlags": 0,
+                                                            "start": 128,
+                                                            "end": 136
+                                                        },
+                                                        "flags": 32,
+                                                        "transformFlags": 0,
+                                                        "start": 128,
+                                                        "end": 138
                                                     },
                                                     "statement": {
                                                         "kind": 124,
@@ -545,7 +545,7 @@ function relativeComplement() {
                                                                         "start": 200,
                                                                         "end": 291
                                                                     },
-                                                                    "flags": 81,
+                                                                    "flags": 17,
                                                                     "transformFlags": 0,
                                                                     "start": 141,
                                                                     "end": 299
@@ -561,7 +561,7 @@ function relativeComplement() {
                                                         "start": 139,
                                                         "end": 305
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 0,
                                                     "start": 96,
                                                     "end": 305
@@ -595,7 +595,7 @@ function relativeComplement() {
                                                             "start": 315,
                                                             "end": 319
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 305,
                                                         "end": 319
@@ -656,7 +656,7 @@ function relativeComplement() {
                                     "start": 83,
                                     "end": 340
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 40,
                                 "end": 340
@@ -684,7 +684,7 @@ function relativeComplement() {
                                 "start": 348,
                                 "end": 355
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 340,
                             "end": 356

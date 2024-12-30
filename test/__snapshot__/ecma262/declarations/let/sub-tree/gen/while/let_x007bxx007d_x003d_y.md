@@ -56,7 +56,7 @@ while (a) let {x} = y;
                 "start": 9,
                 "end": 13
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 13

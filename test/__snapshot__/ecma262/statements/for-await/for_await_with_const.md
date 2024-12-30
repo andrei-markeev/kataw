@@ -146,7 +146,7 @@ async function f() { for await (const x of y) {} }
                                 "start": 45,
                                 "end": 48
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 20,
                             "end": 48

@@ -62,7 +62,7 @@ do {} while (x) { catch try {}
                 "start": 13,
                 "end": 14
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 15
@@ -115,7 +115,7 @@ do {} while (x) { catch try {}
                                 "start": 23,
                                 "end": 23
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 17,
                             "end": 23

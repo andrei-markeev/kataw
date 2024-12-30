@@ -142,7 +142,7 @@ switch(0) { default: function f(){ break; } }
                 "start": 11,
                 "end": 43
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 45

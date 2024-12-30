@@ -92,7 +92,7 @@ do function while while
                 "start": 17,
                 "end": 17
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 17
@@ -131,7 +131,7 @@ do function while while
                 "start": 23,
                 "end": 23
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 17,
             "end": 23

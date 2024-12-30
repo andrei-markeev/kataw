@@ -139,7 +139,7 @@ function f() {
                                     "start": 103,
                                     "end": 116
                                 },
-                                "flags": 81,
+                                "flags": 17,
                                 "transformFlags": 256,
                                 "start": 92,
                                 "end": 117
@@ -199,7 +199,7 @@ function f() {
                                                             "start": 148,
                                                             "end": 157
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 137,
                                                         "end": 157
@@ -276,7 +276,7 @@ function f() {
                                                             "start": 184,
                                                             "end": 193
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 171,
                                                         "end": 193
@@ -311,7 +311,7 @@ function f() {
                                                                     "start": 204,
                                                                     "end": 206
                                                                 },
-                                                                "flags": 96,
+                                                                "flags": 32,
                                                                 "transformFlags": 5120,
                                                                 "start": 194,
                                                                 "end": 206
@@ -345,12 +345,12 @@ function f() {
                                     "start": 135,
                                     "end": 208
                                 },
-                                "flags": 81,
+                                "flags": 17,
                                 "transformFlags": 256,
                                 "start": 124,
                                 "end": 209
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 76,
                             "end": 209
@@ -479,7 +479,7 @@ function f() {
                                     "start": 254,
                                     "end": 267
                                 },
-                                "flags": 81,
+                                "flags": 17,
                                 "transformFlags": 256,
                                 "start": 243,
                                 "end": 268
@@ -539,7 +539,7 @@ function f() {
                                                             "start": 306,
                                                             "end": 315
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 288,
                                                         "end": 315
@@ -616,7 +616,7 @@ function f() {
                                                             "start": 348,
                                                             "end": 357
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 329,
                                                         "end": 357
@@ -651,7 +651,7 @@ function f() {
                                                                     "start": 368,
                                                                     "end": 370
                                                                 },
-                                                                "flags": 96,
+                                                                "flags": 32,
                                                                 "transformFlags": 5120,
                                                                 "start": 358,
                                                                 "end": 370
@@ -685,12 +685,12 @@ function f() {
                                     "start": 286,
                                     "end": 377
                                 },
-                                "flags": 81,
+                                "flags": 17,
                                 "transformFlags": 256,
                                 "start": 275,
                                 "end": 378
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 227,
                             "end": 378

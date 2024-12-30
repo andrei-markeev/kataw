@@ -166,7 +166,7 @@ function () { for (const x in { a: x }) { } }
                                 "start": 39,
                                 "end": 43
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 13,
                             "end": 43

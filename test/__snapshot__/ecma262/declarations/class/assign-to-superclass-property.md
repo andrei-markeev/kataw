@@ -159,7 +159,7 @@ class B extends A {
                                                             "start": 70,
                                                             "end": 81
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 56,
                                                         "end": 81
@@ -191,7 +191,7 @@ class B extends A {
                                                                 "start": 89,
                                                                 "end": 100
                                                             },
-                                                            "flags": 96,
+                                                            "flags": 32,
                                                             "transformFlags": 2,
                                                             "start": 83,
                                                             "end": 100
@@ -212,7 +212,7 @@ class B extends A {
                                                             "start": 102,
                                                             "end": 104
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 5120,
                                                         "start": 83,
                                                         "end": 104

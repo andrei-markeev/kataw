@@ -107,8 +107,7 @@ for (let {x:y=z});
                 "start": 0,
                 "end": 16
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -117,6 +116,7 @@ for (let {x:y=z});
                 "start": 16,
                 "end": 16
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -124,7 +124,7 @@ for (let {x:y=z});
                 "start": 17,
                 "end": 18
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 18

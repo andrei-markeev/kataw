@@ -109,7 +109,7 @@ for (function(){ if (a in b); }.prop in x);
                                             "start": 25,
                                             "end": 27
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 21,
                                         "end": 27
@@ -123,7 +123,7 @@ for (function(){ if (a in b); }.prop in x);
                                     },
                                     "elseKeyword": null,
                                     "alternate": null,
-                                    "flags": 80,
+                                    "flags": 16,
                                     "transformFlags": 0,
                                     "start": 16,
                                     "end": 29
@@ -182,7 +182,7 @@ for (function(){ if (a in b); }.prop in x);
                 "start": 42,
                 "end": 43
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 43

@@ -104,12 +104,12 @@ foo: while (true) if (x); else continue foo;
                         "start": 30,
                         "end": 44
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 17,
                     "end": 44
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 4,
                 "end": 44

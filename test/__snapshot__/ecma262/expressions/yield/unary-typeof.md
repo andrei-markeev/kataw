@@ -106,7 +106,7 @@ function *f() {  return typeof yield foo;  }
                                 "start": 23,
                                 "end": 40
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 256,
                             "start": 15,
                             "end": 41

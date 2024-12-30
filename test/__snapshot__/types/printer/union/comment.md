@@ -111,7 +111,7 @@ const myValue = (callcallcallcallcallcall(87689769876876897698768768976987687689
                             "start": 139,
                             "end": 143
                         },
-                        "flags": 97,
+                        "flags": 33,
                         "transformFlags": 5120,
                         "start": 88,
                         "end": 143
@@ -132,7 +132,7 @@ const myValue = (callcallcallcallcallcall(87689769876876897698768768976987687689
                         "start": 144,
                         "end": 149
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 88,
                     "end": 149
@@ -153,7 +153,7 @@ const myValue = (callcallcallcallcallcall(87689769876876897698768768976987687689
                     "start": 151,
                     "end": 231
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 88,
                 "end": 231

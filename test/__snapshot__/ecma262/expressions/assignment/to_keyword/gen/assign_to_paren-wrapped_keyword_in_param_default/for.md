@@ -112,8 +112,7 @@ async (x = (for) = f) => {}
                 "start": 15,
                 "end": 15
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -122,6 +121,7 @@ async (x = (for) = f) => {}
                 "start": 15,
                 "end": 15
             },
+            "incrementor": null,
             "statement": {
                 "kind": 120,
                 "expression": {
@@ -161,7 +161,7 @@ async (x = (for) = f) => {}
                 "start": 16,
                 "end": 20
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 12,
             "end": 20

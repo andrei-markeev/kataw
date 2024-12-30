@@ -93,7 +93,7 @@ x[y] = 0;
                         "start": 9,
                         "end": 10
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 6,
                     "end": 10

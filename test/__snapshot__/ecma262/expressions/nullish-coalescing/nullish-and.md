@@ -64,7 +64,7 @@ a ?? (b && c);
                             "start": 10,
                             "end": 12
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 4,
                         "end": 12
@@ -74,7 +74,7 @@ a ?? (b && c);
                     "start": 4,
                     "end": 13
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 13

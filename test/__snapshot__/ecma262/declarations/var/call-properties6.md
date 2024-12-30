@@ -218,7 +218,7 @@ var c: { (x: string): string } = function (x: number): string { return "hi"; };
                                                 "start": 70,
                                                 "end": 75
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 63,
                                             "end": 76

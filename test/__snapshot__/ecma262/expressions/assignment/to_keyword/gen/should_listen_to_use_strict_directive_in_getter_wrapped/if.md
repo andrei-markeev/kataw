@@ -175,7 +175,7 @@ foo = {
                                                     },
                                                     "elseKeyword": null,
                                                     "alternate": null,
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 0,
                                                     "start": 42,
                                                     "end": 50

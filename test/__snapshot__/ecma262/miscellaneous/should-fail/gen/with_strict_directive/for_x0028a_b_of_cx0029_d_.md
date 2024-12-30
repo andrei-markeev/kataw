@@ -70,21 +70,21 @@
             },
             "condition": {
                 "kind": 134299649,
-                "text": "c",
-                "rawText": "c",
-                "flags": 96,
-                "transformFlags": 0,
-                "start": 25,
-                "end": 27
-            },
-            "incrementor": {
-                "kind": 134299649,
                 "text": "of",
                 "rawText": "of",
                 "flags": 96,
                 "transformFlags": 0,
                 "start": 22,
                 "end": 25
+            },
+            "incrementor": {
+                "kind": 134299649,
+                "text": "c",
+                "rawText": "c",
+                "flags": 96,
+                "transformFlags": 0,
+                "start": 25,
+                "end": 27
             },
             "statement": {
                 "kind": 120,
@@ -102,7 +102,7 @@
                 "start": 28,
                 "end": 31
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 13,
             "end": 31

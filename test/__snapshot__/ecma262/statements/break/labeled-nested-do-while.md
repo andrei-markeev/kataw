@@ -104,7 +104,7 @@ function f(){ do        if (x) break y   ; while(true);}
                                 },
                                 "elseKeyword": null,
                                 "alternate": null,
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 16,
                                 "end": 42
@@ -123,7 +123,7 @@ function f(){ do        if (x) break y   ; while(true);}
                                 "start": 49,
                                 "end": 53
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 13,
                             "end": 55

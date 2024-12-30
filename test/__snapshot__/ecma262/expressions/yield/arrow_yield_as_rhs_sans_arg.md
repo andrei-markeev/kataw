@@ -122,7 +122,7 @@ function *g() { async (x = x + yield) => x; }
                                                     "start": 30,
                                                     "end": 36
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 26,
                                                 "end": 36

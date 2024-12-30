@@ -107,7 +107,7 @@ do do do class x {} while while while
                         "start": 25,
                         "end": 25
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 5,
                     "end": 25
@@ -128,7 +128,7 @@ do do do class x {} while while while
                     "start": 31,
                     "end": 31
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 31
@@ -149,7 +149,7 @@ do do do class x {} while while while
                 "start": 37,
                 "end": 37
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 37

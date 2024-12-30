@@ -83,12 +83,12 @@ foo( a + b instanceof c )
                                     "start": 21,
                                     "end": 23
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 10,
                                 "end": 23
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 4,
                             "end": 23

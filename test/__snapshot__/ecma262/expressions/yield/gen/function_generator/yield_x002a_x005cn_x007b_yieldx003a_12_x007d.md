@@ -131,7 +131,7 @@ function * gen() { function not_gen() { yield * \n { yield: 12 } }}
                                                     "start": 47,
                                                     "end": 47
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 39,
                                                 "end": 47

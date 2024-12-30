@@ -96,8 +96,7 @@
                 "start": 15,
                 "end": 22
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -106,6 +105,7 @@
                 "start": 22,
                 "end": 22
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -113,7 +113,7 @@
                 "start": 23,
                 "end": 24
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 15,
             "end": 24

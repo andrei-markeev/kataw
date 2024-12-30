@@ -124,7 +124,7 @@
                                                         "start": 19,
                                                         "end": 30
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 10,
                                                     "end": 30

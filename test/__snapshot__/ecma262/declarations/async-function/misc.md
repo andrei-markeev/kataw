@@ -131,7 +131,7 @@ function test1() {
                                                 "start": 54,
                                                 "end": 57
                                             },
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 256,
                                             "start": 43,
                                             "end": 58

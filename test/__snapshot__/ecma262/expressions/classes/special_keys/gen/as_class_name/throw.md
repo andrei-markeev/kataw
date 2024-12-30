@@ -89,7 +89,7 @@ class throw {}
                 "start": 11,
                 "end": 14
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 5,
             "end": 14

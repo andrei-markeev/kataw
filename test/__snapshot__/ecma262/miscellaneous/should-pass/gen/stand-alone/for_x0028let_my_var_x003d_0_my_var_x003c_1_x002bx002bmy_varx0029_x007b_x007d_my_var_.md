@@ -81,29 +81,6 @@ for (let my_var = 0; my_var < 1; ++my_var) { } my_var;
                 "end": 19
             },
             "condition": {
-                "kind": 128,
-                "operandToken": {
-                    "kind": 196635,
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 32,
-                    "end": 35
-                },
-                "operand": {
-                    "kind": 134299649,
-                    "text": "my_var",
-                    "rawText": "my_var",
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 35,
-                    "end": 41
-                },
-                "flags": 32,
-                "transformFlags": 16384,
-                "start": 32,
-                "end": 41
-            },
-            "incrementor": {
                 "kind": 198,
                 "left": {
                     "kind": 134299649,
@@ -130,10 +107,33 @@ for (let my_var = 0; my_var < 1; ++my_var) { } my_var;
                     "start": 29,
                     "end": 31
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 20,
                 "end": 31
+            },
+            "incrementor": {
+                "kind": 128,
+                "operandToken": {
+                    "kind": 196635,
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 32,
+                    "end": 35
+                },
+                "operand": {
+                    "kind": 134299649,
+                    "text": "my_var",
+                    "rawText": "my_var",
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 35,
+                    "end": 41
+                },
+                "flags": 32,
+                "transformFlags": 16384,
+                "start": 32,
+                "end": 41
             },
             "statement": {
                 "kind": 124,
@@ -150,7 +150,7 @@ for (let my_var = 0; my_var < 1; ++my_var) { } my_var;
                 "start": 42,
                 "end": 46
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 46

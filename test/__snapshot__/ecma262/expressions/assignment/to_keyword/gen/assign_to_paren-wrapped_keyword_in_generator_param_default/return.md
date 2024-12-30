@@ -135,7 +135,7 @@ function *f(x = (return) = f) {}
                 "start": 23,
                 "end": 23
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 256,
             "start": 17,
             "end": 23

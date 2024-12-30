@@ -110,7 +110,7 @@ do do do function while while while while
                         "start": 23,
                         "end": 23
                     },
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 5,
                     "end": 23
@@ -131,7 +131,7 @@ do do do function while while while while
                     "start": 29,
                     "end": 29
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 29
@@ -152,7 +152,7 @@ do do do function while while while while
                 "start": 35,
                 "end": 35
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 35
@@ -191,7 +191,7 @@ do do do function while while while while
                 "start": 41,
                 "end": 41
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 35,
             "end": 41

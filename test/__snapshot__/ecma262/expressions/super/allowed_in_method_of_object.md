@@ -94,7 +94,7 @@ x={ foo(){ super.foo; }}
                                                             "start": 17,
                                                             "end": 20
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 10,
                                                         "end": 20

@@ -157,7 +157,7 @@ var f: { (): mixed } = function(): string { return "hi" } // return types
                                                 "start": 50,
                                                 "end": 55
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 43,
                                             "end": 55

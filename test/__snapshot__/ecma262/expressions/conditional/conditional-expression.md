@@ -313,7 +313,7 @@ async function f2() {
                                                     "start": 117,
                                                     "end": 120
                                                 },
-                                                "flags": 97,
+                                                "flags": 33,
                                                 "transformFlags": 2,
                                                 "start": 106,
                                                 "end": 120
@@ -370,7 +370,7 @@ async function f2() {
                                                                             "start": 148,
                                                                             "end": 155
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 139,
                                                                         "end": 155
@@ -428,7 +428,7 @@ async function f2() {
                                                                             "start": 171,
                                                                             "end": 178
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 162,
                                                                         "end": 178
@@ -626,7 +626,7 @@ async function f2() {
                                                     "start": 252,
                                                     "end": 263
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 2,
                                                 "start": 240,
                                                 "end": 263
@@ -653,7 +653,7 @@ async function f2() {
                                             "start": 240,
                                             "end": 270
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 225,
                                         "end": 270
@@ -729,7 +729,7 @@ async function f2() {
                                             "start": 306,
                                             "end": 317
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 294,
                                         "end": 317

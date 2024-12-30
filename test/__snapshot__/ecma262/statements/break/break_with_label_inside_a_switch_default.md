@@ -106,7 +106,7 @@ foo: switch (x) { default: break foo; }
                     "start": 17,
                     "end": 37
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 4,
                 "end": 39

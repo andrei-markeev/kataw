@@ -69,7 +69,7 @@ x: for(;;) break x
                     "start": 10,
                     "end": 18
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 18
@@ -110,7 +110,7 @@ x: for(;;) break x
                         "start": 20,
                         "end": 21
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 18,
                     "end": 21
@@ -131,7 +131,7 @@ x: for(;;) break x
                     "start": 22,
                     "end": 23
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 18,
                 "end": 23

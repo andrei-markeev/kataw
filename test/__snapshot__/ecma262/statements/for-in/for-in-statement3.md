@@ -176,7 +176,7 @@ for (var a: number in expr) {
                 "start": 42,
                 "end": 46
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 14,
             "end": 46

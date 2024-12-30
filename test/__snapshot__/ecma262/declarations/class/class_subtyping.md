@@ -296,7 +296,7 @@ class D extends C<O> {
                                                         "start": 61,
                                                         "end": 62
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2,
                                                     "start": 55,
                                                     "end": 62

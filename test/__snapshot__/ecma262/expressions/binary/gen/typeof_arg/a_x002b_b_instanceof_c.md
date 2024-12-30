@@ -83,7 +83,7 @@ typeof a + b instanceof c
                         "start": 23,
                         "end": 25
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 12,
                     "end": 25

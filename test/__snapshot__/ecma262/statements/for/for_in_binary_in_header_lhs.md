@@ -86,7 +86,7 @@ for (x in a>c;;) x
                     "start": 12,
                     "end": 13
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 9,
                 "end": 13
@@ -98,7 +98,7 @@ for (x in a>c;;) x
                 "start": 13,
                 "end": 14
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 14

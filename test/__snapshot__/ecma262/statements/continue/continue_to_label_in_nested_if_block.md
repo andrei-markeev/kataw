@@ -108,12 +108,12 @@ foo: while (true) if (x) { continue foo; }
                     },
                     "elseKeyword": null,
                     "alternate": null,
-                    "flags": 80,
+                    "flags": 16,
                     "transformFlags": 0,
                     "start": 17,
                     "end": 42
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 4,
                 "end": 42

@@ -60,7 +60,7 @@ async () => {return}
                                     "end": 19
                                 },
                                 "expression": null,
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 256,
                                 "start": 13,
                                 "end": 19

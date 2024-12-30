@@ -107,7 +107,7 @@ async async => {}
                     "start": 19,
                     "end": 21
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 17,
                 "end": 21

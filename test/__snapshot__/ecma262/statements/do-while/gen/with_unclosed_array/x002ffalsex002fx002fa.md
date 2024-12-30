@@ -65,7 +65,7 @@ do[ /false//a
                                     "start": 12,
                                     "end": 13
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 3,
                                 "end": 13
@@ -97,7 +97,7 @@ do[ /false//a
                 "start": 13,
                 "end": 13
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 13

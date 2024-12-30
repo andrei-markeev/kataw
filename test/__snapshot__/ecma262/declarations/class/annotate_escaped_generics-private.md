@@ -249,7 +249,7 @@ class I<X> {
                                                     "start": 48,
                                                     "end": 50
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 37,
                                                 "end": 51
@@ -380,7 +380,7 @@ class I<X> {
                                                             "start": 77,
                                                             "end": 79
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 67,
                                                         "end": 79
@@ -433,7 +433,7 @@ class I<X> {
                                                             "start": 94,
                                                             "end": 96
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 84,
                                                         "end": 96

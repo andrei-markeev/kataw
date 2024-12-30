@@ -111,7 +111,7 @@ for ({}[y] ^= x;;) x;
                 "start": 17,
                 "end": 20
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 20
@@ -198,7 +198,7 @@ for ({}[y] ^= x;;) x;
                 "start": 41,
                 "end": 44
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 20,
             "end": 44
@@ -285,7 +285,7 @@ for ({}[y] ^= x;;) x;
                 "start": 63,
                 "end": 66
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 44,
             "end": 66
@@ -372,7 +372,7 @@ for ({}[y] ^= x;;) x;
                 "start": 86,
                 "end": 89
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 66,
             "end": 89

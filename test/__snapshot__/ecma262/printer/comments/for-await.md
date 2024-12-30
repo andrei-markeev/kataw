@@ -124,7 +124,7 @@ for /*2*/ await /*3*/(x /*4*/of /*5*/ y/*6*/) /*7*/ {}
                                 "start": 61,
                                 "end": 70
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 20,
                             "end": 70
@@ -245,7 +245,7 @@ for /*2*/ await /*3*/(x /*4*/of /*5*/ y/*6*/) /*7*/ {}
                                 "start": 146,
                                 "end": 155
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 94,
                             "end": 155

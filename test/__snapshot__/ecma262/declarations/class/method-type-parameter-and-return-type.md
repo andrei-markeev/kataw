@@ -179,7 +179,7 @@ class Foo7<T> {
                                                     "start": 42,
                                                     "end": 45
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 256,
                                                 "start": 35,
                                                 "end": 46

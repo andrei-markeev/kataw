@@ -70,7 +70,7 @@ export default new Foo();
                     "start": 23,
                     "end": 23
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2048,
                 "start": 14,
                 "end": 24

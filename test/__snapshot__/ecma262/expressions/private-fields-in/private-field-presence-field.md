@@ -167,12 +167,12 @@ class Class {
                                                         "start": 72,
                                                         "end": 78
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 5120,
                                                     "start": 62,
                                                     "end": 78
                                                 },
-                                                "flags": 81,
+                                                "flags": 17,
                                                 "transformFlags": 256,
                                                 "start": 51,
                                                 "end": 79

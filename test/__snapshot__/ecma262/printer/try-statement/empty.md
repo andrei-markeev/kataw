@@ -81,7 +81,7 @@ try {
                     "start": 17,
                     "end": 21
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 7,
                 "end": 21
@@ -170,7 +170,7 @@ try {
                     "start": 52,
                     "end": 56
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 42,
                 "end": 56

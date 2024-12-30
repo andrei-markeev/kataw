@@ -303,7 +303,7 @@ for (aLongIdentifierName = 0, aLongIdentifierName = 0, aLongIdentifierName = 0, 
                                         "start": 153,
                                         "end": 236
                                     },
-                                    "flags": 81,
+                                    "flags": 17,
                                     "transformFlags": 256,
                                     "start": 145,
                                     "end": 237
@@ -411,7 +411,7 @@ for (aLongIdentifierName = 0, aLongIdentifierName = 0, aLongIdentifierName = 0, 
                         "start": 328,
                         "end": 332
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 325,
                     "end": 332
@@ -662,21 +662,21 @@ for (aLongIdentifierName = 0, aLongIdentifierName = 0, aLongIdentifierName = 0, 
             },
             "condition": {
                 "kind": 134299649,
-                "text": "update",
-                "rawText": "update",
-                "flags": 96,
-                "transformFlags": 0,
-                "start": 536,
-                "end": 543
-            },
-            "incrementor": {
-                "kind": 134299649,
                 "text": "test",
                 "rawText": "test",
                 "flags": 96,
                 "transformFlags": 0,
                 "start": 530,
                 "end": 535
+            },
+            "incrementor": {
+                "kind": 134299649,
+                "text": "update",
+                "rawText": "update",
+                "flags": 96,
+                "transformFlags": 0,
+                "start": 536,
+                "end": 543
             },
             "statement": {
                 "kind": 124,
@@ -693,7 +693,7 @@ for (aLongIdentifierName = 0, aLongIdentifierName = 0, aLongIdentifierName = 0, 
                 "start": 544,
                 "end": 547
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 425,
             "end": 547
@@ -803,7 +803,7 @@ for (aLongIdentifierName = 0, aLongIdentifierName = 0, aLongIdentifierName = 0, 
                                                         "start": 580,
                                                         "end": 582
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 573,
                                                     "end": 583
@@ -940,7 +940,7 @@ for (aLongIdentifierName = 0, aLongIdentifierName = 0, aLongIdentifierName = 0, 
                                                         "start": 622,
                                                         "end": 624
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 615,
                                                     "end": 625
@@ -1077,7 +1077,7 @@ for (aLongIdentifierName = 0, aLongIdentifierName = 0, aLongIdentifierName = 0, 
                                                         "start": 664,
                                                         "end": 666
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 657,
                                                     "end": 667
@@ -1214,7 +1214,7 @@ for (aLongIdentifierName = 0, aLongIdentifierName = 0, aLongIdentifierName = 0, 
                                                         "start": 706,
                                                         "end": 708
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 699,
                                                     "end": 709
@@ -1351,7 +1351,7 @@ for (aLongIdentifierName = 0, aLongIdentifierName = 0, aLongIdentifierName = 0, 
                                                         "start": 748,
                                                         "end": 750
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 741,
                                                     "end": 751

@@ -135,12 +135,12 @@ function f(
                                     "start": 70,
                                     "end": 72
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 66,
                                 "end": 72
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 57,
                             "end": 73

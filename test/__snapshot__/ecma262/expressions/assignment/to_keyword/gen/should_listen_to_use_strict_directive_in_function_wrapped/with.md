@@ -143,7 +143,7 @@ function f() {
                                 "start": 43,
                                 "end": 44
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 34,
                             "end": 44

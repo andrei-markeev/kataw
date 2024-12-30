@@ -118,7 +118,7 @@ async function p(){
                                             "end": 43
                                         },
                                         "argumentList": null,
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2048,
                                         "start": 37,
                                         "end": 43

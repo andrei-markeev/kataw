@@ -44,7 +44,7 @@ new a.b.c.d()
                                     "end": 5
                                 },
                                 "argumentList": null,
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2048,
                                 "start": 0,
                                 "end": 5
@@ -58,7 +58,7 @@ new a.b.c.d()
                                 "start": 6,
                                 "end": 7
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2,
                             "start": 0,
                             "end": 7
@@ -72,7 +72,7 @@ new a.b.c.d()
                             "start": 8,
                             "end": 9
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 2,
                         "start": 0,
                         "end": 9
@@ -86,7 +86,7 @@ new a.b.c.d()
                         "start": 10,
                         "end": 11
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2,
                     "start": 0,
                     "end": 11

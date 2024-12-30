@@ -150,7 +150,7 @@ default /* comment 6 */ : /* comment 7 */ foo;
                 "start": 46,
                 "end": 159
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 162

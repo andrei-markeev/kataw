@@ -90,7 +90,7 @@ catch ([v] = b) {}
                     "start": 17,
                     "end": 17
                 },
-                "flags": 81,
+                "flags": 17,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 17

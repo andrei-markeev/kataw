@@ -293,7 +293,7 @@ function remove<A, B>(a: A): [$Rest<A, {p: B}>, B] {
                                 "start": 84,
                                 "end": 91
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 75,
                             "end": 92

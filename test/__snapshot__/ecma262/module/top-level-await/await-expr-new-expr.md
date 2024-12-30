@@ -166,7 +166,7 @@ await new Promise(function(res, rej) { res(1); });
                         "start": 18,
                         "end": 48
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2048,
                     "start": 5,
                     "end": 49

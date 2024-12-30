@@ -101,14 +101,14 @@ async function f() {
                                 "start": 20,
                                 "end": 39
                             },
-                            "condition": null,
-                            "incrementor": {
+                            "condition": {
                                 "kind": 205586437,
                                 "flags": 96,
                                 "transformFlags": 0,
                                 "start": 40,
                                 "end": 45
                             },
+                            "incrementor": null,
                             "statement": {
                                 "kind": 168,
                                 "flags": 16,
@@ -116,7 +116,7 @@ async function f() {
                                 "start": 47,
                                 "end": 48
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 20,
                             "end": 48

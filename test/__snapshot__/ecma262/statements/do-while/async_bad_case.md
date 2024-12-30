@@ -67,7 +67,7 @@ do async
                 "start": 8,
                 "end": 13
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 13
@@ -128,7 +128,7 @@ do async
                 "start": 26,
                 "end": 26
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 16,
             "end": 26

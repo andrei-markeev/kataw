@@ -46,7 +46,7 @@ a === b ? c : d % e;
                         "start": 5,
                         "end": 7
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 7
@@ -101,12 +101,12 @@ a === b ? c : d % e;
                         "start": 17,
                         "end": 19
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 13,
                     "end": 19
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 4096,
                 "start": 0,
                 "end": 19

@@ -96,7 +96,7 @@ function f(){ "use strict"; with (x) y; }
                                 "start": 36,
                                 "end": 39
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 27,
                             "end": 39

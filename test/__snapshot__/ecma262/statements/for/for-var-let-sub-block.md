@@ -143,7 +143,7 @@ for (var x;;) { { let x; } }
                 "start": 13,
                 "end": 28
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 28
@@ -273,7 +273,7 @@ for (var x;;) { { let x; } }
                 "start": 43,
                 "end": 58
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 28,
             "end": 58

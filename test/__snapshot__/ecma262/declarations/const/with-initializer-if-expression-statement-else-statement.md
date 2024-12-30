@@ -69,7 +69,7 @@ if (true) {} else const x = 1;
                 "start": 17,
                 "end": 17
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 17

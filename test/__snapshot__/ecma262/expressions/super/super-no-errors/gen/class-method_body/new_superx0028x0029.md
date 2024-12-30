@@ -113,7 +113,7 @@ class C { m() { new super(); }
                                                         "start": 26,
                                                         "end": 26
                                                     },
-                                                    "flags": 96,
+                                                    "flags": 32,
                                                     "transformFlags": 2048,
                                                     "start": 15,
                                                     "end": 27

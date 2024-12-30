@@ -100,7 +100,7 @@
                                                             "end": 23
                                                         },
                                                         "argumentList": null,
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2048,
                                                         "start": 13,
                                                         "end": 23

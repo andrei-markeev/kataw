@@ -128,7 +128,7 @@ async  <T, U>(x) >> y - z;
                                     "start": 23,
                                     "end": 25
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 5120,
                                 "start": 21,
                                 "end": 25
@@ -138,7 +138,7 @@ async  <T, U>(x) >> y - z;
                             "start": 16,
                             "end": 25
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 10,
                         "end": 25

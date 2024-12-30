@@ -104,12 +104,12 @@ x = { a: a + b / c }
                                             "start": 16,
                                             "end": 18
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 14,
                                         "end": 18
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 5,
                                     "end": 18

@@ -81,7 +81,7 @@ new it(/* comment */)
                     "start": 35,
                     "end": 35
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 2048,
                 "start": 22,
                 "end": 49
@@ -152,7 +152,7 @@ new it(/* comment */)
                     "start": 83,
                     "end": 83
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 2048,
                 "start": 71,
                 "end": 97
@@ -223,7 +223,7 @@ new it(/* comment */)
                     "start": 123,
                     "end": 123
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 2048,
                 "start": 115,
                 "end": 137

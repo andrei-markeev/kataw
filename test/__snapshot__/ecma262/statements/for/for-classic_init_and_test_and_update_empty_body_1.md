@@ -54,21 +54,21 @@ for (a;b;c);
             },
             "condition": {
                 "kind": 134299649,
-                "text": "c",
-                "rawText": "c",
-                "flags": 96,
-                "transformFlags": 0,
-                "start": 9,
-                "end": 10
-            },
-            "incrementor": {
-                "kind": 134299649,
                 "text": "b",
                 "rawText": "b",
                 "flags": 96,
                 "transformFlags": 0,
                 "start": 7,
                 "end": 8
+            },
+            "incrementor": {
+                "kind": 134299649,
+                "text": "c",
+                "rawText": "c",
+                "flags": 96,
+                "transformFlags": 0,
+                "start": 9,
+                "end": 10
             },
             "statement": {
                 "kind": 168,
@@ -77,7 +77,7 @@ for (a;b;c);
                 "start": 11,
                 "end": 12
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 12

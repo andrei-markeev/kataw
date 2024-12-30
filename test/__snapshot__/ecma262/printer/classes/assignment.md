@@ -43,7 +43,7 @@ module.exports = class A extends B {
                         "start": 7,
                         "end": 14
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2,
                     "start": 0,
                     "end": 14
@@ -165,7 +165,7 @@ module.exports = class A extends B {
                                                                     "start": 63,
                                                                     "end": 66
                                                                 },
-                                                                "flags": 97,
+                                                                "flags": 33,
                                                                 "transformFlags": 2,
                                                                 "start": 50,
                                                                 "end": 66

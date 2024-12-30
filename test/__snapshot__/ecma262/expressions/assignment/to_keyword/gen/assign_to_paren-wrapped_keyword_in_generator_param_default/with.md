@@ -174,7 +174,7 @@ function *f(x = (with) = f) {}
                 "start": 22,
                 "end": 26
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 17,
             "end": 26

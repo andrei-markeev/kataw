@@ -135,7 +135,7 @@ try {} catch (e) { for (var e;;) {} }
                                     "start": 32,
                                     "end": 35
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 18,
                                 "end": 35
@@ -151,7 +151,7 @@ try {} catch (e) { for (var e;;) {} }
                     "start": 16,
                     "end": 37
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 37

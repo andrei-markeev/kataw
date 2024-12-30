@@ -120,7 +120,7 @@ export { \u0061bc }
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 12,
             "end": 32

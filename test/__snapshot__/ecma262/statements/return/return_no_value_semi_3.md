@@ -70,7 +70,7 @@ function f(){   return 15;    }
                                 "start": 22,
                                 "end": 25
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 256,
                             "start": 13,
                             "end": 26

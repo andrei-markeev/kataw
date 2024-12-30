@@ -155,7 +155,7 @@ async function foo(a = () => { "use strict"; return eval =>("x"); }) {}
                                                 "start": 51,
                                                 "end": 64
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 44,
                                             "end": 65

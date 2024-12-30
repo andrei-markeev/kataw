@@ -332,7 +332,7 @@ export const [destructuredArrNumber] = [1]
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 153,
             "end": 181
@@ -399,7 +399,7 @@ export const [destructuredArrNumber] = [1]
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 181,
             "end": 235
@@ -452,7 +452,7 @@ export const [destructuredArrNumber] = [1]
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 235,
             "end": 262
@@ -524,7 +524,7 @@ export const [destructuredArrNumber] = [1]
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 262,
             "end": 321
@@ -593,7 +593,7 @@ export const [destructuredArrNumber] = [1]
                                     "start": 370,
                                     "end": 373
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 256,
                                 "start": 363,
                                 "end": 374
@@ -634,7 +634,7 @@ export const [destructuredArrNumber] = [1]
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 321,
             "end": 376
@@ -752,7 +752,7 @@ export const [destructuredArrNumber] = [1]
                                                         "start": 440,
                                                         "end": 443
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 433,
                                                     "end": 444
@@ -798,7 +798,7 @@ export const [destructuredArrNumber] = [1]
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 377,
             "end": 447
@@ -898,7 +898,7 @@ export const [destructuredArrNumber] = [1]
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 448,
             "end": 502
@@ -1016,7 +1016,7 @@ export const [destructuredArrNumber] = [1]
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 502,
             "end": 569
@@ -1117,7 +1117,7 @@ export const [destructuredArrNumber] = [1]
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 569,
             "end": 612

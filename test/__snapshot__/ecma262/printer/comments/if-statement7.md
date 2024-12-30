@@ -50,7 +50,7 @@ if /* comment 1 */ (/* comment 2 */x/* comment 3 */) {/* comment 4 */} // commen
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 70

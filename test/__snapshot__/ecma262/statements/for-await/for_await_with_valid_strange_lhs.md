@@ -94,7 +94,7 @@ async function f() { for await ("foo".x of y) {} }
                                     "start": 38,
                                     "end": 39
                                 },
-                                "flags": 96,
+                                "flags": 32,
                                 "transformFlags": 2,
                                 "start": 32,
                                 "end": 39
@@ -130,7 +130,7 @@ async function f() { for await ("foo".x of y) {} }
                                 "start": 45,
                                 "end": 48
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 20,
                             "end": 48

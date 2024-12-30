@@ -62,7 +62,7 @@ do a instanceof b + c while (x);
                             "start": 15,
                             "end": 17
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 2,
                         "end": 17
@@ -83,7 +83,7 @@ do a instanceof b + c while (x);
                         "start": 19,
                         "end": 21
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 2,
                     "end": 21
@@ -109,7 +109,7 @@ do a instanceof b + c while (x);
                 "start": 29,
                 "end": 30
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 32

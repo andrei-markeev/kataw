@@ -81,29 +81,6 @@ for (var let = 1; let < 1; let++) {}
                 "end": 17
             },
             "condition": {
-                "kind": 127,
-                "operandToken": {
-                    "kind": 196635,
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 30,
-                    "end": 32
-                },
-                "operand": {
-                    "kind": 134299649,
-                    "text": "let",
-                    "rawText": "let",
-                    "flags": 96,
-                    "transformFlags": 0,
-                    "start": 26,
-                    "end": 30
-                },
-                "flags": 32,
-                "transformFlags": 0,
-                "start": 26,
-                "end": 32
-            },
-            "incrementor": {
                 "kind": 198,
                 "left": {
                     "kind": 134299649,
@@ -130,10 +107,33 @@ for (var let = 1; let < 1; let++) {}
                     "start": 23,
                     "end": 25
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 17,
                 "end": 25
+            },
+            "incrementor": {
+                "kind": 127,
+                "operandToken": {
+                    "kind": 196635,
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 30,
+                    "end": 32
+                },
+                "operand": {
+                    "kind": 134299649,
+                    "text": "let",
+                    "rawText": "let",
+                    "flags": 96,
+                    "transformFlags": 0,
+                    "start": 26,
+                    "end": 30
+                },
+                "flags": 32,
+                "transformFlags": 0,
+                "start": 26,
+                "end": 32
             },
             "statement": {
                 "kind": 124,
@@ -150,7 +150,7 @@ for (var let = 1; let < 1; let++) {}
                 "start": 33,
                 "end": 36
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 36

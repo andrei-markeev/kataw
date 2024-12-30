@@ -173,7 +173,7 @@ while (await new Promise(function(res, rej) { res(1); })) { break; }
                         "start": 25,
                         "end": 55
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 2048,
                     "start": 12,
                     "end": 56
@@ -214,7 +214,7 @@ while (await new Promise(function(res, rej) { res(1); })) { break; }
                 "start": 57,
                 "end": 68
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 68

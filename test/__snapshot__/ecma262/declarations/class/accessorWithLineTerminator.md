@@ -134,7 +134,7 @@ class C {
                                                     "start": 34,
                                                     "end": 36
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 256,
                                                 "start": 27,
                                                 "end": 36

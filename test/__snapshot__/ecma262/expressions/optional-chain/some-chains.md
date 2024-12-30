@@ -425,7 +425,7 @@ z.z?.(a)?.b?.x?.x?.x.x.x;
                                             "start": 39,
                                             "end": 40
                                         },
-                                        "flags": 97,
+                                        "flags": 33,
                                         "transformFlags": 2,
                                         "start": 35,
                                         "end": 40
@@ -439,7 +439,7 @@ z.z?.(a)?.b?.x?.x?.x.x.x;
                                         "start": 41,
                                         "end": 42
                                     },
-                                    "flags": 97,
+                                    "flags": 33,
                                     "transformFlags": 2,
                                     "start": 35,
                                     "end": 42
@@ -664,7 +664,7 @@ z.z?.(a)?.b?.x?.x?.x.x.x;
                                             "start": 63,
                                             "end": 64
                                         },
-                                        "flags": 97,
+                                        "flags": 33,
                                         "transformFlags": 2,
                                         "start": 59,
                                         "end": 64
@@ -1272,7 +1272,7 @@ z.z?.(a)?.b?.x?.x?.x.x.x;
                                                 "start": 132,
                                                 "end": 133
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 2,
                                             "start": 127,
                                             "end": 133
@@ -1286,7 +1286,7 @@ z.z?.(a)?.b?.x?.x?.x.x.x;
                                             "start": 134,
                                             "end": 135
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 127,
                                         "end": 135
@@ -1518,7 +1518,7 @@ z.z?.(a)?.b?.x?.x?.x.x.x;
                                                 "start": 158,
                                                 "end": 159
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 2,
                                             "start": 153,
                                             "end": 159

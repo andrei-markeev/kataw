@@ -235,7 +235,7 @@ class x extends y { constructor(){ return async function() { return async functi
                                                                         "start": 67,
                                                                         "end": 100
                                                                     },
-                                                                    "flags": 80,
+                                                                    "flags": 16,
                                                                     "transformFlags": 256,
                                                                     "start": 60,
                                                                     "end": 100
@@ -257,7 +257,7 @@ class x extends y { constructor(){ return async function() { return async functi
                                                     "start": 41,
                                                     "end": 102
                                                 },
-                                                "flags": 80,
+                                                "flags": 16,
                                                 "transformFlags": 256,
                                                 "start": 34,
                                                 "end": 102

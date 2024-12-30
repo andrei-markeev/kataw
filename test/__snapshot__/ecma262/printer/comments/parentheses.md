@@ -505,7 +505,7 @@ const foo = /*12*/class extends (Bar ?? Baz) {}
                                 "start": 170,
                                 "end": 174
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 5120,
                             "start": 156,
                             "end": 174
@@ -615,7 +615,7 @@ const foo = /*12*/class extends (Bar ?? Baz) {}
                                                 "start": 224,
                                                 "end": 228
                                             },
-                                            "flags": 96,
+                                            "flags": 32,
                                             "transformFlags": 5120,
                                             "start": 216,
                                             "end": 228

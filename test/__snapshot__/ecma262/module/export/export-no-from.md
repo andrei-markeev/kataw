@@ -111,7 +111,7 @@ export { x }
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 6,
             "end": 19

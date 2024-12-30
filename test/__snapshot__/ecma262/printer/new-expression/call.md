@@ -71,7 +71,7 @@ new (factory())(factory())
                     "start": 16,
                     "end": 16
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2048,
                 "start": 0,
                 "end": 17
@@ -112,7 +112,7 @@ new (factory())(factory())
                         "start": 30,
                         "end": 30
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2048,
                     "start": 17,
                     "end": 31
@@ -214,7 +214,7 @@ new (factory())(factory())
                     "start": 51,
                     "end": 60
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 2048,
                 "start": 33,
                 "end": 61

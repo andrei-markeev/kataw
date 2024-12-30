@@ -212,7 +212,7 @@ L: let
                     "start": 44,
                     "end": 48
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 32,
                 "end": 48
@@ -619,7 +619,7 @@ L: let
                     "start": 178,
                     "end": 180
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 171,
                 "end": 180
@@ -929,7 +929,7 @@ L: let
                                                     "start": 262,
                                                     "end": 269
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 257,
                                                 "end": 269

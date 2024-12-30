@@ -51,7 +51,7 @@ instance.method()<_>();
                                 "start": 9,
                                 "end": 15
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2,
                             "start": 0,
                             "end": 15

@@ -106,7 +106,7 @@ while(y
                     "start": 17,
                     "end": 19
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 2,
                 "end": 19
@@ -127,7 +127,7 @@ while(y
                 "start": 26,
                 "end": 27
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 27

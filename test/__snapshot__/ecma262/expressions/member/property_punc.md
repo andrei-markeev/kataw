@@ -43,7 +43,7 @@ y.)
                     "start": 2,
                     "end": 2
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 2,
                 "start": 0,
                 "end": 2

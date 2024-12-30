@@ -183,7 +183,7 @@ var x, y, z; for (x in { import.meta } = z = {});
                 "start": 36,
                 "end": 36
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 12,
             "end": 36

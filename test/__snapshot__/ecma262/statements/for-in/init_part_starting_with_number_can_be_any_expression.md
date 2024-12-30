@@ -88,18 +88,17 @@ for (2 + b in obj);
                         "start": 13,
                         "end": 17
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 10,
                     "end": 17
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 17
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -108,6 +107,7 @@ for (2 + b in obj);
                 "start": 17,
                 "end": 17
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -115,7 +115,7 @@ for (2 + b in obj);
                 "start": 18,
                 "end": 19
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 19

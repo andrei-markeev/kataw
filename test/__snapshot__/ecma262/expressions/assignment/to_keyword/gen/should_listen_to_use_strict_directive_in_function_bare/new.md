@@ -95,7 +95,7 @@ function f() {
                                         "end": 36
                                     },
                                     "argumentList": null,
-                                    "flags": 97,
+                                    "flags": 33,
                                     "transformFlags": 2048,
                                     "start": 30,
                                     "end": 36

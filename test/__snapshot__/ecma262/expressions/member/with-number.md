@@ -50,7 +50,7 @@
                                     "start": 4,
                                     "end": 10
                                 },
-                                "flags": 32864,
+                                "flags": 32800,
                                 "transformFlags": 2,
                                 "start": 1,
                                 "end": 10

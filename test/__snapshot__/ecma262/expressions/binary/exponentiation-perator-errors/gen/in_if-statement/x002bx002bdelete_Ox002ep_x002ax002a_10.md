@@ -188,7 +188,7 @@ var O = { p: 1 }, x = 10; ; if (++delete O.p ** 10) { foo(); }
                                 "start": 43,
                                 "end": 44
                             },
-                            "flags": 96,
+                            "flags": 32,
                             "transformFlags": 2,
                             "start": 40,
                             "end": 44
@@ -274,7 +274,7 @@ var O = { p: 1 }, x = 10; ; if (++delete O.p ** 10) { foo(); }
             },
             "elseKeyword": null,
             "alternate": null,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 27,
             "end": 62

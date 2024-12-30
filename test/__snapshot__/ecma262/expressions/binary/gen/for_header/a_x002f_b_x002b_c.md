@@ -60,7 +60,7 @@ for ( a / b + c ;;);
                         "start": 9,
                         "end": 11
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 0,
                     "end": 11
@@ -81,7 +81,7 @@ for ( a / b + c ;;);
                     "start": 13,
                     "end": 15
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 15
@@ -95,7 +95,7 @@ for ( a / b + c ;;);
                 "start": 19,
                 "end": 20
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 20

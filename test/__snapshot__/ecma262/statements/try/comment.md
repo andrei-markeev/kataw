@@ -103,7 +103,7 @@ fn(function f() {
                                         "start": 52,
                                         "end": 55
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 22,
                                     "end": 55
@@ -122,7 +122,7 @@ fn(function f() {
                                 "start": 22,
                                 "end": 57
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 14,
                             "end": 58
@@ -214,7 +214,7 @@ fn(function f() {
                                             "start": 119,
                                             "end": 122
                                         },
-                                        "flags": 97,
+                                        "flags": 33,
                                         "transformFlags": 2,
                                         "start": 84,
                                         "end": 122
@@ -238,7 +238,7 @@ fn(function f() {
                                 "start": 84,
                                 "end": 128
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 0,
                             "start": 76,
                             "end": 129
@@ -345,7 +345,7 @@ fn(function f() {
                                                             "start": 193,
                                                             "end": 196
                                                         },
-                                                        "flags": 97,
+                                                        "flags": 33,
                                                         "transformFlags": 2,
                                                         "start": 158,
                                                         "end": 196
@@ -369,7 +369,7 @@ fn(function f() {
                                                 "start": 158,
                                                 "end": 202
                                             },
-                                            "flags": 81,
+                                            "flags": 17,
                                             "transformFlags": 0,
                                             "start": 150,
                                             "end": 203

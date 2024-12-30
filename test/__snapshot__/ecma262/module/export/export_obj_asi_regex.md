@@ -50,7 +50,7 @@ export {}
             "exportFromClause": null,
             "fromClause": null,
             "exportKind": 0,
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 9
@@ -86,7 +86,7 @@ export {}
                         "start": 11,
                         "end": 14
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 9,
                     "end": 14
@@ -107,7 +107,7 @@ export {}
                     "start": 15,
                     "end": 15
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 9,
                 "end": 15

@@ -63,7 +63,7 @@ for /*2*/(x /*3*/in /*4*/ y) /*5*/ {}
                 "start": 96,
                 "end": 114
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 114
@@ -117,7 +117,7 @@ for /*2*/(x /*3*/in /*4*/ y) /*5*/ {}
                 "start": 168,
                 "end": 177
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 114,
             "end": 177

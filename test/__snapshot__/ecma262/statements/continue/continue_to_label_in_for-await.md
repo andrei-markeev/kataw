@@ -140,7 +140,7 @@ async function f(){ foo: for await (x of y) continue foo; }
                                     "start": 43,
                                     "end": 57
                                 },
-                                "flags": 80,
+                                "flags": 16,
                                 "transformFlags": 0,
                                 "start": 24,
                                 "end": 57

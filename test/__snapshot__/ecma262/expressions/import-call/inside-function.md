@@ -123,7 +123,7 @@ function loadImport(file) {
                                 "start": 43,
                                 "end": 62
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 27,
                             "end": 63

@@ -122,8 +122,7 @@ for (let {[x]: y = z} = a);
                 "start": 0,
                 "end": 25
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 16637,
                 "text": "",
                 "rawText": "",
@@ -132,6 +131,7 @@ for (let {[x]: y = z} = a);
                 "start": 25,
                 "end": 25
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -139,7 +139,7 @@ for (let {[x]: y = z} = a);
                 "start": 26,
                 "end": 27
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 27

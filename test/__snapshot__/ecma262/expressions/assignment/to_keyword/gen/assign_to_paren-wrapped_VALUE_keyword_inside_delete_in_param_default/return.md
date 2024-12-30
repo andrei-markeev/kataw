@@ -156,7 +156,7 @@ function *f(x = delete ((return) = f)) {}
                 "start": 31,
                 "end": 31
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 256,
             "start": 25,
             "end": 31

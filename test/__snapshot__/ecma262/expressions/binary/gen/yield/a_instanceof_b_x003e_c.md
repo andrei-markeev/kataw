@@ -109,7 +109,7 @@ function *f() {
                                             "start": 36,
                                             "end": 38
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 23,
                                         "end": 38
@@ -130,7 +130,7 @@ function *f() {
                                         "start": 40,
                                         "end": 42
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 23,
                                     "end": 42

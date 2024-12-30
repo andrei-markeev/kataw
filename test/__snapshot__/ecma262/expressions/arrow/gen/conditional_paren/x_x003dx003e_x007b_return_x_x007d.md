@@ -105,7 +105,7 @@ bar ? baz : ( x => { return x; } );
                                             "start": 27,
                                             "end": 29
                                         },
-                                        "flags": 80,
+                                        "flags": 16,
                                         "transformFlags": 256,
                                         "start": 20,
                                         "end": 30

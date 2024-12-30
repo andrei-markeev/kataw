@@ -89,7 +89,7 @@ function bar(a = [1 + 1]) {
                                             "start": 21,
                                             "end": 23
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 18,
                                         "end": 23
@@ -211,7 +211,7 @@ function bar(a = [1 + 1]) {
                                             "start": 52,
                                             "end": 54
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 5120,
                                         "start": 49,
                                         "end": 54

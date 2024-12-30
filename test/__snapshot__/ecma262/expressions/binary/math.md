@@ -83,12 +83,12 @@ x << y | z;
                         "start": 7,
                         "end": 9
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 5,
                     "end": 9
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 9
@@ -129,7 +129,7 @@ x << y | z;
                         "start": 14,
                         "end": 16
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 10,
                     "end": 16
@@ -150,7 +150,7 @@ x << y | z;
                     "start": 18,
                     "end": 20
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 10,
                 "end": 20
@@ -207,12 +207,12 @@ x << y | z;
                         "start": 30,
                         "end": 32
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 28,
                     "end": 32
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 21,
                 "end": 32
@@ -253,7 +253,7 @@ x << y | z;
                         "start": 37,
                         "end": 39
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 33,
                     "end": 39
@@ -274,7 +274,7 @@ x << y | z;
                     "start": 41,
                     "end": 43
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 33,
                 "end": 43
@@ -315,7 +315,7 @@ x << y | z;
                         "start": 48,
                         "end": 50
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 44,
                     "end": 50
@@ -336,7 +336,7 @@ x << y | z;
                     "start": 52,
                     "end": 54
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 44,
                 "end": 54
@@ -377,7 +377,7 @@ x << y | z;
                         "start": 59,
                         "end": 61
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 55,
                     "end": 61
@@ -398,7 +398,7 @@ x << y | z;
                     "start": 63,
                     "end": 65
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 55,
                 "end": 65
@@ -439,7 +439,7 @@ x << y | z;
                         "start": 71,
                         "end": 73
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 66,
                     "end": 73
@@ -460,7 +460,7 @@ x << y | z;
                     "start": 75,
                     "end": 77
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 66,
                 "end": 77
@@ -501,7 +501,7 @@ x << y | z;
                         "start": 84,
                         "end": 86
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 78,
                     "end": 86
@@ -522,7 +522,7 @@ x << y | z;
                     "start": 89,
                     "end": 91
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 78,
                 "end": 91
@@ -563,7 +563,7 @@ x << y | z;
                         "start": 98,
                         "end": 100
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 92,
                     "end": 100
@@ -584,7 +584,7 @@ x << y | z;
                     "start": 103,
                     "end": 105
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 92,
                 "end": 105
@@ -625,7 +625,7 @@ x << y | z;
                         "start": 112,
                         "end": 114
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 106,
                     "end": 114
@@ -646,7 +646,7 @@ x << y | z;
                     "start": 118,
                     "end": 120
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 106,
                 "end": 120
@@ -703,12 +703,12 @@ x << y | z;
                         "start": 130,
                         "end": 132
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 127,
                     "end": 132
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 121,
                 "end": 132
@@ -765,12 +765,12 @@ x << y | z;
                         "start": 142,
                         "end": 144
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 140,
                     "end": 144
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 133,
                 "end": 144
@@ -811,7 +811,7 @@ x << y | z;
                         "start": 149,
                         "end": 151
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 145,
                     "end": 151
@@ -832,7 +832,7 @@ x << y | z;
                     "start": 153,
                     "end": 155
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 145,
                 "end": 155
@@ -873,7 +873,7 @@ x << y | z;
                         "start": 160,
                         "end": 162
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 156,
                     "end": 162
@@ -894,7 +894,7 @@ x << y | z;
                     "start": 164,
                     "end": 166
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 156,
                 "end": 166
@@ -935,7 +935,7 @@ x << y | z;
                         "start": 171,
                         "end": 173
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 167,
                     "end": 173
@@ -956,7 +956,7 @@ x << y | z;
                     "start": 175,
                     "end": 177
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 167,
                 "end": 177
@@ -997,7 +997,7 @@ x << y | z;
                         "start": 182,
                         "end": 184
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 178,
                     "end": 184
@@ -1018,7 +1018,7 @@ x << y | z;
                     "start": 186,
                     "end": 188
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 178,
                 "end": 188
@@ -1075,12 +1075,12 @@ x << y | z;
                         "start": 198,
                         "end": 200
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 195,
                     "end": 200
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 189,
                 "end": 200
@@ -1121,7 +1121,7 @@ x << y | z;
                         "start": 206,
                         "end": 208
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 5120,
                     "start": 201,
                     "end": 208
@@ -1142,7 +1142,7 @@ x << y | z;
                     "start": 210,
                     "end": 212
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 201,
                 "end": 212

@@ -146,8 +146,7 @@ label: for (let x = 0; x < 10;) {
                     "start": 21,
                     "end": 36
                 },
-                "condition": null,
-                "incrementor": {
+                "condition": {
                     "kind": 198,
                     "left": {
                         "kind": 134299649,
@@ -174,11 +173,12 @@ label: for (let x = 0; x < 10;) {
                         "start": 41,
                         "end": 44
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 37,
                     "end": 44
                 },
+                "incrementor": null,
                 "statement": {
                     "kind": 124,
                     "block": {
@@ -278,7 +278,7 @@ label: for (let x = 0; x < 10;) {
                     "start": 46,
                     "end": 86
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 21,
                 "end": 86

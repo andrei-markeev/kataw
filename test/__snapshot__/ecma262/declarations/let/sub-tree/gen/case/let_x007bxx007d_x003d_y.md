@@ -147,7 +147,7 @@ switch (a) { case b: let {x} = y }
                 "start": 12,
                 "end": 32
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 34

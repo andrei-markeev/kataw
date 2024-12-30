@@ -152,7 +152,7 @@ x={ foo(){ return () => function() { super.foo; } }}
                                                                                     "start": 43,
                                                                                     "end": 46
                                                                                 },
-                                                                                "flags": 96,
+                                                                                "flags": 32,
                                                                                 "transformFlags": 2,
                                                                                 "start": 36,
                                                                                 "end": 46
@@ -184,7 +184,7 @@ x={ foo(){ return () => function() { super.foo; } }}
                                                         "start": 17,
                                                         "end": 49
                                                     },
-                                                    "flags": 80,
+                                                    "flags": 16,
                                                     "transformFlags": 256,
                                                     "start": 10,
                                                     "end": 49

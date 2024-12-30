@@ -71,12 +71,12 @@ a ** (b * c);
                         "start": 9,
                         "end": 11
                     },
-                    "flags": 96,
+                    "flags": 32,
                     "transformFlags": 5120,
                     "start": 6,
                     "end": 11
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 0,
                 "end": 11
@@ -119,7 +119,7 @@ a ** (b * c);
                             "start": 18,
                             "end": 20
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 12,
                         "end": 20
@@ -179,7 +179,7 @@ a ** (b * c);
                         "start": 30,
                         "end": 31
                     },
-                    "flags": 97,
+                    "flags": 33,
                     "transformFlags": 2,
                     "start": 27,
                     "end": 31
@@ -200,7 +200,7 @@ a ** (b * c);
                     "start": 34,
                     "end": 36
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 27,
                 "end": 36
@@ -313,7 +313,7 @@ a ** (b * c);
                     "start": 53,
                     "end": 56
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 48,
                 "end": 56
@@ -363,7 +363,7 @@ a ** (b * c);
                             "start": 63,
                             "end": 64
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 59,
                         "end": 64
@@ -416,7 +416,7 @@ a ** (b * c);
                             "start": 71,
                             "end": 73
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 66,
                         "end": 73
@@ -501,7 +501,7 @@ a ** (b * c);
                             "start": 90,
                             "end": 92
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 85,
                         "end": 92
@@ -511,7 +511,7 @@ a ** (b * c);
                     "start": 85,
                     "end": 93
                 },
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 5120,
                 "start": 80,
                 "end": 93
@@ -554,7 +554,7 @@ a ** (b * c);
                             "start": 99,
                             "end": 101
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 94,
                         "end": 101

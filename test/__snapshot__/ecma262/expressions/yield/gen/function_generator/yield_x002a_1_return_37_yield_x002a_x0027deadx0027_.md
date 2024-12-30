@@ -131,7 +131,7 @@ function * gen() { function not_gen() { yield * 1; return 37; yield * 'dead'; }}
                                                     "start": 47,
                                                     "end": 49
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 39,
                                                 "end": 49
@@ -159,7 +159,7 @@ function * gen() { function not_gen() { yield * 1; return 37; yield * 'dead'; }}
                                                 "start": 57,
                                                 "end": 60
                                             },
-                                            "flags": 80,
+                                            "flags": 16,
                                             "transformFlags": 256,
                                             "start": 50,
                                             "end": 61
@@ -193,7 +193,7 @@ function * gen() { function not_gen() { yield * 1; return 37; yield * 'dead'; }}
                                                     "start": 69,
                                                     "end": 76
                                                 },
-                                                "flags": 96,
+                                                "flags": 32,
                                                 "transformFlags": 5120,
                                                 "start": 61,
                                                 "end": 76

@@ -41,7 +41,7 @@ switch /* comment 1 */ (x) /* comment 2 */   {} /* comment 3 */
                 "start": 46,
                 "end": 46
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 47

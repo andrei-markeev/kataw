@@ -141,7 +141,7 @@ async (x = delete ((switch) = f)) => {}
                 "start": 27,
                 "end": 27
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 20,
             "end": 27

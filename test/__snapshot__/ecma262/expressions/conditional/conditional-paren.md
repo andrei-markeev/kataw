@@ -72,7 +72,7 @@ a ? (1 + 2) : (3 + 4)
                             "start": 8,
                             "end": 10
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 5,
                         "end": 10
@@ -118,7 +118,7 @@ a ? (1 + 2) : (3 + 4)
                             "start": 18,
                             "end": 20
                         },
-                        "flags": 96,
+                        "flags": 32,
                         "transformFlags": 5120,
                         "start": 15,
                         "end": 20

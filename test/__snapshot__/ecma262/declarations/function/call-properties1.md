@@ -289,7 +289,7 @@ function a(f: { (): string; (x: number): string }): string {
                                 "start": 69,
                                 "end": 82
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 60,
                             "end": 83

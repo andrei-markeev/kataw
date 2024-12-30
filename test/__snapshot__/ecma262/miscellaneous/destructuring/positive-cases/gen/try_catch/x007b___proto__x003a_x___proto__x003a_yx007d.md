@@ -139,7 +139,7 @@ try {} catch({ __proto__: x, __proto__: y}) {}
                     "start": 43,
                     "end": 46
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 6,
                 "end": 46

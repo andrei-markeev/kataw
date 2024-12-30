@@ -135,7 +135,7 @@ await (var {[Symbol.iterator]: a = 1} of []) ; }
                                                                         "start": 59,
                                                                         "end": 67
                                                                     },
-                                                                    "flags": 96,
+                                                                    "flags": 32,
                                                                     "transformFlags": 2,
                                                                     "start": 52,
                                                                     "end": 67
@@ -228,7 +228,7 @@ await (var {[Symbol.iterator]: a = 1} of []) ; }
                                 "start": 83,
                                 "end": 85
                             },
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 34,
                             "end": 85

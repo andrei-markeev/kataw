@@ -2211,7 +2211,7 @@
                                         "start": 414,
                                         "end": 416
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 5120,
                                     "start": 408,
                                     "end": 416
@@ -2283,7 +2283,7 @@
                                         "end": 430
                                     },
                                     "argumentList": null,
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2048,
                                     "start": 424,
                                     "end": 430
@@ -2365,7 +2365,7 @@
                                             "start": 448,
                                             "end": 449
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 445,
                                         "end": 449
@@ -4228,7 +4228,7 @@
                                         "start": 821,
                                         "end": 822
                                     },
-                                    "flags": 96,
+                                    "flags": 32,
                                     "transformFlags": 2,
                                     "start": 819,
                                     "end": 822
@@ -4309,7 +4309,7 @@
                                             "start": 836,
                                             "end": 837
                                         },
-                                        "flags": 96,
+                                        "flags": 32,
                                         "transformFlags": 2,
                                         "start": 834,
                                         "end": 837

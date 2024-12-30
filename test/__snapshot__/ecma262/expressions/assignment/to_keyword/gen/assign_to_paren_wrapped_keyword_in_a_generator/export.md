@@ -104,7 +104,7 @@ function *f(){
                             "exportFromClause": null,
                             "fromClause": null,
                             "exportKind": 0,
-                            "flags": 80,
+                            "flags": 16,
                             "transformFlags": 0,
                             "start": 18,
                             "end": 24

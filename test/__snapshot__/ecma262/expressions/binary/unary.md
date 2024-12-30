@@ -77,7 +77,7 @@ const anyTestFailures = !(
                                                 "start": 47,
                                                 "end": 61
                                             },
-                                            "flags": 97,
+                                            "flags": 33,
                                             "transformFlags": 2,
                                             "start": 25,
                                             "end": 61
@@ -98,7 +98,7 @@ const anyTestFailures = !(
                                             "start": 65,
                                             "end": 67
                                         },
-                                        "flags": 97,
+                                        "flags": 33,
                                         "transformFlags": 5120,
                                         "start": 25,
                                         "end": 67
@@ -132,7 +132,7 @@ const anyTestFailures = !(
                                                 "start": 91,
                                                 "end": 116
                                             },
-                                            "flags": 97,
+                                            "flags": 33,
                                             "transformFlags": 2,
                                             "start": 70,
                                             "end": 116
@@ -153,12 +153,12 @@ const anyTestFailures = !(
                                             "start": 120,
                                             "end": 122
                                         },
-                                        "flags": 97,
+                                        "flags": 33,
                                         "transformFlags": 5120,
                                         "start": 116,
                                         "end": 122
                                     },
-                                    "flags": 97,
+                                    "flags": 33,
                                     "transformFlags": 5120,
                                     "start": 25,
                                     "end": 122

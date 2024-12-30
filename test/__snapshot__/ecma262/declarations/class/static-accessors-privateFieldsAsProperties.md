@@ -133,7 +133,7 @@ new C;
                                                             "start": 33,
                                                             "end": 35
                                                         },
-                                                        "flags": 96,
+                                                        "flags": 32,
                                                         "transformFlags": 2,
                                                         "start": 30,
                                                         "end": 35
@@ -289,7 +289,7 @@ new C;
                                                                             "start": 81,
                                                                             "end": 83
                                                                         },
-                                                                        "flags": 96,
+                                                                        "flags": 32,
                                                                         "transformFlags": 2,
                                                                         "start": 79,
                                                                         "end": 83
@@ -412,7 +412,7 @@ new C;
                     "end": 105
                 },
                 "argumentList": null,
-                "flags": 97,
+                "flags": 33,
                 "transformFlags": 2048,
                 "start": 98,
                 "end": 105

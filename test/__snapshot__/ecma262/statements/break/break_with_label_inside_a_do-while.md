@@ -81,7 +81,7 @@ foo: do break foo; while(foo);
                     "start": 25,
                     "end": 28
                 },
-                "flags": 80,
+                "flags": 16,
                 "transformFlags": 0,
                 "start": 4,
                 "end": 30

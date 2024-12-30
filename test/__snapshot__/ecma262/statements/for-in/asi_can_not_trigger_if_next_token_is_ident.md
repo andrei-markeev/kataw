@@ -66,8 +66,7 @@ foo() in x);
                 "start": 0,
                 "end": 12
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 198,
                 "left": {
                     "kind": 16637,
@@ -94,11 +93,12 @@ foo() in x);
                     "start": 17,
                     "end": 19
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 12,
                 "end": 19
             },
+            "incrementor": null,
             "statement": {
                 "kind": 168,
                 "flags": 16,
@@ -106,7 +106,7 @@ foo() in x);
                 "start": 20,
                 "end": 21
             },
-            "flags": 80,
+            "flags": 16,
             "transformFlags": 0,
             "start": 0,
             "end": 21

@@ -306,7 +306,7 @@ function *infer_stmt() {
                                 "start": 150,
                                 "end": 152
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 141,
                             "end": 153
@@ -471,7 +471,7 @@ function *infer_stmt() {
                                 "start": 226,
                                 "end": 229
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 217,
                             "end": 230
@@ -717,7 +717,7 @@ function *infer_stmt() {
                                 "start": 295,
                                 "end": 298
                             },
-                            "flags": 81,
+                            "flags": 17,
                             "transformFlags": 256,
                             "start": 286,
                             "end": 299

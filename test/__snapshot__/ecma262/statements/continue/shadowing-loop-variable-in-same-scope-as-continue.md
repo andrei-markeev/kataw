@@ -131,8 +131,7 @@ for (let x = 0; x < 10;) {
                 "start": 14,
                 "end": 29
             },
-            "condition": null,
-            "incrementor": {
+            "condition": {
                 "kind": 198,
                 "left": {
                     "kind": 134299649,
@@ -159,11 +158,12 @@ for (let x = 0; x < 10;) {
                     "start": 34,
                     "end": 37
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 30,
                 "end": 37
             },
+            "incrementor": null,
             "statement": {
                 "kind": 124,
                 "block": {
@@ -320,7 +320,7 @@ for (let x = 0; x < 10;) {
                 "start": 39,
                 "end": 104
             },
-            "flags": 81,
+            "flags": 17,
             "transformFlags": 0,
             "start": 14,
             "end": 104

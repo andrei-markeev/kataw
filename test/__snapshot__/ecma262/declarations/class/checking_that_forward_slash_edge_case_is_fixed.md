@@ -145,7 +145,7 @@ class x { static / foo(){} }
                     "start": 18,
                     "end": 24
                 },
-                "flags": 96,
+                "flags": 32,
                 "transformFlags": 5120,
                 "start": 16,
                 "end": 24
