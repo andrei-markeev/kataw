@@ -584,6 +584,7 @@ export function visitEachChild(
         visitNode((<ConditionalExpression>node).shortCircuit, visitor) ||
         (<ConditionalExpression>node).questionToken !==
           visitNode((<ConditionalExpression>node).questionToken, visitor) ||
+        (<ConditionalExpression>node).consequent !== visitNode((<ConditionalExpression>node).consequent, visitor) ||
         (<ConditionalExpression>node).colonToken !== visitNode((<ConditionalExpression>node).colonToken, visitor) ||
         (<ConditionalExpression>node).alternate !== visitNode((<ConditionalExpression>node).alternate, visitor)
         ? createConditionalExpression(
