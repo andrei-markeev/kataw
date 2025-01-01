@@ -78,7 +78,7 @@ export { createSpreadElement, SpreadElement } from './ast/expressions/spread-ele
 export { createNewTarget, NewTarget } from './ast/expressions/new-target';
 export { createYieldExpression, YieldExpression } from './ast/expressions/yield-expr';
 export { createNewExpression, NewExpression } from './ast/expressions/new-expr';
-export { createArgumentList, ArgumentList } from './ast/expressions/argument-list';
+export { createArgumentList, ArgumentList, ArgumentListElement } from './ast/expressions/argument-list';
 export { createFunctionBody, FunctionBody } from './ast/expressions/function-body';
 export { createFunctionExpression, FunctionExpression } from './ast/expressions/function-expr';
 export { createFunctionStatementList, FunctionStatementList } from './ast/expressions/function-stmt-list';
