@@ -9,7 +9,6 @@ export interface SyntaxNode {
   transformFlags: TransformFlags;
   start: number;
   end: number;
-  parent?: SyntaxNode;
 }
 
 // DO NOT EDIT THIS CONSTANTS UNLESS YOU KNOW WHAT YOU ARE DOING!!!

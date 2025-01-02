@@ -87,7 +87,7 @@ export { createElison, Elison } from './ast/expressions/elison';
 export { createBindingElementList, BindingElementList } from './ast/expressions/binding-element-list';
 export { createBindingElement, BindingElement } from './ast/expressions/binding-element';
 export { createArrayBindingPattern, ArrayBindingPattern } from './ast/expressions/array-binding-pattern';
-export { createElementList, ElementList } from './ast/expressions/element-list';
+export { createElementList, ElementList, ListElements } from './ast/expressions/element-list';
 export { createBindingProperty, BindingProperty } from './ast/expressions/binding-property';
 export { createBindingPropertyList, BindingPropertyList } from './ast/expressions/binding-property-list';
 export { createObjectBindingPattern, ObjectBindingPattern } from './ast/expressions/object-binding-pattern';
