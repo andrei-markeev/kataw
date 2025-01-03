@@ -294,7 +294,7 @@ export enum SyntaxKind {
   Modulo = 35639,
   ModuloAssign = 4134,
   MultiLineComment = 320,
-  Multiply = 201360950,
+  Multiply = 201362230,
   MultiplyAssign = 4132,
   NameSpaceImport = 255,
   NamedExports = 266,
